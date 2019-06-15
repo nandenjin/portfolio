@@ -10,3 +10,8 @@ thumbnail: /assets/works/carillon/carillon_front.jpg
 建物全体を利用した、時を知らせるオブジェ。
 
 動作時刻になると建物の明かりが点き、時報の鐘が鳴る。
+
+![](/assets/works/carillon/carillon_center.jpg)
+![](/assets/works/carillon/carillon_zoom.jpg)
+![](/assets/works/carillon/carillon_audience-0.jpg)
+![](/assets/works/carillon/carillon_audience-1.jpg)
