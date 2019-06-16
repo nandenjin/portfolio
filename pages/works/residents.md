@@ -4,7 +4,16 @@ title_ja: 住人たち
 creator: Kazumi Inada
 materials: Installation
 year: 2019
+tags: art installation exhitbition-ham19
+info: 平砂アートムーヴメント2019「ここにおいて みせる/みる」の展示作品として製作。建物は筑波大学平砂学生宿舎9号棟で、老朽化によりすでに使われなくなったもの。
+thumbnail: /assets/works/residents/residents_zoom-0.jpg
 ---
+
+![](/assets/works/residents/residents_zoom-0.jpg)
+![](/assets/works/residents/residents_front-0.jpg)
+![](/assets/works/residents/residents_right.jpg)
+![](/assets/works/residents/residents_zoom-1.jpg)
+![](/assets/works/residents/residents_front-1.jpg)
 
 学生の住処の灯りと平砂9号棟の部屋の灯りを連動させ、廃宿舎となった9号棟を蘇らせる作品。
 

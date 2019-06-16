@@ -4,7 +4,11 @@ title_ja: デザイン・パターン
 creator: Kazumi Inada
 materials: Generative Video (Loop)
 year: 2019
+tags: art video exhibition-ham19
+thumbnail: /assets/works/design-pattern/design-pattern_0.png
 ---
+
+![](/assets/works/design-pattern/design-pattern_0.png)
 
 自身のデザインの作業過程をロジック化し、計算機に移植した映像展示。
 
