@@ -6,6 +6,7 @@ materials: Generative Video (Loop)
 year: 2019
 tags: art video exhibition-ham19
 thumbnail: /assets/works/design-pattern/design-pattern_0.png
+release: 2019-05-20
 ---
 
 ![](/assets/works/design-pattern/design-pattern_0.png)
