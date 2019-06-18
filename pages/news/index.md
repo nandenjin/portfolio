@@ -1,0 +1,1 @@
+- [平砂アートムーヴメント展示企画に参加します / Hirasuna Art Movement Exhibition](/pages/news/190501_ham19.md)
