@@ -1,1 +1,4 @@
 - [平砂アートムーヴメント展示企画に参加します / Hirasuna Art Movement Exhibition](/pages/news/190501_ham19.md)
+- [「リズム」が「創房大賞」を受賞しました / C"Rhythm" gets "openfab SOBO Award 2019"](/pages/news/190121_sobo-award.md)
+- [創成学類作品展「mAstival」に出展します / College Exhibition mAstival](/pages/news/190201_mAstival.md)
+- [創成学類グループ展「どこか遠くの場所で」に出展します / At somewhere far away Exhibition](/pages/news/190901_t-tasu.md)
