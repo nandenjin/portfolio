@@ -1,6 +1,7 @@
 - [住人たち / Residents](/pages/works/residents.md)
 - [カリヨン / Carillon](/pages/works/carillon.md)
 - [Instant Sympathy / Instant Sympathy](/pages/works/sympathy.md)
+- [おとしもの](/pages/works/the-lost-thing.md)
 - [Study Works](/pages/works/study.md)
 - [バトコレ](/pages/works/battle-collection.md)
 - [阪南ギタークラブ](/pages/works/hannan-guitar.md)
