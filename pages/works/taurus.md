@@ -4,7 +4,7 @@ title_ja: トーラス おうし座の物語
 creator: Puppetry Troupe NEU, Kazumi Inada
 materials: Watercolor pencils and Digital Design
 year: 2018
-tags: art design graphic
+tags: art design graphic tsukuba-neu
 info: 
 thumbnail: /assets/works/taurus/taurus_thumb.png
 release: 2018-05-19
