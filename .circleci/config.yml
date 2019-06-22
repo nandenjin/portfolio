@@ -30,7 +30,7 @@ jobs:
           fi
 
           if [ $i -eq 1 ]; then
-            sleep 120
+            sleep 90
           else
             sleep 15
           fi
