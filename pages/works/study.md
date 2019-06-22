@@ -5,7 +5,7 @@ creator: Kazumi Inada
 materials: Digital Works
 year: 2018-2019
 tags: art design graphic
-info: 平砂アートムーヴメント2019「ここにおいて みせる/みる」の展示作品として製作。建物は筑波大学平砂学生宿舎9号棟で、老朽化によりすでに使われなくなったもの。
+info: 授業課題や自主的な練習として作ったデザイン作品群。
 thumbnail: /assets/works/study/study_thumb.png
 release: 2018-01-01
 ---
