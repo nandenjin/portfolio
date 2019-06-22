@@ -23,7 +23,7 @@ jobs:
           response=$(wget --header='Accept: application/json' "${base_path}/${build_num}?circle-token=${CIRCLE_TOKEN}" -O - 2>/dev/null)
           if [ "`echo "$response" | jq -r -e '.lifecycle'`" = "finished" ]; then
             status = $(echo "$response" | jq -r -e '.status')
-            if [ status = "success" or status = "fixed" ]; then
+            if [ "${status}" = "success" or "${status}" = "fixed" ]; then
               exit 0
             fi
 
