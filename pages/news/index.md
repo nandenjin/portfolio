@@ -1,5 +1,5 @@
 - [平砂アートムーヴメント展示企画に参加します / Hirasuna Art Movement Exhibition](/pages/news/190501_ham19.md)
-- [現代人形劇「おとしもの」を再演いたします / "The Lost Thing" will be replayed](/pages/news/190501_the-lost-thing.md.md)
+- [現代人形劇「おとしもの」を再演いたします / "The Lost Thing" will be replayed](/pages/news/190501_the-lost-thing.md)
 - [「リズム」が「創房大賞」を受賞しました / "Rhythm" gets "openfab SOBO Award 2019"](/pages/news/190121_sobo-award.md)
 - [創成学類作品展「mAstival」に出展します / College Exhibition mAstival](/pages/news/190201_mastival.md)
 - [「創房報」に「おとしもの」の美術についての記事が掲載されます / Behind the scene of "The Lost Thing" on The SOBO magazine](/pages/news/181229_sobo-magazine.md)
