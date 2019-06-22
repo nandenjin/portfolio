@@ -20,7 +20,7 @@ jobs:
         for i in `seq 1 10`; do
           echo "[Try ${i}] Waiting for build: ${base_path}/${build_num}"
 
-          response=$(wget --header='Accept: application/json' "${base_path}/${build_num}?circle-token=${B_REPO_TOKEN}" -O - 2>/dev/null)
+          response=$(wget --header='Accept: application/json' "${base_path}/${build_num}?circle-token=${CIRCLE_TOKEN}" -O - 2>/dev/null)
           if [ "`echo "$response" | jq -r -e '.lifecycle'`" = "finished" ]; then
             if [ "`echo "$response" | jq -r -e '.status'`" = "success" ]; then
               exit 0
