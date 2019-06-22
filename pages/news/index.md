@@ -5,4 +5,4 @@
 - [「創房報」に「おとしもの」の美術についての記事が掲載されます / Behind the scene of "The Lost Thing" on The SOBO magazine](/pages/news/181229_sobo-magazine.md)
 - [児童文化交流フェスにて「おとしもの」の作品解説を行いました / "The Lost Thing" was picked up at The Festival of Culture for Children](/pages/news/181007_the-lost-thing-on-cup.md)
 - [創成学類グループ展「どこか遠くの場所で」に出展します / At somewhere far away Exhibition](/pages/news/180901_t-tasu.md)
-- [現代人形劇「おとしもの」を上演いたします / Puppetry "The Lost Thing"](/pages/news/180701_the-lost-thing.md.md)
+- [現代人形劇「おとしもの」を上演いたします / Puppetry "The Lost Thing"](/pages/news/180701_the-lost-thing.md)
