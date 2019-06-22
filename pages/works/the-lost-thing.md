@@ -6,7 +6,7 @@ materials: Stage Performance (Puppetry)
 year: 2018-2019
 tags: art stage tsukuba-neu
 info: 
-thumbnail: /assets/works/the-lost-thing/the-lost-thing_cover.png
+thumbnail: /assets/works/the-lost-thing/the-lost-thing_cover.jpg
 release: 2018-05-19
 ---
 
