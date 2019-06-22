@@ -5,7 +5,7 @@ jobs:
     - image: circleci/node:10
     steps:
     - checkout
-    - run: install jq
+    - run: sudo apt -y install jq
     - run: |
         base_path='https://circleci.com/api/v1.1/project/github/nandenjin/portfolio-nuxt'
         target_branch='master'
