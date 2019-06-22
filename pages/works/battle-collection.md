@@ -6,7 +6,7 @@ materials: Event
 year: 2018
 tags: event web design nanami-abe takuto-okamoto
 info: 筑波大学学園祭（芸術祭）内で行われたアート展示企画。Webサイトにおけるデザイン展開と構築を担当。
-thumbnail: /assets/works/battle-collection/battle-cllection_thumb.png
+thumbnail: /assets/works/battle-collection/battle-collection_thumb.png
 release: 2018-11-03
 ---
 
