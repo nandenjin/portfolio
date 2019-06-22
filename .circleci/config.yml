@@ -2,10 +2,9 @@ version: 2
 jobs:
   deploy:
     docker:
-      - image: circleci/node:10
+    - image: circleci/node:10
     steps:
-      - checkout
-    steps:
+    - checkout
     - run: install jq
     - run: |
         base_path='https://circleci.com/api/v1.1/project/github/nandenjin/portfolio-nuxt'
@@ -42,4 +41,7 @@ workflows:
   version: 2
   deploy:
     jobs:
-      - deploy
+      - deploy:
+          filters:
+            branches:
+              only: master
