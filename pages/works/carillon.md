@@ -4,7 +4,7 @@ title_ja: カリヨン
 creator: Kazumi Inada
 materials: Installation
 year: 2019
-tags: art installation exhibition-ham19
+tags: art installation electronic exhibition-ham19
 info: 平砂アートムーヴメント2019「ここにおいて みせる/みる」の展示作品として製作。建物は筑波大学平砂学生宿舎9号棟で、老朽化によりすでに使われなくなったもの。
 thumbnail: /assets/works/carillon/carillon_front.jpg
 release: 2019-05-20
