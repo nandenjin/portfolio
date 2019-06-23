@@ -5,6 +5,7 @@
 - [Study Works](/pages/works/study.md)
 - [バトコレ](/pages/works/battle-collection.md)
 - [阪南ギタークラブ](/pages/works/hannan-guitar.md)
+- [mAstival](/pages/works/mastival.md)
 - [リズム](/pages/works/ri.md)
 - [筑波大学学園祭「雙峰祭」](/pages/works/sohosai17.md)
 - [春日大学](/pages/works/kasuga_ac.md)

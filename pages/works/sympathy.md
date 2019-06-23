@@ -4,7 +4,7 @@ title_ja: Instant Sympathy
 creator: I/O (Kazumi Inada + Takuto Okamoto)
 materials: Interactive Video (loop)
 year: 2019
-tags: art video io takuto-okamoto exhitbition-ham19
+tags: art video io takuto-okamoto exhitbition-ham19 exhibition-mastival
 info: 岡本太久斗とのユニット活動「I/0」による作品。本作品では音楽・デザイン・コンセプトを岡本が、原案・アーキテクチャ・グラフィックを稲田が担当した。
 thumbnail: /assets/works/sympathy/sympathy_0.png
 release: 2019-05-20
