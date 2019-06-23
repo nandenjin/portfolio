@@ -6,7 +6,7 @@ materials: Printed
 year: 2018-2019
 tags: art design graphic exhibition-mastival hata-ikeda
 info: 
-thumbnail: /assets/works/mastival/mastival_cover.png
+thumbnail: /assets/works/mastival/mastival_thumb.png
 release: 2019-02-14
 ---
 
