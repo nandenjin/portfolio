@@ -38,3 +38,4 @@ release: 2019-05-20
 
 - [Takuto Okamoto Works](https://takuto-okamoto.com/)
 - [SoundTrack: Instant Sympathy (off-line edit) by Takuto Okamoto](https://soundcloud.com/1998to/instant-sympathy-off-line-edit)
+- [ITF-Dic](https://github.com/nandenjin/itfdic): ツイートの解析にあたって、筑波大学で使われる特有の語を収録した独自の辞書を作成した。
