@@ -3,7 +3,7 @@ title_en: mAstival
 title_ja: 創成学類作品展 mAstival
 creator: Kazumi Inada
 materials: Printed
-year: 2018-2019
+year: 2019
 tags: art design graphic exhibition-mastival hata-ikeda
 info: 
 thumbnail: /assets/works/mastival/mastival_thumb.png
