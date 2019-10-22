@@ -8,7 +8,7 @@
 - [阪南ギタークラブ](/pages/works/hannan-guitar.md)
 - [mAstival](/pages/works/mastival.md)
 - [リズム](/pages/works/ri.md)
-- [名刺: 杉山将人](/pages/works/sgym-card.md)
+- [名刺: 杉山将利](/pages/works/sgym-card.md)
 - [筑波大学学園祭「雙峰祭」](/pages/works/sohosai17.md)
 - [春日大学](/pages/works/kasuga_ac.md)
 - [人形劇団ノイ・ワークショップ](/pages/works/neuws18.md)
