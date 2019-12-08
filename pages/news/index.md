@@ -1,3 +1,4 @@
+- [ツクライブ! サンシャイン!! 2nd Liveの照明演出を担当します / Tsukulive! Sunshine!! 2nd Live](/pages/news/1901101_tsukulive.md)
 - [平砂アートムーヴメント展示企画に参加します / Hirasuna Art Movement Exhibition](/pages/news/190501_ham19.md)
 - [現代人形劇「おとしもの」を再演いたします / "The Lost Thing" will be replayed](/pages/news/190501_the-lost-thing.md)
 - [「リズム」が「創房大賞」を受賞しました / "Rhythm" gets "openfab SOBO Award 2019"](/pages/news/190121_sobo-award.md)
