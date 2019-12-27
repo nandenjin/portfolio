@@ -1,5 +1,5 @@
 ---
-title_en: Behind the scene of \"The Lost Thing\" on The SOBO magazine
+title_en: "Behind the scene of \"The Lost Thing\" on The SOBO magazine"
 title_ja: 「創房報」に「おとしもの」の美術についての記事が掲載されます
 tags: art stage tsukuba-neu
 release: 2018-12-29

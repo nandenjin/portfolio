@@ -1,5 +1,5 @@
 ---
-title_en: Campus Festa \"Sohosai\"
+title_en: "Campus Festa \"Sohosai\""
 title_ja: 筑波大学学園祭「雙峰祭」
 creator: Campus Festa Executive Committee
 materials: Digital Work
