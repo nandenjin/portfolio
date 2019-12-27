@@ -1,5 +1,5 @@
 ---
-title_en: "\"The Lost Thing\" was picked up at The Festival of Culture for Children"
+title_en: '"The Lost Thing" was picked up at The Festival of Culture for Children'
 title_ja: 児童文化交流フェスにて「おとしもの」の作品解説を行いました
 tags: art stage tsukuba-neu
 release: 2018-10-07

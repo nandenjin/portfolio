@@ -1,5 +1,5 @@
 ---
-title_en: "Puppetry \"The Lost Thing\""
+title_en: 'Puppetry "The Lost Thing"'
 title_ja: 現代人形劇「おとしもの」を上演いたします
 tags: art stage tsukuba-neu
 release: 2018-07-01

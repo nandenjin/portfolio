@@ -1,5 +1,5 @@
 ---
-title_en: "\"The Lost Thing\" will be replayed"
+title_en: '"The Lost Thing" will be replayed'
 title_ja: 現代人形劇「おとしもの」を再演いたします
 tags: art stage tsukuba-neu
 release: 2019-05-01

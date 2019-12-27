@@ -1,5 +1,5 @@
 ---
-title_en: "\"Rhythm\" gets \"openfab SOBO Award 2019\""
+title_en: '"Rhythm" gets "openfab SOBO Award 2019"'
 title_ja: 「リズム」が「創房大賞」を受賞しました
 tags: art electronic
 release: 2019-01-21
