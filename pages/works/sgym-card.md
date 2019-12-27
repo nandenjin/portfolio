@@ -1,6 +1,6 @@
 ---
-title_en: Business Card: Masato Sugiyama
-title_ja: 名刺: 杉山将利
+title_en: "Business Card: Masato Sugiyama"
+title_ja: "名刺: 杉山将利"
 creator: Kazumi Inada
 materials: Printed
 year: 2019
