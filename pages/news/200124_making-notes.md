@@ -1,6 +1,6 @@
 ---
 title_en: 'The Making of "Residents" & "Carillon"'
-title_ja: 「住人たち」「カリヨン」ができるまで
+title_ja: メイキング記事「住人たち」「カリヨン」ができるまで
 tags: art exhibition-ham19
 release: 2020-01-24
 ---
