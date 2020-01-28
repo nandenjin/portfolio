@@ -11,7 +11,7 @@ release: 2017-07-20
 ---
 
 ![](/assets/works/ri/ri_front.jpg)
-![](https://www.youtube.com/watch?v=KEgM7aSu0YY)
-![](https://www.youtube.com/watch?v=ZGzpH1s_Y0U)
+[![](http://img.youtube.com/vi/KEgM7aSu0YY/maxresdefault.jpg)](https://www.youtube.com/watch?v=KEgM7aSu0YY)
+[![](http://img.youtube.com/vi/ZGzpH1s_Y0U/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZGzpH1s_Y0U)
 
 6台のメカニカルリレーの動作音でリズムを刻む自動演奏装置。
