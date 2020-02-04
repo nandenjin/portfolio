@@ -15,7 +15,7 @@ release: 2019-05-20
 ![](/assets/works/residents/residents_right.jpg)
 ![](/assets/works/residents/residents_zoom-1.jpg)
 ![](/assets/works/residents/residents_front-1.jpg)
-[![解説映像](http://img.youtube.com/vi/0GFfTeCohRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=0GFfTeCohRE)
+[![解説映像](https://img.youtube.com/vi/0GFfTeCohRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=0GFfTeCohRE)
 
 廃墟となった建物の電灯を、実際に生活する人々の住処の明かりと連動させ、人々のその場でかつて営まれていた・その社会で今営まれている生活の様子を、俯瞰的に観察できるようにしたインスタレーション作品。
 
