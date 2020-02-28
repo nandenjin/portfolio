@@ -1,3 +1,4 @@
+- [「住人たち」が北九州デジタルクリエイターズコンテスト2020で入選しました / "Residents" was accepted for KDCC 2020](/pages/news/200228_kdcc.md)
 - [メイキング記事「住人たち」「カリヨン」ができるまで / The Making of "Residents" & "Carillon"](/pages/news/200124_making-notes.md)
 - [ツクライブ! サンシャイン!! 2nd Liveの照明演出を担当します / Tsukulive! Sunshine!! 2nd Live](/pages/news/191101_tsukulive.md)
 - [平砂アートムーヴメント展示企画に参加します / Hirasuna Art Movement Exhibition](/pages/news/190501_ham19.md)
