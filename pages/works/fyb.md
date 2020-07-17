@@ -16,7 +16,7 @@ release: 2020-05-27
 ![](/assets/works/fyb/sample-forest.jpg)
 ![](/assets/works/fyb/sample-flower.jpg)
 
-[BEAUTIFULL](https://soundcloud.com/user-551101888)のプロモーション企画サイト「BEAUTIFULL IMAGE GENERATOR」の画面デザイン・制作を担当。
+[BEAUTIFULL](https://soundcloud.com/user-551101888)のプロモーション企画サイト「BEAUTIFULL IMAGE GENERATOR」の画面デザイン・制作を担当。ブランディングおよび基本デザインは[Takuto Okamoto](http://takuto-okamoto.com/)が担当。
 
 BEAUTIFULLメンバーの瀬能が撮影した写真から制作し[公式Instagram](https://www.instagram.com/beautifull_jpn/)に投稿されていた作品を、誰でも自分の写真から作ることができるようにしたアプリケーション。スマートフォンから写真をアップロードすると、分析によってカラーパレットが生成される。
 
