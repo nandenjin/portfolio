@@ -4,6 +4,7 @@
 - [おとしもの](/pages/works/the-lost-thing.md)
 - [Twinkle](/pages/works/twinkle.md)
 - [Study Works](/pages/works/study.md)
+- [BEAUTIFULL Image Generator](/pages/works/fyb.md)
 - [バトコレ](/pages/works/battle-collection.md)
 - [阪南ギタークラブ](/pages/works/hannan-guitar.md)
 - [mAstival](/pages/works/mastival.md)
