@@ -14,6 +14,5 @@
 - [春日大学](/pages/works/kasuga_ac.md)
 - [人形劇団ノイ・ワークショップ](/pages/works/neuws18.md)
 - [人形劇団ノイ・ワークショップ](/pages/works/neuws17.md)
-- [Taurus](/pages/works/taurus.md)
-- [encounter](/pages/works/encounter.md)
+- [音のかたち](/pages/works/ssss.md)
 - [プロジェクションマッピング](/pages/works/himap.md)
