@@ -1,5 +1,5 @@
 ---
-title_en: 'Behind the Scenes of "T'qours 2nd LoveLive!"'
+title_en: 'Behind the Scenes of "T\'qours 2nd LoveLive!"'
 title_ja: Behind the Scenes of ツクライブ！
 tags: art stage lighting
 release: 2020-11-08
