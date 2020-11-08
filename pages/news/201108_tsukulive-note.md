@@ -5,7 +5,7 @@ tags: art stage lighting
 release: 2020-11-08
 ---
 
-2019年開催、照明デザイン・制御技術の提供・オペレーションを担当を担当したステージ「T'qours 2nd LoveLive!」の[フル映像公開](https://youtu.be/uOftsbFQ33g)に合わせ、本企画の裏側にある取り組みをご紹介する記事 [**「Behind the Scenes of ツクライブ！ ライブ照明を作るとき考えたこと」](https://note.com/nandenjin/n/n9a08fdcaaff8)** を公開いたします。
+2019年開催、照明デザイン・制御技術の提供・オペレーションを担当を担当したステージ「T'qours 2nd LoveLive!」の[フル映像公開](https://youtu.be/uOftsbFQ33g)に合わせ、本企画の裏側にある取り組みをご紹介する記事 [**「Behind the Scenes of ツクライブ！ ライブ照明を作るとき考えたこと」**](https://note.com/nandenjin/n/n9a08fdcaaff8) を公開いたします。
 
 [![](/assets/works/tsukulive19/0.jpg)](https://www.youtube.com/watch?v=uOftsbFQ33g)
 
