@@ -10,6 +10,8 @@ thumbnail: /assets/works/tsukulive19/0.jpg
 release: 2018-04-01
 ---
 
+[![](/assets/works/tsukulive19/0.jpg)](https://www.youtube.com/watch?v=uOftsbFQ33g)
+
 ![](/assets/works/tsukulive19/0.jpg)
 ![](/assets/works/tsukulive19/1.jpg)
 ![](/assets/works/tsukulive19/2.jpg)
