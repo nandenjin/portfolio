@@ -1,3 +1,4 @@
+- [Behind the Scenes of ツクライブ！/ Behind the Scenes of "T'qours 2nd LoveLive!"](201108_tsukulive-note.md)
 - [「BEAUTIFULL IMAGE GENERATOR」がリリースされました / "BEAUTIFULL IMAGE GENERATOR" is now available](/pages/news/200527_fyb.md)
 - [「住人たち」が北九州デジタルクリエイターズコンテスト2020で入選しました / "Residents" was accepted for KDCC 2020](/pages/news/200228_kdcc.md)
 - [メイキング記事「住人たち」「カリヨン」ができるまで / The Making of "Residents" & "Carillon"](/pages/news/200124_making-notes.md)
