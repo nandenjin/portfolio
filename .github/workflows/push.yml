@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  lint:
+  request_build:
     runs-on: ubuntu-latest
 
     steps:
