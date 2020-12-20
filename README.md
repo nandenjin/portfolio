@@ -1,6 +1,8 @@
 # Portfolio
 
-[![CircleCI](https://circleci.com/gh/nandenjin/portfolio.svg?style=shield)](https://circleci.com/gh/nandenjin/portfolio)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/nandenjin/portfolio/CI?label=CI&style=flat-square)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/nandenjin/portfolio-nuxt/CI/master?label=Site%20build&style=flat-square)](https://github.com/nandenjin/portfolio-nuxt)
+
 
 Kazumi Inada: Works and News. Visit [https://www.nandenjin.com](https://www.nandenjin.com) (This repo is master of contents)
 
