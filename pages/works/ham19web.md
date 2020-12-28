@@ -5,7 +5,7 @@ creator: Kazumi Inada
 materials: Website
 year: 2019
 tags: design web exhibition-ham19
-thumbnail: /assets/works/ham19web_ham19web_00.png
+thumbnail: /assets/works/ham19web/ham19web_00.png
 release: 2019-05-20
 ---
 
@@ -13,9 +13,9 @@ release: 2019-05-20
 
 [https://ham.nandenjin.com](https://ham.nandenjin.com)
 
-![](/assets/works/ham19web_ham19web_00.png)
-![](/assets/works/ham19web_ham19web_01.png)
-![](/assets/works/ham19web_ham19web_02.png)
-![](/assets/works/ham19web_ham19web_03.png)
-![](/assets/works/ham19web_ham19web_04.png)
-![](/assets/works/ham19web_ham19web_05.png)
+![](/assets/works/ham19web/ham19web_00.png)
+![](/assets/works/ham19web/ham19web_01.png)
+![](/assets/works/ham19web/ham19web_02.png)
+![](/assets/works/ham19web/ham19web_03.png)
+![](/assets/works/ham19web/ham19web_04.png)
+![](/assets/works/ham19web/ham19web_05.png)
