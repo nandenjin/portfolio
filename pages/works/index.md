@@ -2,6 +2,7 @@
 - [カリヨン / Carillon](/pages/works/carillon.md)
 - [Instant Sympathy / Instant Sympathy](/pages/works/sympathy.md)
 - [おとしもの / The Lost Thing](/pages/works/the-lost-thing.md)
+- [ライカ / Laika](/pages/works/laika.md)
 - [Twinkle](/pages/works/twinkle.md)
 - [Study Works](/pages/works/study.md)
 - [BEAUTIFULL Image Generator](/pages/works/fyb.md)
