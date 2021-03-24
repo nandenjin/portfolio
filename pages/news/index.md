@@ -1,3 +1,4 @@
+- [平砂アートムーヴメント「狢PLAY」に参加します](/pages/news/210324_ham20.md)
 - [「Instant Sympathy」がISCA 2020で入選しました](/pages/news/201207_isca.md)
 - [Behind the Scenes of ツクライブ！/ Behind the Scenes of "T'qours 2nd LoveLive!"](/pages/news/201108_tsukulive-note.md)
 - [「BEAUTIFULL IMAGE GENERATOR」がリリースされました / "BEAUTIFULL IMAGE GENERATOR" is now available](/pages/news/200527_fyb.md)
