@@ -1,6 +1,6 @@
 ---
 title_en: 2nd Live of Tsukulive! Sunshine!
-title_ja: ツクライブ! サンシャイン!! 2nd Live
+title_ja: ツクライブ! サンシャイン!! 2nd Live の照明演出を担当します
 tags: art stage lighting
 release: 2019-10-25
 ---
