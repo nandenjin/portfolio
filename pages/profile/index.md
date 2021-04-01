@@ -1,10 +1,10 @@
 ![](/assets/profile/profile.jpg)
 
-1997年、大阪府生まれ。2017年より筑波大学情報学群 情報メディア創成学類に所属。
+1997年、大阪府生まれ。2021年より筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム グラフィックデザイン研究室に在学中。
 
 情報科学・芸術に興味を持ち、メディアアート・グラフィックデザイン・舞台作品などの創作活動を行う。技術的・芸術的魅力を共に活かすものづくりに取り組んでいる。
 
-Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, College of Media Arts, Science and Technology from 2017.
+Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, Master’s Program in Informatics from 2021, via College of Media Arts, Science and Technology from 2017.
 
 Creating things such as media arts, graphic design works and stage performances with collapsing border between technology and arts.
 
