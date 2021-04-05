@@ -14,5 +14,5 @@ jobs:
         uses: benc-uk/workflow-dispatch@v1
         with:
           workflow: CI
-          repo: nandenjin/portfolio-nuxt
+          repo: nandenjin/nandenjin.com
           token: ${{ secrets.PERSONAL_TOKEN }}
