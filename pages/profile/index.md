@@ -27,6 +27,14 @@ Creating things such as media arts, graphic design works and stage performances 
 * (2017 - 2021) University of Tsukuba, college of Media Arts, Science and Technology / 筑波大学 情報学群 情報メディア創成学類
 * (2021 -) University of Tsukuba, Graduate School of Comprehensive Human Sciences, Degree Programs in Comprehensive Human Sciences, Master’s Program in Informatics / 筑波大学大学院 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム 博士前期課程
 
+## Awards
+
+- 筑波大学工作室「創房大賞」最優秀賞 (2018)
+- 北九州デジタルアートコンテスト インスタレーション部門 入選 (2019)
+- INTERNATIONAL STUDENTS CREATIVE AWARD 2020 デジタルコンテンツ部門 入選、So good 賞 (2020)
+- いばらきデジタルコンテンツ・ソフトウェア大賞 2020 デジタルアート部門 優秀賞 (2021)
+- 亀山トリエンナーレ 2020 出展ノミネート (2019)
+
 ## Skills
 
 * Web Design & Development
