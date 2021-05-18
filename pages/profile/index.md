@@ -24,7 +24,8 @@ Creating things such as media arts, graphic design works and stage performances 
 ## Education
 
 * (2014 - 2016) Tennoji High School attached to Osaka Kyoiku University / 大阪教育大学附属高等学校天王寺校舎
-* (2017 - ) University of Tsukuba, college of Media Arts, Science and Technology / 筑波大学情報学群情報メディア創成学類
+* (2017 - 2021) University of Tsukuba, college of Media Arts, Science and Technology / 筑波大学 情報学群 情報メディア創成学類
+* (2021 -) University of Tsukuba, Graduate School of Comprehensive Human Sciences, Degree Programs in Comprehensive Human Sciences, Master’s Program in Informatics / 筑波大学大学院 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム 博士前期課程
 
 ## Skills
 
