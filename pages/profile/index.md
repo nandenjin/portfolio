@@ -35,21 +35,50 @@ Creating things such as media arts, graphic design works and stage performances 
 - いばらきデジタルコンテンツ・ソフトウェア大賞 2020 デジタルアート部門 優秀賞 (2021)
 - 亀山トリエンナーレ 2020 出展ノミネート (2019)
 
-## Skills
+## Skills & Tools
 
-* Web Design & Development
-  * HTML / CSS / JavaScript / TypeScript / SASS / SCSS
-  * Webpack / Vue.js / Nuxt.js / React.js
-  * WebGL(THREE.js)
-  * Node.js / Python / PHP
-* Graphic Design & Media
-  * Adobe Photoshop, Illustrator
-  * Adobe Lighroom, Premiere
-  * Adobe XD
-  * Hand-drawn Illustrations
-* Hardware & Material Design
-  * Arduino (C++)
-  * Digital Fabrications (Raser cutters & 3D printers)
-* Stage Technologies
-  * Sound & Lighting Design
-  * Hardware development with DMX & Art-Net
+### Keywords
+
+- Fabrication ものづくり
+- Visual design, photography ビジュアルデザイン、写真
+- Tech prototyping プロトタイピング
+- Web development, promotion ウェブ開発、プロモーション
+- Stage production ステージ演出
+
+### Coding
+
+- Web frontend
+  - HTML, JavaScript, TypeScript
+  - Webpack, Vue.js, React.js
+  - WebGL via THREE.js
+  - Sass, SCSS, Stylus
+  - Nuxt.js, Next.js
+- Web backend
+  - PHP, Wordpress
+  - Node.js
+  - Apache, Nginx
+- Electron
+- C, C++
+
+See also: [GitHub](https://github.com/nandenjin)
+
+### Software tools
+
+- Adobe Creative Cloud
+  - Illustrator
+  - Photoshop
+  - Premiere Pro
+  - XD
+  - Indesign
+- Autodesk Fusion 360
+
+### Fabrication & Hardware
+
+- 3D print
+- Laser
+- Arduino, Raspberry Pi
+- Electronics
+
+### Others
+
+- Stage Lighting, DMX, Art-Net
