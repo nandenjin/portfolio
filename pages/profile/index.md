@@ -64,18 +64,12 @@ See also: [GitHub](https://github.com/nandenjin)
 
 ### Software tools
 
-- Adobe Creative Cloud
-  - Illustrator
-  - Photoshop
-  - Premiere Pro
-  - XD
-  - Indesign
+- Adobe Creative Cloud (Illustrator. Photoshop, Premiere Pro, XD, Indesign)
 - Autodesk Fusion 360
 
 ### Fabrication & Hardware
 
-- 3D print
-- Laser
+- 3D print (FDM), Laser
 - Arduino, Raspberry Pi
 - Electronics
 
