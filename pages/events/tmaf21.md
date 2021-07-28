@@ -4,7 +4,9 @@ title_en: Tsukuba Media Art Festival 2021
 session_start: 2021-07-30
 session_end: 2021-08-08
 locations:
-  - title_ja: つくば市中央公園
+  - title_ja: つくば市中央公園 レストハウス
+    lat: 36.0853455
+    lng: 140.1103426
 related_works: [layers]
 thumbnail: /assets/works/layers/pre_00.png
 external_infos:
@@ -26,7 +28,7 @@ external_infos:
 
 ## 展示日時・場所
 
-《Layers》は、中央公園 つくば市民ギャラリー外壁（[Google マップ](https://goo.gl/maps/HsHft5nqe41xvHti7)）にて、以下の日時で上映します。
+《Layers》は、中央公園 つくば市中央公園 レストハウス外壁（[Google マップ](https://goo.gl/maps/HsHft5nqe41xvHti7)）にて、以下の日時で上映します。
 
 - 7/30 (Fri.) 19:00-20:00
 - 7/31 (Sat.) 19:00-20:00
