@@ -6,7 +6,7 @@ session_end: 2021-08-08
 locations:
   - title_ja: つくば市中央公園
 related_works: [layers]
-thumbnail: /assets/works/battle-collection/battle-collection_thumb.png
+thumbnail: /assets/works/layers/pre_00.png
 external_infos:
   - title_ja: 『つくばメディアアートフェスティバル2021』開催 | つくば市
     url: https://www.city.tsukuba.lg.jp/kankobunka/event/1014969.html
