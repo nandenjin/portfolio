@@ -22,6 +22,8 @@ external_infos:
 >
 > 科学 × アートの魅力を存分に感じてください！
 
+- [ニュース リリース](https://www.nandenjin.com/news/210728_tmaf21)
+
 ## 展示日時・場所
 
 《Layers》は、中央公園 つくば市民ギャラリー外壁（[Google マップ](https://goo.gl/maps/HsHft5nqe41xvHti7)）にて、以下の日時で上映します。
