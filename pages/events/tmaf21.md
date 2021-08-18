@@ -1,4 +1,5 @@
 ---
+is_exhibition: true
 title_ja: つくばメディアアートフェスティバル2021
 title_en: Tsukuba Media Art Festival 2021
 session_start: 2021-07-30
@@ -24,7 +25,7 @@ external_infos:
 >
 > 科学 × アートの魅力を存分に感じてください！
 
-- [ニュース リリース](https://www.nandenjin.com/news/210728_tmaf21)
+- [ニュース リリース](/pages/news/210728_tmaf21)
 
 ## 展示日時・場所
 
