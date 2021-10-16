@@ -2,8 +2,8 @@
 is_exhibition: true
 title_ja: 亀山トリエンナーレ2021
 title_en: Kameyama Triennale 2021
-session_start: 2021-10-10
-session_end: 2021-11-06
+session_start:
+session_end:
 locations:
   - title_ja: 高村書店
     lat: 34.8540434
@@ -14,6 +14,10 @@ thumbnail:
 external_infos:
   - title_ja: 亀山トリエンナーレ 公式Webサイト
     url: http://kameyamatriennale.jp/
+---
+
+**本展は開催延期となっています。** 開催状況については、[亀山トリエンナーレ 公式 Web サイト](http://kameyamatriennale.jp/)をご確認ください。
+
 ---
 
 三重県亀山市で開催の「亀山トリエンナーレ 2021」に参加します。

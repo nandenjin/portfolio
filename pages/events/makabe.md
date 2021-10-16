@@ -2,11 +2,15 @@
 is_exhibition: true
 title_ja: 現代美術演習 成果展「あるきまわる」
 title_en: Walking Around
-session_start: 2021-11-13
-session_end: 2021-12-05
+session_start:
+session_end:
 locations: []
 related_works: []
 thumbnail:
+---
+
+**本展は感染症対策により開催を延期しております。**
+
 ---
 
 茨城県桜川市 真壁地区での美術展「あるきまわる」を開催し、参加します。
