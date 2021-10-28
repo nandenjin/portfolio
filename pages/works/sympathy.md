@@ -32,4 +32,5 @@ release: 2019-05-20
 
 ## Awards
 
+- [アートアンドテクノロジー東北 2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 優秀賞
 - [International Students Creative Award 2020](https://kc-i.jp/activity/award/isca/2020/) 入選・So good 賞
