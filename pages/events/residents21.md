@@ -26,9 +26,9 @@ CAF 賞 2021 入選作品展の開催に合わせ、《住人たち》の 2019 �
 
 ### ライブストリーミング
 
-展示の様子をライブ映像で配信しています。
+展示の様子をライブ映像で配信しています。[Twitch](https://www.twitch.tv/nandenjin)または[YouTube](https://www.youtube.com/KazumiInada)をご覧ください。
 
-[![](/assets/works/residents/residents_front-1.jpg)](https://www.youtube.com/watch?v=OjnSh8J-1Ks)
+[![](/assets/works/residents/residents_front-1.jpg)](https://www.youtube.com/watch?v=K2L6Ub4uhDU)
 
 ### おことわり
 
