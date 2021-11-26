@@ -24,9 +24,13 @@ CAF 賞 2021 入選作品展の開催に合わせ、《住人たち》の 2019 �
 
 会場へは、TX つくば駅前「つくばセンター」より、関東鉄道バス筑波大学循環で「平砂学生宿舎前」または「天久保二丁目」下車。
 
-### ライブストリーミング
+### ステータスとライブストリーミング
 
-展示の様子をライブ映像で配信しています。[Twitch](https://www.twitch.tv/nandenjin)または[YouTube](https://www.youtube.com/KazumiInada)をご覧ください。
+本作品では現場の建物展示のほか、「住んで」いる住人たち自らが書いたテキストをオンラインで展示します。
+
+- [住人のテキストとステータス](https://residents.nandenjin.com/ns/reconstruction)（オンラインページ）
+
+また、展示の様子をライブ映像で配信しています。[Twitch](https://www.twitch.tv/nandenjin)または[YouTube](https://www.youtube.com/KazumiInada)をご覧ください。
 
 [![](/assets/works/residents/residents_front-1.jpg)](https://www.youtube.com/watch?v=K2L6Ub4uhDU)
 
