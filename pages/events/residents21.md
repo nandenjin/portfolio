@@ -13,9 +13,10 @@ thumbnail: /assets/works/residents/residents_front-0.jpg
 external_infos: []
 ---
 
-CAF 賞 2021 入選作品展の開催に合わせ、《住人たち》の 2019 年制作時の姿を再制作し、展示します。
+[CAF 賞 2021 入選作品展](/pages/events/caf21.md)の開催に合わせ、作品展での展示作品《住人たち》を再制作し、展示します。
 
-- [ニュース リリース](/pages/news/211101_caf21)
+- [ニュース リリース](/pages/news/211101_caf21.md)
+- 同時開催: [CAF 賞 2021 入選作品展](/pages/events/caf21.md)
 
 ## 展示日時・場所
 
