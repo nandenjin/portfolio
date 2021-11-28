@@ -3,7 +3,7 @@ is_exhibition: true
 title_ja: 《住人たち》再制作と展示
 title_en: '"Residents" re-construction'
 session_start: 2021-11-23
-session_end: 2021-11-28
+session_end: 2021-11-29
 locations:
   - title_ja: 筑波大学平砂学生宿舎 9号棟
     lat: 36.0980806
