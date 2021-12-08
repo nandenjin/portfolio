@@ -9,7 +9,7 @@ locations:
     lat: 36.0980806
     lng: 140.1048932
 related_works: [residents]
-thumbnail: /assets/works/residents/residents_front-0.jpg
+thumbnail: /assets/events/residents21/01.jpg
 external_infos: []
 ---
 
@@ -17,6 +17,10 @@ external_infos: []
 
 - [ニュース リリース](/pages/news/211101_caf21.md)
 - 同時開催: [CAF 賞 2021 入選作品展](/pages/events/caf21.md)
+
+![](/assets/events/residents21/00.jpg)
+![](/assets/events/residents21/01.jpg)
+![](/assets/events/residents21/02.jpg)
 
 ## 展示日時・場所
 

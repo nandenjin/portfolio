@@ -5,20 +5,17 @@ creator: Kazumi Inada
 materials: Art Project
 year: 2019
 tags: art art-project electronic exhitbition-ham19
-info: 平砂アートムーヴメント2019「ここにおいて みせる/みる」の展示作品として製作。建物は筑波大学平砂学生宿舎9号棟で、老朽化によりすでに使われなくなったもの。
 thumbnail: /assets/works/residents/residents_zoom-0.jpg
 release: 2019-05-20
 ---
 
 使われなくなった建物の窓に灯る明かりは、現実に生活する誰かの住処の明かりと繋がっています。人々が帰宅すると灯り、眠りにつくと消える明かりは、彼らの生活が重畳して成す社会のゆるやかな脈動を等身大に表します。
 
-計算機やセンサは、自らの身体や感覚では正確に視ることができない外界を測定し、複製し、観察することを可能にしてくれます。社会でうまく振る舞うことに生来の苦手を持つ私にとって、自己や自己が属する世界の俯瞰に取り組むことは、混沌としてみえる世界に秩序を見出して生きるための挑戦です。
-
 ![](/assets/works/residents/residents_zoom-0.jpg)
-![](/assets/works/residents/residents_front-0.jpg)
-![](/assets/works/residents/residents_right.jpg)
+![](/assets/events/residents21/00.jpg)
 ![](/assets/works/residents/residents_zoom-1.jpg)
-![](/assets/works/residents/residents_front-1.jpg)
+![](/assets/events/residents21/01.jpg)
+![](/assets/events/residents21/02.jpg)
 [![解説映像](https://img.youtube.com/vi/0GFfTeCohRE/maxresdefault.jpg)](https://www.youtube.com/watch?v=0GFfTeCohRE)
 
 ## Resources
