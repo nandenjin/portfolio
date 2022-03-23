@@ -29,11 +29,13 @@ Creating things such as media arts, graphic design works and stage performances 
 
 ## Awards
 
-- 筑波大学工作室「創房大賞」最優秀賞 (2018)
-- 北九州デジタルアートコンテスト インスタレーション部門 入選 (2019)
-- INTERNATIONAL STUDENTS CREATIVE AWARD 2020 デジタルコンテンツ部門 入選、So good 賞 (2020)
+- 現代芸術振興財団 CAF 賞 2021 最優秀賞 (2021)
+- アートアンドテクノロジー東北 2021 優秀賞・審査員特別賞 (2021)
 - いばらきデジタルコンテンツ・ソフトウェア大賞 2020 デジタルアート部門 優秀賞 (2021)
+- INTERNATIONAL STUDENTS CREATIVE AWARD 2020 デジタルコンテンツ部門 入選、So good 賞 (2020)
+- 北九州デジタルアートコンテスト インスタレーション部門 入選 (2019)
 - 亀山トリエンナーレ 2020 出展ノミネート (2019)
+- 筑波大学工作室「創房大賞」最優秀賞 (2018)
 
 ## Media
 
