@@ -13,6 +13,6 @@ jobs:
       - name: Request rebuild
         uses: benc-uk/workflow-dispatch@v1
         with:
-          workflow: CI
+          workflow: Delivery
           repo: nandenjin/nandenjin.com
           token: ${{ secrets.PERSONAL_TOKEN }}
