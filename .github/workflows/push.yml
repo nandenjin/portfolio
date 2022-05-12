@@ -15,4 +15,5 @@ jobs:
         with:
           workflow: Delivery
           repo: nandenjin/nandenjin.com
+          ref: refs/heads/dev
           token: ${{ secrets.PERSONAL_TOKEN }}
