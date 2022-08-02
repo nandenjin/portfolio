@@ -2,6 +2,7 @@
 - [住人たち / Residents](/pages/works/residents.md)
 - [カリヨン / Carillon](/pages/works/carillon.md)
 - [Instant Sympathy](/pages/works/sympathy.md)
+- [筑波大学アート・コレクション展『Perspective －視点を変えて「み」る－』 / Collection Gallery of University Tsukuba "Perspective"](/pages/works/ut-collection-perspective.md)
 - [おとしもの / The Lost Thing](/pages/works/the-lost-thing.md)
 - [リズム / Rhythm](/pages/works/ri.md)
 - [Study Works](/pages/works/study.md)
