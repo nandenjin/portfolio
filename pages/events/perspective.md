@@ -19,3 +19,5 @@ external_infos:
 ---
 
 博物館学芸員資格にかかわる授業の一環として、筑波大学の所蔵するアートコレクション展の企画にかかわりました。
+
+[![](/assets/works/ut-collection-perspective/thumbnail_view.jpg)](https://www.youtube.com/watch?v=eTClRiRh2kw)
