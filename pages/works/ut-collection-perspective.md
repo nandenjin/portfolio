@@ -6,7 +6,7 @@ materials: Exhibition
 year: 2022
 tags: web branding promotion video
 info:
-thumbnail: /assets/works/ut-collection-perspective/thumbnail_making.png
+thumbnail: /assets/works/ut-collection-perspective/thumbnail_making.jpg
 release: 2022-08-01
 ---
 
@@ -20,11 +20,11 @@ release: 2022-08-01
 
 15 秒プロモーション
 
-[![](/assets/works/sympathy/sympathy_view.jpg)](https://www.youtube.com/watch?v=nExlPb7bKiU)
+[![](/assets/works/ut-collection-perspective/thumbnail_view.jpg)](https://www.youtube.com/watch?v=nExlPb7bKiU)
 
 展覧会メイキング映像
 
-[![](/assets/works/sympathy/sympathy_making.jpg)](https://www.youtube.com/watch?v=SnWGrIm2WcI)
+[![](/assets/works/ut-collection-perspective/thumbnail_making.jpg)](https://www.youtube.com/watch?v=SnWGrIm2WcI)
 
 ## Resources
 

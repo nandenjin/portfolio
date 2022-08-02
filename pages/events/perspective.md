@@ -11,7 +11,7 @@ locations:
     lng: 140.0984237
     address: 茨城県つくば市天王台1-1-1
 related_works: [ut-collection-perspective]
-thumbnail: /assets/works/ut-collection-perspective/thumbnail_view.png
+thumbnail: /assets/works/ut-collection-perspective/thumbnail_view.jpg
 external_infos:
   - title_ja: 博物館実習履修生の企画による筑波大学アート・コレクション展『PERSPECTIVE －視点を変えて「み」る－』 - 筑波大学 A.R.T
     title_en: Collection Gallery of University Tsukuba "Perspective" - Art Resources in Tsukuba
