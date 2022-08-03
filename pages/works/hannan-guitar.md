@@ -4,8 +4,8 @@ title_ja: 阪南ギタークラブ
 creator: "D: Kazumi Inada"
 materials: Branding
 year: 2019
-tags: art branding
-info: 
+tags: design branding
+info:
 thumbnail: /assets/works/hannan-guitar/hannan-guitar_thumb.png
 release: 2019-01-01
 ---
