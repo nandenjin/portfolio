@@ -12,11 +12,13 @@ release: 2022-08-01
 
 博物館学芸員資格にかかわる授業の一環として、筑波大学の所蔵するアートコレクション展の企画を実施。広報メンバーとして公式 Web サイトの運用・プロモーション映像の制作などを担当した。
 
-15 秒プロモーション
+As part of a class related to the museum curatorial qualification, planned an exhibition of the art collection held by the University of Tsukuba. As a member of the public relations team, I was in charge of the operation of the official website and the production of promotional videos.
+
+15 秒プロモーション / Promotion 15s
 
 [![](/assets/works/ut-collection-perspective/thumbnail_view.jpg)](https://www.youtube.com/watch?v=nExlPb7bKiU)
 
-展覧会メイキング映像
+展覧会メイキング映像 / Behind of the exhibition
 
 [![](/assets/works/ut-collection-perspective/thumbnail_making.jpg)](https://www.youtube.com/watch?v=SnWGrIm2WcI)
 

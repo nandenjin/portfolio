@@ -11,6 +11,8 @@ release: 2019-05-20
 
 使われなくなった建物の窓に灯る明かりは、現実に生活する誰かの住処の明かりと繋がっています。人々が帰宅すると灯り、眠りにつくと消える明かりは、彼らの生活が重畳して成す社会のゆるやかな脈動を等身大に表します。
 
+The lights in the windows of disused buildings are connected to the lights of someone's actual living space. The lights that come on when people return home and go off when they go to sleep represent, in life-size, the gentle pulse of society formed by the superimposition of their lives.
+
 ![](/assets/works/residents/residents_zoom-0.jpg)
 ![](/assets/events/residents21/00.jpg)
 ![](/assets/works/residents/residents_zoom-1.jpg)

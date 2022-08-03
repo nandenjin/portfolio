@@ -10,12 +10,12 @@ thumbnail: /assets/works/carillon/carillon_front.jpg
 release: 2019-05-20
 ---
 
+建物全体を利用した、時を知らせるオブジェ。動作時刻になると建物の明かりが点き、時報の鐘が鳴る。
+
+An object that uses the entire building to tell the time. At the operating time, the lights of the building are turned on and the bell rings.
+
 ![](/assets/works/carillon/carillon_front.jpg)
 ![](/assets/works/carillon/carillon_center.jpg)
 ![](/assets/works/carillon/carillon_zoom.jpg)
 ![](/assets/works/carillon/carillon_audience-0.jpg)
 ![](/assets/works/carillon/carillon_audience-1.jpg)
-
-建物全体を利用した、時を知らせるオブジェ。
-
-動作時刻になると建物の明かりが点き、時報の鐘が鳴る。
