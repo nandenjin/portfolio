@@ -18,8 +18,12 @@ Creating things such as media arts, graphic design works and stage performances 
 
 ## Work Experience
 
-- (2017 - 2018) Has-Key Inc. - Web Engineer
-- (2019) teamLab Inc. - Installation Engineer (Internship)
+- (2017-2018) [Has-Key Inc.](https://www.has-key.org/) - Web Engineer
+- (2019) [teamLab Inc.](https://www.teamlab.art/) - Installation Engineer (Internship)
+- (2021) [Yahoo! JAPAN](https://about.yahoo.co.jp) - Data Solution Designer (Internship)
+- (2019-Now) [Tsukuba Expo Center](https://www.expocenter.or.jp/) - Student Staff
+
+More at [Wantedly](https://www.wantedly.com/id/kzmi)
 
 ## Education
 
