@@ -9,7 +9,7 @@ locations:
     lat: 35.6486654
     lng: 139.6982261
 related_works: [residents]
-thumbnail: /assets/events/caf21/caf21_banner.jpg
+thumbnail: /assets/events/caf21/caf21_0.jpg
 external_infos:
   - title_ja: CAF賞2021 | 公益財団法人現代芸術振興財団
     url: https://gendai-art.org/caf_single/caf2021/
