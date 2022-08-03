@@ -52,17 +52,16 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 - Fabrication ものづくり
 - Visual design, photography ビジュアルデザイン、写真
 - Tech prototyping プロトタイピング
-- Web development, promotion ウェブ開発、プロモーション
+- Web development ウェブ開発
 - Stage production ステージ演出
+- Promotion プロモーション
 
 ### Coding
 
 - Web frontend
   - HTML, JavaScript, TypeScript
-  - Webpack, Vue.js, React.js
   - WebGL via THREE.js
   - Sass, SCSS, Stylus
-  - Nuxt.js, Next.js
 - Web backend
   - PHP, Wordpress
   - Node.js
