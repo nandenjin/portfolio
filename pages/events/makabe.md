@@ -10,8 +10,8 @@ locations:
     lat: 36.277407
     lng: 140.100526
     address: 茨城県桜川市真壁町真壁198
-related_works: []
-thumbnail: /assets/events/makabe/visual.png
+related_works: [ushio-makabe]
+thumbnail: /assets/works/ushio-makabe/overview.jpg
 ---
 
 **本展は感染症対策のため、1 月 26 日をもって開催を終了いたしました。**
@@ -46,3 +46,11 @@ thumbnail: /assets/events/makabe/visual.png
 ## アクセス
 
 つくばエクスプレス つくば駅 または JR 水戸線 岩瀬駅よりバス。桜川市バス「下宿」より徒歩。
+
+![](/assets/works/ushio-makabe/overview.jpg)
+
+![](/assets/works/ushio-makabe/window.jpg)
+
+![](/assets/works/ushio-makabe/stairs.jpg)
+
+![](/assets/works/ushio-makabe/stairs-zoom.jpg)
