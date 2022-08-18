@@ -1,7 +1,7 @@
 ---
 title_en: Mini Concert for Mandolin Chamber Music
 title_ja: マンドリン室内楽のための小さな音楽会
-creator: "D: Kazumi Inada CL: Aribabella"
+creator: "D: Kazumi Inada CL: AriaBella"
 materials:
 year: 2022
 tags: design branding graphic printed ariabella
