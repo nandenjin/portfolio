@@ -16,6 +16,14 @@ external_infos:
     url: http://kameyamatriennale.jp/
 ---
 
+---
+
+**これは亀山トリエンナーレ実行委員会の運営するページではありません。[公式サイト](http://kameyamatriennale.jp/)をご利用ください。**
+
+**This page is NOT written by Kameyama Triennale Committee. Please visit [Official Website](http://kameyamatriennale.jp/).**
+
+---
+
 三重県亀山市で開催の「亀山トリエンナーレ 2022」に参加します。「高村書店」をお借りし、店舗内で展示を行います。
 
 > 亀山トリエンナーレ （かめやまトリエンナーレ、Kameyama Triennale）は、三重県亀山市で開催されている現代美術の祭典。人と作品が出合い、芸術文化の振興と街の活性化が狙い。最近は新人作家の発掘、国際交流の促進にも力点が置かれている。
