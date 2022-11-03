@@ -2,6 +2,7 @@
 - [住人たち / Residents](/pages/works/residents.md)
 - [カリヨン / Carillon](/pages/works/carillon.md)
 - [Instant Sympathy](/pages/works/sympathy.md)
+- [潮（亀山） / Tide (Kameyama)](/pages/works/ushio-kameyama.md)
 - [つくば SKIP アカデミー プログラミング実習 2021 \ "Programming Workshop 2021: Tsukuba SKIP Academy](/pages/works/skip-ws-21.md)
 - [筑波大学アート・コレクション展『Perspective －視点を変えて「み」る－』 / Collection Gallery of University Tsukuba "Perspective"](/pages/works/ut-collection-perspective.md)
 - [潮（真壁） / Tide (Makabe)](/pages/works/ushio-makabe.md)
