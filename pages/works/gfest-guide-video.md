@@ -6,7 +6,7 @@ materials: Video
 year: 2022
 tags: video education tomoya-onuki takuto-okamoto
 info:
-thumbnail: /assets/works/gfest-guide-video/capture_ishida.jpg
+thumbnail: /assets/works/gfest-guide-video/capture_ishida-0.jpg
 release: 2022-09-12
 ---
 
