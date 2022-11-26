@@ -7,8 +7,8 @@ session_end: 2023-04-08
 locations:
   - title_ja: 現代芸術振興財団ギャラリー
     title_en: Contemporary Art Foundation Gallery
-    lat: 32.6770977
-    lng: 129.4374944
+    lat: 35.6618627085482
+    lng: 139.7314945876261
 related_works: []
 thumbnail: /assets/events/caf-ushio/ushio_visual_16-9.jpg
 external_infos:
