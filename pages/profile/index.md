@@ -10,11 +10,18 @@ Creating things such as media arts, graphic design works and stage performances 
 
 ## Concept
 
-わたしたちは、自分たちの生きる世界や自分たち自身を観察するにあたって、究極的には自己が現在有している肉体を離れることができません。ひとつの視点を使い続ける限り、全ての物事を目にすることはできないからです。これは、立体迷路の中に入って歩き回ることで、全体の把握を試みるようなものです。
+わたしたちの知覚するすべての物事は、肉体が持つ物理的制約や、無意識なバイアスによる影響を受けています。身体と主観だけを頼りに周囲を見わたすことは、立体迷路の中から全体の把握を試みるようなもので、正確ではない可能性があるように思われます。わたしたちがいる世界の、またはわたしたち自身の、完全な本当の姿を捉えることはできないのでしょうか？
 
-この問題に対して稲田は、対象をモデル化するという手法でアプローチを試みています。ここでのモデル化とは、あるものから得られるデータや観察結果、そのもの自身の断片を元に、同様の特性をもつ抽象的存在（モデル）を新たに生み出すことを言います。この作業は、その手法次第で私たちに、成果物を通じて対象物を観察する新たな視点を与えることができます。
+この問題に対して私は、対象をモデル化し構造化することでアプローチしています。つまり、得られるデータや観察結果、そのもの自身の断片を元に、同等な特性をもつ抽象的存在（モデル）を新たに生み出し、法則性を見出すことを試みています。対象物を観察する新たな視座を生み出し、観測結果を論理的処理により分析することは、わたしたちに見える対象物の姿をより正確で客観性の高いものにするのではないかと考えています。
 
-稲田の制作では、電気やテクノロジーの力を借りて作り出した「モデル」と、その「観察方法のヒント」をひとつにしてメディアに格納し、観察装置を作り出すことを目的としています。モデルには、制作者の手を離れてひとりでに動くことで、制作者自らも予期しない様相を見せることを期待します。また、制作者が提示する観察方法をあえて無視することで、鑑賞者自らが新たな観察方法を生み出すこともできるかもしれません。
+コンピュータやセンサは、自らの身体や感覚では正確に視ることができない外界を測定し、複製し、観察することを可能にしてくれます。私にとって、自己や自己が属する世界の俯瞰に取り組むことは、混沌としてみえる世界に秩序を見出して生きるための挑戦です。
+
+Everything we perceive is influenced by the physical limitations of our bodies and unconscious biases. Looking around with just the body and subjectivity can be inaccurate, like trying to get the whole picture from a three-dimensional maze. Is it not possible to get a complete and true picture of the world we are in, or of ourselves?
+
+My approach to this question is through the modelling and structuring of the subject. In other words, I try to create a new abstract entity (model) with equivalent properties based on the data, observations and fragments of the object itself in order to discover its laws. I
+believe that creating new perspectives from which to observe objects, and analysing the results of observations through logical processing, will make the objects we see more accurate and objective.
+
+Computers and sensors allow us to measure, reproduce and observe the external world that we cannot accurately see with our bodies and senses. For me, the work on a bird's eye view of the self and the world of which it is a part is a challenge to find order in a world that seems chaotic and to live in it.
 
 ## Work Experience
 
@@ -43,7 +50,10 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 
 ## Media
 
+- 美術手帖 Web[『国内最大級の学生向けアートコンペ「CAF 賞 2021」の受賞者が決定。最優秀賞は稲田和巳』](https://bijutsutecho.com/magazine/news/promotion/24852)（2021）
 - 筑波大学情報メディア創成学類 学類紙 MAST Web『【特集】私の一年： 稲田和巳 (mast17)』 (2018)([Archive](https://web.archive.org/web/20210227074936/https://magazine.mast.tsukuba.ac.jp/archives/3682))
+
+<!-- WIP/Update required
 
 ## Skills & Tools
 
@@ -85,3 +95,5 @@ See also: [GitHub](https://github.com/nandenjin)
 ### Others
 
 - Stage Lighting, DMX, Art-Net
+
+-->
