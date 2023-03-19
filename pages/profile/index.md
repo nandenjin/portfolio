@@ -8,7 +8,7 @@ Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, Master’s Progra
 
 Creating things such as media arts, graphic design works and stage performances with collapsing border between technology and arts.
 
-Contact: hello:at:nandenjin.com
+**Contact: hello:at:nandenjin.com**
 
 ## Concept
 
