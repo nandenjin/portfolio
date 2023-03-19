@@ -8,6 +8,8 @@ Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, Master’s Progra
 
 Creating things such as media arts, graphic design works and stage performances with collapsing border between technology and arts.
 
+Contact: hello:at:nandenjin.com
+
 ## Concept
 
 わたしたちの知覚するすべての物事は、肉体が持つ物理的制約や、無意識なバイアスによる影響を受けています。身体と主観だけを頼りに周囲を見わたすことは、立体迷路の中から全体の把握を試みるようなもので、正確ではない可能性があるように思われます。わたしたちがいる世界の、またはわたしたち自身の、完全な本当の姿を捉えることはできないのでしょうか？
