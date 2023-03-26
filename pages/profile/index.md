@@ -1,29 +1,18 @@
 ![](/assets/profile/profile.jpg)
 
-1997 年、大阪府生まれ。2021 年より筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム グラフィックデザイン研究室に在学中。
-
-情報科学・芸術に興味を持ち、メディアアート・グラフィックデザイン・舞台作品などの創作活動を行う。技術的・芸術的魅力を共に活かすものづくりに取り組んでいる。
-
-Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, Master’s Program in Informatics from 2021, via College of Media Arts, Science and Technology from 2017.
-
-Creating things such as media arts, graphic design works and stage performances with collapsing border between technology and arts.
-
 **Contact: hello:at:nandenjin.com**
 
-## Concept
+1997 年、大阪府生まれ。2021 年より筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム グラフィックデザイン研究室に在学中。
 
-わたしたちの知覚するすべての物事は、肉体が持つ物理的制約や、無意識なバイアスによる影響を受けています。身体と主観だけを頼りに周囲を見わたすことは、立体迷路の中から全体の把握を試みるようなもので、正確ではない可能性があるように思われます。わたしたちがいる世界の、またはわたしたち自身の、完全な本当の姿を捉えることはできないのでしょうか？
-
-この問題に対して私は、対象をモデル化し構造化することでアプローチしています。つまり、得られるデータや観察結果、そのもの自身の断片を元に、同等な特性をもつ抽象的存在（モデル）を新たに生み出し、法則性を見出すことを試みています。対象物を観察する新たな視座を生み出し、観測結果を論理的処理により分析することは、わたしたちに見える対象物の姿をより正確で客観性の高いものにするのではないかと考えています。
+計算機やデジタルメディアを用いて身の回りの外界を構造化し、社会の姿を正確に観察する手法を生み出すことに取り組んでいます。わたしたちが外界を視るにあたってつきまとう主観や無意識なバイアスといったノイズを可能な限り排除し、身体を超えた客観的な俯瞰視点を得ることを目指しています。
 
 コンピュータやセンサは、自らの身体や感覚では正確に視ることができない外界を測定し、複製し、観察することを可能にしてくれます。私にとって、自己や自己が属する世界の俯瞰に取り組むことは、混沌としてみえる世界に秩序を見出して生きるための挑戦です。
 
-Everything we perceive is influenced by the physical limitations of our bodies and unconscious biases. Looking around with just the body and subjectivity can be inaccurate, like trying to get the whole picture from a three-dimensional maze. Is it not possible to get a complete and true picture of the world we are in, or of ourselves?
+Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, Master’s Program in Informatics from 2021, via College of Media Arts, Science and Technology from 2017.
 
-My approach to this question is through the modelling and structuring of the subject. In other words, I try to create a new abstract entity (model) with equivalent properties based on the data, observations and fragments of the object itself in order to discover its laws. I
-believe that creating new perspectives from which to observe objects, and analysing the results of observations through logical processing, will make the objects we see more accurate and objective.
+I am working to create a method for accurately observing the state of society, using computers and digital media to structure the external world around us. Our goal is to eliminate as much as possible the noise, such as subjectivity and unconscious bias, that haunts our perception of the outside world, and to obtain an objective bird's-eye view that transcends the physical body.
 
-Computers and sensors allow us to measure, reproduce and observe the external world that we cannot accurately see with our bodies and senses. For me, the work on a bird's eye view of the self and the world of which it is a part is a challenge to find order in a world that seems chaotic and to live in it.
+Computers and sensors enable us to measure, duplicate, and observe the external world, which we cannot see accurately with our bodies or senses. For me, working on acquiring a bird's-eye view of the self and the world to which it belongs is a challenge to find order in a world that appears chaotic and to live in it.
 
 ## Work Experience
 
