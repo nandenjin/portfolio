@@ -1,20 +1,18 @@
 ![](/assets/profile/profile.jpg)
 
+**Contact: hello:at:nandenjin.com**
+
 1997 年、大阪府生まれ。2021 年より筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム グラフィックデザイン研究室に在学中。
 
-情報科学・芸術に興味を持ち、メディアアート・グラフィックデザイン・舞台作品などの創作活動を行う。技術的・芸術的魅力を共に活かすものづくりに取り組んでいる。
+計算機やデジタルメディアを用いて身の回りの外界を構造化し、社会の姿を正確に観察する手法を生み出すことに取り組んでいます。わたしたちが外界を視るにあたってつきまとう主観や無意識なバイアスといったノイズを可能な限り排除し、身体を超えた客観的な俯瞰視点を得ることを目指しています。
+
+コンピュータやセンサは、自らの身体や感覚では正確に視ることができない外界を測定し、複製し、観察することを可能にしてくれます。私にとって、自己や自己が属する世界の俯瞰に取り組むことは、混沌としてみえる世界に秩序を見出して生きるための挑戦です。
 
 Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, Master’s Program in Informatics from 2021, via College of Media Arts, Science and Technology from 2017.
 
-Creating things such as media arts, graphic design works and stage performances with collapsing border between technology and arts.
+I am working to create a method for accurately observing the state of society, using computers and digital media to structure the external world around us. Our goal is to eliminate as much as possible the noise, such as subjectivity and unconscious bias, that haunts our perception of the outside world, and to obtain an objective bird's-eye view that transcends the physical body.
 
-## Concept
-
-わたしたちは、自分たちの生きる世界や自分たち自身を観察するにあたって、究極的には自己が現在有している肉体を離れることができません。ひとつの視点を使い続ける限り、全ての物事を目にすることはできないからです。これは、立体迷路の中に入って歩き回ることで、全体の把握を試みるようなものです。
-
-この問題に対して稲田は、対象をモデル化するという手法でアプローチを試みています。ここでのモデル化とは、あるものから得られるデータや観察結果、そのもの自身の断片を元に、同様の特性をもつ抽象的存在（モデル）を新たに生み出すことを言います。この作業は、その手法次第で私たちに、成果物を通じて対象物を観察する新たな視点を与えることができます。
-
-稲田の制作では、電気やテクノロジーの力を借りて作り出した「モデル」と、その「観察方法のヒント」をひとつにしてメディアに格納し、観察装置を作り出すことを目的としています。モデルには、制作者の手を離れてひとりでに動くことで、制作者自らも予期しない様相を見せることを期待します。また、制作者が提示する観察方法をあえて無視することで、鑑賞者自らが新たな観察方法を生み出すこともできるかもしれません。
+Computers and sensors enable us to measure, duplicate, and observe the external world, which we cannot see accurately with our bodies or senses. For me, working on acquiring a bird's-eye view of the self and the world to which it belongs is a challenge to find order in a world that appears chaotic and to live in it.
 
 ## Work Experience
 
@@ -43,7 +41,10 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 
 ## Media
 
+- 美術手帖 Web[『国内最大級の学生向けアートコンペ「CAF 賞 2021」の受賞者が決定。最優秀賞は稲田和巳』](https://bijutsutecho.com/magazine/news/promotion/24852)（2021）
 - 筑波大学情報メディア創成学類 学類紙 MAST Web『【特集】私の一年： 稲田和巳 (mast17)』 (2018)([Archive](https://web.archive.org/web/20210227074936/https://magazine.mast.tsukuba.ac.jp/archives/3682))
+
+<!-- WIP/Update required
 
 ## Skills & Tools
 
@@ -85,3 +86,5 @@ See also: [GitHub](https://github.com/nandenjin)
 ### Others
 
 - Stage Lighting, DMX, Art-Net
+
+-->
