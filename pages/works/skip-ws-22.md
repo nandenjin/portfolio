@@ -6,7 +6,7 @@ materials: Workshop
 year: 2022
 tags: workshop kosho-asaga mikihiro-suda natsuki-endo
 info:
-thumbnail:
+thumbnail: /assets/works/skip-ws-22/focus_1.jpg
 release: 2022-10-16
 ---
 
@@ -17,6 +17,20 @@ release: 2022-10-16
 Designed and taught programming practice materials at [Tsukuba SKIP Academy](https://skip.tsukuba.ac.jp), a social collaboration project by University of Tsukuba, for elementary and junior high school students. Through a 30-minute lecture and 90-minute hands-on practice, students learned about various situations in which "programs" play an active role in society, and worked on designing and implementing applications based on their own ideas. The aim of the experience was to provide a clue for students who are willing to engage in advanced research with the help of university staff to enhance their own efforts using the power of programs and computers.
 
 In this year's project, a continuation of [the previous year](/pages/works/skip-ws-21.md), group discussions were held with students and lecturers at the planning stage, aiming to stimulate students to learn from the ideas of others and to acquire the ability to objectively estimate the validity of the design and the amount of implementation.
+
+![](/assets/works/skip-ws-22/topview.jpg)
+
+![](/assets/works/skip-ws-22/side_0.jpg)
+
+![](/assets/works/skip-ws-22/focus_0.jpg)
+
+![](/assets/works/skip-ws-22/focus_3.jpg)
+
+![](/assets/works/skip-ws-22/side_1.jpg)
+
+![](/assets/works/skip-ws-22/focus_1.jpg)
+
+![](/assets/works/skip-ws-22/focus_4.jpg)
 
 ## Staff
 
