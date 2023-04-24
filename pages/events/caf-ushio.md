@@ -22,8 +22,6 @@ external_infos:
 
 現代芸術振興財団ギャラリー（六本木）で個展を開催します。
 
-![](/assets/events/caf-ushio/ushio_visual_16-9.jpg)
-
 > この度、現代芸術振興財団は稲田和巳個展「潮」を開催いたします。
 >
 > 稲田は、自身や身の回りの外界を計算機を用いて構造化し、観察することを試みてきました。作品を制作するアーティストであると同時に、背後にあるテクノロジーに携わるエンジニアとして活動することも特徴です。その作品は、稲田が「観測装置」と形容するように、見るもの自身が主体的に読み解き、我々の生きる世界への解釈を見出すことを促します。
@@ -35,6 +33,16 @@ external_infos:
 > Inada has attempted to structure and observe himself and the world around him using computers. At the same time as an artist producing his work, he is also an engineer involved in the technology behind him. As Inada describes it as an "observation device," the work encourages the viewer to independently interpret it and find an interpretation of the world in which we live.
 >
 > In this exhibition, we will exhibit new media art works created by constructing a simulation system.
+
+![](/assets/events/caf-ushio/ushio_visual_16-9.jpg)
+
+![](/assets/events/caf-ushio/view_0.jpg)
+
+![](/assets/events/caf-ushio/view_1.jpg)
+
+![](/assets/events/caf-ushio/view_2.jpg)
+
+![](/assets/events/caf-ushio/view_3.jpg)
 
 ## Overview
 
@@ -55,5 +63,7 @@ CAF Award 2021 Grand Prize Winner Kazumi Inada Solo Exhibition “Ushio”
 ## Credits
 
 - ビジュアルデザイン: [岡本太玖斗](https://takuto-okamoto.com/)
+- 施工: [HIGURE 17-15 cas](http://higure1715cas.com/) / [株式会社オール](https://www.oaroar.com/)
 
 - VD: [Takuto Okamoto](https://takuto-okamoto.com/)
+- Construction: [HIGURE 17-15 cas](http://higure1715cas.com/) / [Oar Inc.](https://www.oaroar.com/)
