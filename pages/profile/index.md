@@ -1,7 +1,3 @@
-![](/assets/profile/profile.jpg)
-
-**Contact: hello:at:nandenjin.com**
-
 1997 年、大阪府生まれ。2021 年より筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム グラフィックデザイン研究室に在学中。
 
 計算機やデジタルメディアを用いて身の回りの外界を構造化し、社会の姿を正確に観察する手法を生み出すことに取り組んでいます。わたしたちが外界を視るにあたってつきまとう主観や無意識なバイアスといったノイズを可能な限り排除し、身体を超えた客観的な俯瞰視点を得ることを目指しています。
@@ -14,12 +10,18 @@ I am working to create a method for accurately observing the state of society, u
 
 Computers and sensors enable us to measure, duplicate, and observe the external world, which we cannot see accurately with our bodies or senses. For me, working on acquiring a bird's-eye view of the self and the world to which it belongs is a challenge to find order in a world that appears chaotic and to live in it.
 
+[![](/assets/events/caf-ushio/interview_0.jpg)](https://www.youtube.com/watch?v=Aa8_Xgpr9vo)
+
+## Contact
+
+- hello:at:nandenjin.com
+
 ## Work Experience
 
-- (2017-2018) [Has-Key Inc.](https://www.has-key.org/) - Web Engineer
+- (2017 - 2018) [Has-Key Inc.](https://www.has-key.org/) - Web Engineer
 - (2019) [teamLab Inc.](https://www.teamlab.art/) - Installation Engineer (Internship)
 - (2021) [Yahoo! JAPAN](https://about.yahoo.co.jp) - Data Solution Designer (Internship)
-- (2019-Now) [Tsukuba Expo Center](https://www.expocenter.or.jp/) - Student Staff
+- (2019 - Now) [Tsukuba Expo Center](https://www.expocenter.or.jp/) - Student Staff
 
 More at [Wantedly](https://www.wantedly.com/id/kzmi)
 
@@ -27,7 +29,8 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 
 - (2014 - 2016) Tennoji High School attached to Osaka Kyoiku University / 大阪教育大学附属高等学校天王寺校舎
 - (2017 - 2021) University of Tsukuba, college of Media Arts, Science and Technology / 筑波大学 情報学群 情報メディア創成学類
-- (2021 -) University of Tsukuba, Graduate School of Comprehensive Human Sciences, Degree Programs in Comprehensive Human Sciences, Master’s Program in Informatics / 筑波大学大学院 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム 博士前期課程
+- (2021 - 2023) University of Tsukuba, Graduate School of Comprehensive Human Sciences, Degree Programs in Comprehensive Human Sciences, Master’s Program in Informatics / 筑波大学大学院 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム 博士前期課程
+- (2023 - Now) University of Tsukuba, Graduate School of Comprehensive Human Sciences, Degree Programs in Comprehensive Human Sciences, Doctoral Program in Informatics / 筑波大学大学院 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム 博士後期課程
 
 ## Awards
 
@@ -39,8 +42,14 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 - 亀山トリエンナーレ 2020 出展ノミネート (2019)
 - 筑波大学工作室「創房大賞」最優秀賞 (2018)
 
+## Scholarships
+
+- [クマ財団クリエイター奨学生 第 7 期](https://kuma-foundation.org/student/kazumi-inada/) / [Kuma Foundation: Creator Scholarship](https://kuma-foundation.org/student/kazumi-inada/) (2023)
+- [国立研究開発法人 科学技術振興機構（JST）次世代研究者挑戦的研究プログラム](https://www.jst.go.jp/jisedai/)（採択機関: 筑波大学）/ Japan Science and Technology Agency: Support for Pioneering Research Initiated by the Next Generation (SPRING) (as a student of University of Tsukuba) (2023 - 2027)
+
 ## Media
 
+- 現代芸術振興財団 [INTERVIEW: Artists #38 稲田和巳](https://gendai-art.org/interviews/artists_kazumiinada/) (2023)
 - 美術手帖 Web[『国内最大級の学生向けアートコンペ「CAF 賞 2021」の受賞者が決定。最優秀賞は稲田和巳』](https://bijutsutecho.com/magazine/news/promotion/24852)（2021）
 - 筑波大学情報メディア創成学類 学類紙 MAST Web『【特集】私の一年： 稲田和巳 (mast17)』 (2018)([Archive](https://web.archive.org/web/20210227074936/https://magazine.mast.tsukuba.ac.jp/archives/3682))
 
