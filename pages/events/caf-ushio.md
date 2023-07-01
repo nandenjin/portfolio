@@ -77,3 +77,10 @@ A field work and a talk session was held with [tomotosi](http://tomotosi.com/) &
 
 - VD: [Takuto Okamoto](https://takuto-okamoto.com/)
 - Construction: [HIGURE 17-15 cas](http://higure1715cas.com/) / [Oar Inc.](https://www.oaroar.com/)
+
+## Media
+
+- Numero Tokyo [若手アーティストの登竜門「CAF 賞」受賞・稲田和巳展＠現代芸術振興財団](https://numero.jp/news-20230221-kazumiinada/)
+- TOKYO ART BEAT [稲田和巳 「潮」公益財団法人現代芸術振興財団事務局](https://www.tokyoartbeat.com/events/-/Kazumi-Inada-Ushio/AD9D1C2A/2023-02-18)
+- 美術手帖 [CAF 賞 2021 最優秀賞受賞作家 稲田和巳 個展『潮』現代芸術振興財団](https://bijutsutecho.com/exhibitions/11313)
+- 朝日新聞 首都圏版 2023.2.21 夕刊アート情報欄
