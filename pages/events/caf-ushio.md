@@ -34,6 +34,8 @@ external_infos:
 >
 > In this exhibition, we will exhibit new media art works created by constructing a simulation system.
 
+[![](/assets/events/caf-ushio/interview_0.jpg)](https://www.youtube.com/watch?v=Aa8_Xgpr9vo)
+
 ![](/assets/events/caf-ushio/ushio_visual_16-9.jpg)
 
 ![](/assets/events/caf-ushio/view_0.jpg)
@@ -59,6 +61,14 @@ CAF Award 2021 Grand Prize Winner Kazumi Inada Solo Exhibition “Ushio”
 - hours: Exhibition period Middle Thurs & Fri 12:00-18:00, Sat 12:00-19:00
 - Venue: Contemporary Art Foundation (6-6-9 Roppongi, Minato-ku, Tokyo Piramide Bldg. 4th floor)
 - Admission free, advance reservation not required
+
+## Talk session
+
+アーティストの[トモトシ](http://tomotosi.com/)・[花形槇](https://www.shinhanagata.com/)を迎え、フィールドワークとトークセッションを開催しました。
+
+A field work and a talk session was held with [tomotosi](http://tomotosi.com/) & [Shin Hanagata](https://www.shinhanagata.com/).
+
+[![](/assets/events/caf-ushio/talk_0.jpg)](https://www.youtube.com/watch?v=PLxmK3oVGL0)
 
 ## Credits
 
