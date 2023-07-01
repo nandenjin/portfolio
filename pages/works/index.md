@@ -9,7 +9,6 @@
 - [つくば SKIP アカデミー プログラミング実習 2021 \ "Programming Workshop 2021: Tsukuba SKIP Academy](/pages/works/skip-ws-21.md)
 - [筑波大学アート・コレクション展『Perspective －視点を変えて「み」る－』 / Collection Gallery of University Tsukuba "Perspective"](/pages/works/ut-collection-perspective.md)
 - [潮（真壁） / Tide (Makabe)](/pages/works/ushio-makabe.md)
-- [つくば SKIP アカデミー プログラミング実習 2021 \ "Programming Workshop 2021: Tsukuba SKIP Academy](/pages/works/skip-ws-21.md)
 - [おとしもの / The Lost Thing](/pages/works/the-lost-thing.md)
 - [リズム / Rhythm](/pages/works/ri.md)
 - [BEAUTIFULL Image Generator](/pages/works/fyb.md)
