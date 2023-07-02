@@ -3,11 +3,11 @@
 アーティスト、テクニカルディレクター / Artist & Technical Director
 
 - <a href="https://github.com" target="_blank" rel="me noreferrer noopener">GitHub</a>
-- <a href="https:/instagram.com/nandenjin" target="_blank" rel="me noreferrer noopener">Instagram</a>
+- <a href="https://instagram.com/nandenjin" target="_blank" rel="me noreferrer noopener">Instagram</a>
 - <a href="https://mstdn.jp/@kzmi" target="_blank" rel="me noreferrer noopener">Mastodon</a>
-- <a href="https:/youtube.com/@KazumiInada" target="_blank" rel="me noreferrer noopener">YouTube</a>
+- <a href="https://youtube.com/@KazumiInada" target="_blank" rel="me noreferrer noopener">YouTube</a>
 - <a href="https://twitter.com/nandenjin" target="_blank" rel="me noreferrer noopener">Twitter</a>
-- <a href="https:/facebook.com/nandenjin" target="_blank" rel="me noreferrer noopener">Facebook</a>
+- <a href="https://facebook.com/nandenjin" target="_blank" rel="me noreferrer noopener">Facebook</a>
 
 1997 年大阪府生まれ。2021 年より筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム グラフィックデザイン研究室に在学中。
 
