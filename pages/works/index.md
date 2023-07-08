@@ -2,6 +2,7 @@
 - [潮（六本木） / Tide (Roppongi)](/pages/works/ushio-rpng.md)
 - [Instant Sympathy](/pages/works/sympathy.md)
 - [潮（亀山） / Tide (Kameyama)](/pages/works/ushio-kameyama.md)
+- [Another Skin 川島史也の彫刻 / Another Skin: Sculptures by KAWASHIMA Fumiya](/pages/works/kwsm.md)
 - [つくば SKIP アカデミー プログラミング実習 2022 \ "Programming Workshop 2022: Tsukuba SKIP Academy](/pages/works/skip-ws-22.md)
 - [カリヨン / Carillon](/pages/works/carillon.md)
 - [中高生のための研究サポート動画 / Introduction of Academic Study for Junior Highschool and Highschool Students](/pages/works/gfest-guide-video.md)
