@@ -30,7 +30,7 @@ In this year's project, a continuation of [the previous year](/pages/works/skip-
 
 ![](/assets/works/skip-ws-22/focus_1.jpg)
 
-![](/assets/works/skip-ws-22/focus_4.jpg)
+![](/assets/works/skip-ws-22/focus_2.jpg)
 
 ## Staff
 
