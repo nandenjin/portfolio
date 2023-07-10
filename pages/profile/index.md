@@ -9,7 +9,7 @@
 - <a href="https://twitter.com/nandenjin" target="_blank" rel="me noreferrer noopener">Twitter</a>
 - <a href="https://facebook.com/nandenjin" target="_blank" rel="me noreferrer noopener">Facebook</a>
 
-1997 年大阪府生まれ。2021 年より筑波大学 人間総合科学学術院 人間総合科学研究群 情報学学位プログラム グラフィックデザイン研究室に在学中。
+1997 年大阪府生まれ。2021 年より筑波大学大学院 情報学学位プログラム グラフィックスデザイン研究室に在学中。
 
 計算機やデジタルメディアを用いて身の回りの外界を構造化し、社会の姿を正確に観察する手法を生み出すことに取り組んでいます。わたしたちが外界を視るにあたってつきまとう主観や無意識なバイアスといったノイズを可能な限り排除し、身体を超えた客観的な俯瞰視点を得ることを目指しています。
 
