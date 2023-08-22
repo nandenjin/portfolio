@@ -1,3 +1,4 @@
+- [個展『潮』のカタログが発行されました](/pages/news/230822_ushio-rpng-catalog.md)
 - [CAF 賞 2021 で受賞しました](/pages/news/211128_caf21_award.md)
 - [CAF 賞 2021 入選作品展に参加します](/pages/news/211101_caf21.md)
 - [アートアンドテクノロジー東北 2021 で作品が受賞しました](/pages/news/211028_at21.md)

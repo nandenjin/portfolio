@@ -62,6 +62,26 @@ CAF Award 2021 Grand Prize Winner Kazumi Inada Solo Exhibition “Ushio”
 - Venue: Contemporary Art Foundation (6-6-9 Roppongi, Minato-ku, Tokyo Piramide Bldg. 4th floor)
 - Admission free, advance reservation not required
 
+## Catalog
+
+- 作品・展示風景画像
+- 展評（谷口暁彦・久保ガエタン）
+- 作家インタビュー
+- トークセッション（稲田和巳 × トモトシ × 花形槙）
+
+デザイン: [岡本太玖斗（SINGS）](https://takuto-okamoto.com/)
+
+[現代芸術振興財団 Web ページのフォーム](https://gendai-art.org/catalog/)から請求できます（無料）。残部がなくなり次第、フォームへの掲載は終了します。
+
+- Photos of works and exhibition view
+- Exhibition review by Akihiko Taniguchi and Gaetan Kubo
+- Interview with the artist
+- Talk session by Kazumi Inada, Tomotoshi, and Maki Hanagata
+
+Designed by: [Takuto Okamoto (SINGS)](https://takuto-okamoto.com/)
+
+Starting today, you can request a copy (free of charge) through [Contemporary Art Foundation](https://gendai-art.org/catalog/). The form will be closed when all remaining copies are gone.
+
 ## Talk session
 
 アーティストの[トモトシ](http://tomotosi.com/)・[花形槇](https://www.shinhanagata.com/)を迎え、フィールドワークとトークセッションを開催しました。
