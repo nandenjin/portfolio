@@ -2,6 +2,8 @@
 
 アーティスト、テクニカルディレクター / Artist & Technical Director
 
+![](/assets/profile/profile.jpg)
+
 - <a href="https://github.com" target="_blank" rel="me noreferrer noopener">GitHub</a>
 - <a href="https://instagram.com/nandenjin" target="_blank" rel="me noreferrer noopener">Instagram</a>
 - <a href="https://mstdn.jp/@kzmi" target="_blank" rel="me noreferrer noopener">Mastodon</a>
