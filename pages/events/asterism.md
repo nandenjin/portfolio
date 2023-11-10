@@ -5,8 +5,8 @@ title_en: KUMA experiment 2023-24 ASTERISM（⁂）
 session_start: 2023-11-11
 session_end: 2023-11-26
 locations:
-  - title_ja: 渋谷PARCO
-    title_en: Shibuya PARCO
+  - title_ja: クマ財団ギャラリー
+    title_en: KUMA Gallery
     lat: 35.66354913229108
     lng: 139.728145503728
     address: 〒106-0032 東京都港区六本木7丁目21−24 THE MODULE Roppongi 206
@@ -31,6 +31,14 @@ thumbnail: /assets/works/ushio-rpng-walk/overview.jpg
 > 本展は、偶然に散らばる「ASTERISM」（星群）をささやかな表題として、テキスタイル・メディアアート・作曲・油絵・映画・サイエンスといった異なるジャンルで活動する 6 名のグループ展です。
 >
 > それぞれの活動に打ち込む 6 名が一堂に会する機会は、まるで星群。想像の余白を残しながら、ただそこに広がる「ASTERISM」として鑑賞者を新たな視点へ誘います。
+
+## 来場案内
+
+- 2023 年 11 月 11 日（土）〜11 月 26 日（日）11:00〜19:00
+- クマ財団ギャラリー（六本木駅から徒歩 4 分・[アクセス](https://kuma-foundation.org/gallery/access/)）
+- 入場無料、火・水曜日休廊
+
+詳しくは[クマ財団ギャラリー Web サイト](https://kuma-foundation.org/gallery/event/kuma-experiment23-24_02/)をご覧ください。
 
 ## レセプションイベント
 
