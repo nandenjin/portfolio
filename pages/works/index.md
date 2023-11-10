@@ -1,5 +1,6 @@
 - [住人たち / Residents](/pages/works/residents.md)
 - [潮（六本木） / Tide (Roppongi)](/pages/works/ushio-rpng.md)
+- [潮（六本木）- 右か左かみんなで決める / Tide (Roppongi) - Decide right or left with everyone](/pages/works/ushio-rpng-walk.md)
 - [Instant Sympathy](/pages/works/sympathy.md)
 - [潮（亀山） / Tide (Kameyama)](/pages/works/ushio-kameyama.md)
 - [Another Skin 川島史也の彫刻 / Another Skin: Sculptures by KAWASHIMA Fumiya](/pages/works/kwsm.md)
