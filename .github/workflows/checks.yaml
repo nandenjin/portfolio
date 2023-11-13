@@ -1,0 +1,13 @@
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify links
+        uses: Youssef1313/markdown-links-verifier@v0.1.3
+            
