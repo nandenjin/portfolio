@@ -32,6 +32,8 @@ thumbnail: /assets/works/ushio-rpng-walk/overview.jpg
 >
 > それぞれの活動に打ち込む 6 名が一堂に会する機会は、まるで星群。想像の余白を残しながら、ただそこに広がる「ASTERISM」として鑑賞者を新たな視点へ誘います。
 
+[![](https://i.ytimg.com/vi/E8nlaRY63Aw/maxresdefault.jpg)](https://www.youtube.com/watch?v=E8nlaRY63Aw)
+
 ## 来場案内
 
 - 2023 年 11 月 11 日（土）〜11 月 26 日（日）11:00〜19:00
