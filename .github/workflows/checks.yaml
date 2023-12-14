@@ -1,0 +1,14 @@
+name: checks
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+            
