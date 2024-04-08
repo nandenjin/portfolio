@@ -11,7 +11,7 @@ locations:
     lng: 139.69877977333206
     address: 東京都渋谷区宇田川町15-1
 related_works: []
-thumbnail: /pond23/thumbnail.jpg
+thumbnail: /events/pond23/thumbnail.jpg
 ---
 
 渋谷パルコが開催されるアートイベント「[P.O.N.D.](https://pond.parco.jp/)」の一部として、[平砂アートムーヴメント](https://hirasunaartmovement.org/)の企画する、パフォーマンスを中心としたプログラムに参加します。
@@ -24,7 +24,7 @@ thumbnail: /pond23/thumbnail.jpg
 >
 > 渋谷の〈公園〉で、他者と行為を共有する方法について考えています。ぜひご来場ください。
 
-![HAM 👋 POND](/pond23/thumbnail.jpg)
+![HAM 👋 POND](/events/pond23/thumbnail.jpg)
 
 - [HAM](https://hirasunaartmovement.org/)
   - 日時 : 10/15、10/22 13:00-19:00

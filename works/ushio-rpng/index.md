@@ -43,8 +43,8 @@ The mathematical processes involved in the production are implemented by compute
 
 ![](/events/caf-ushio/view_2.jpg)
 
-[『潮』展 (2023)](/pages/events/caf-ushio.md)関連イベントで開催されたトークセッションの様子がご覧いただけます。
+[『潮』展 (2023)](/events/caf-ushio)関連イベントで開催されたトークセッションの様子がご覧いただけます。
 
-The recording of the talk session at [exhibition "Ushio" (2023)](/pages/events/caf-ushio.md) is available.
+The recording of the talk session at [exhibition "Ushio" (2023)](/events/caf-ushio) is available.
 
 [![](/events/caf-ushio/talk_0.jpg)](https://www.youtube.com/watch?v=PLxmK3oVGL0)

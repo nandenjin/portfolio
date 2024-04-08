@@ -17,8 +17,8 @@ release: 2021-11-01
 
 ## イベント詳細
 
-- [CAF 賞 2021 入選作品展](/pages/events/caf21.md)
-- [《住人たち》実物再現展示](/pages/events/residents21.md)
+- [CAF 賞 2021 入選作品展](/events/caf21)
+- [《住人たち》実物再現展示](/events/residents21)
 
 ## 協力者の募集
 

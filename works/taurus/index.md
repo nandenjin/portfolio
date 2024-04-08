@@ -6,7 +6,7 @@ materials: Watercolor pencils and Digital Design
 year: 2018
 tags: design graphic tsukuba-neu stage
 info:
-thumbnail: /works/taurus/taurus_thumb.png
+thumbnail: /works/taurus/taurus_thumb.jpg
 release: 2018-05-19
 ---
 

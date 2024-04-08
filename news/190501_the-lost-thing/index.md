@@ -30,4 +30,4 @@ release: 2019-05-01
 - 宣伝美術：安冨匠
 - 制作：太田帆南・井上睦美
 
-[作品ページ](/pages/works/the-lost-thing.md)もご覧ください。
+[作品ページ](/works/the-lost-thing)もご覧ください。

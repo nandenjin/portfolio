@@ -25,7 +25,7 @@ I am working to create a method for accurately observing the state of society, u
 
 Computers and sensors enable us to measure, duplicate, and observe the external world, which we cannot see accurately with our bodies or senses. For me, working on acquiring a bird's-eye view of the self and the world to which it belongs is a challenge to find order in a world that appears chaotic and to live in it.
 
-[![](/caf-ushio/interview_0.jpg)](https://www.youtube.com/watch?v=Aa8_Xgpr9vo)
+[![](/events/caf-ushio/interview_0.jpg)](https://www.youtube.com/watch?v=Aa8_Xgpr9vo)
 
 ## Contact
 

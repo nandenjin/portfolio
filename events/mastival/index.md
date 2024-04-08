@@ -29,4 +29,4 @@ external_infos:
 > わたしたちは、わたしたちの意志で<br>
 > わたしたちの作品展を開催する
 
-- [ニュースリリース](/pages/news/190201_mastival.md)
+- [ニュースリリース](/news/190201_mastival)

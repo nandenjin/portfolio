@@ -9,8 +9,8 @@ release: 2019-02-01
 
 ## 展示作品 / Works
 
-- [リズム](/pages/works/ri.md)
-- [Instant Sympathy / Instant Sympathy](/pages/works/sympathy.md)
+- [リズム](/works/ri)
+- [Instant Sympathy / Instant Sympathy](/works/sympathy)
 - Behind the scenes of 音のかたち（概要展示）
 
 また、本展のロゴ・ポスターデザインも合わせて担当しています。

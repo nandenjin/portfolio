@@ -5,7 +5,7 @@ tags: art exhibition takuto-okamoto
 release: 2023-08-22
 ---
 
-[個展『潮』](/pages/events/caf-ushio.md)（2023 年 2 月～ 4 月、東京・六本木）のカタログが、主催の現代芸術振興財団から発行されています。
+[個展『潮』](/events/caf-ushio)（2023 年 2 月～ 4 月、東京・六本木）のカタログが、主催の現代芸術振興財団から発行されています。
 
 - 作品・展示風景画像
 - 展評（谷口暁彦・久保ガエタン）
@@ -16,7 +16,7 @@ release: 2023-08-22
 
 本日より、[現代芸術振興財団 Web ページのフォーム](https://gendai-art.org/catalog/)から請求できます（無料）。残部がなくなり次第、フォームへの掲載は終了します。
 
-The catalog of [solo exhibition "Ushio"](/pages/events/caf-ushio.md) (February - April, 2023, Roppongi, Tokyo) is published by the organizer, Contemporary Art Foundation.
+The catalog of [solo exhibition "Ushio"](/events/caf-ushio) (February - April, 2023, Roppongi, Tokyo) is published by the organizer, Contemporary Art Foundation.
 
 - Photos of works and exhibition view
 - Exhibition review by Akihiko Taniguchi and Gaetan Kubo

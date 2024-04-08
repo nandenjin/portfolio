@@ -8,7 +8,7 @@ release: 2020-12-07
 2018 年から継続中のプロジェクト「Instant Sympathy」が、[International Students Creative Award 2020](https://kc-i.jp/activity/award/isca/2020/) デジタルコンテンツ部門にて入選、観客投票では「So good 賞」を受賞しました。ありがとうございます。
 
 - [ノミネート作品 | ISCA2020](https://kc-i.jp/activity/award/isca/2020/nominate/)
-- [Instant Sympathy](/pages/works/sympathy.md)
+- [Instant Sympathy](/works/sympathy)
 
 > インターネットでのユーザーの行動を分析し、オンラインの世界に広がる社会構造を明らかにするシミュレーション作品。
 >

@@ -20,7 +20,7 @@ release: 2021-03-24
 
 - [平砂アートムーヴメント 公式 Twitter](https://twitter.com/hamhamham2019)
 - [フィンラガンつくば駅前店 公式 Facebook](https://www.facebook.com/nigaijinsei/)
-- [「ライカ」について](/pages/works/laika.md)
+- [「ライカ」について](/works/laika)
 
 ![](/works/laika/laika_00.jpg)
 ![](/works/laika/laika_03.jpg)

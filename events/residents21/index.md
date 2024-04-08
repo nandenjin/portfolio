@@ -13,10 +13,10 @@ thumbnail: /events/residents21/01.jpg
 external_infos: []
 ---
 
-[CAF 賞 2021 入選作品展](/pages/events/caf21.md)の開催に合わせ、作品展での展示作品《住人たち》を再制作し、展示します。
+[CAF 賞 2021 入選作品展](/events/caf21)の開催に合わせ、作品展での展示作品《住人たち》を再制作し、展示します。
 
-- [ニュース リリース](/pages/news/211101_caf21.md)
-- 同時開催: [CAF 賞 2021 入選作品展](/pages/events/caf21.md)
+- [ニュース リリース](/news/211101_caf21)
+- 同時開催: [CAF 賞 2021 入選作品展](/events/caf21)
 
 ![](/events/residents21/00.jpg)
 ![](/events/residents21/01.jpg)
@@ -41,6 +41,6 @@ external_infos: []
 
 ### おことわり
 
-- こちらは[CAF 賞 2021 入選作品展](/pages/events/caf21.md)ではありません。
+- こちらは[CAF 賞 2021 入選作品展](/events/caf21)ではありません。
 - 本作品は、建物外から鑑賞するものです。**建物内へは立ち入ることができません。**
 - 本展について、筑波大学へのお問い合わせはお控えください。
