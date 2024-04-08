@@ -1,0 +1,14 @@
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - run: deno test --allow-read ./scripts/check-links.ts .
