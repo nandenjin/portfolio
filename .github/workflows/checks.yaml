@@ -1,3 +1,4 @@
+name: checks
 on:
   push:
     branches:
@@ -11,4 +12,5 @@ jobs:
       - uses: denoland/setup-deno@v1
         with:
           deno-version: v1.x
+      - uses: actions/checkout@v4
       - run: deno test --allow-read ./scripts/check-links.ts .
