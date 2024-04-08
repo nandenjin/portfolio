@@ -8,14 +8,17 @@ import { walkSync, existsSync } from "https://deno.land/std@0.221.0/fs/mod.ts"
 import { relative, resolve } from "https://deno.land/std@0.221.0/path/mod.ts"
 import { join } from "https://deno.land/std@0.221.0/path/join.ts"
 
+/** Absolute path for project root */
 const root = resolve(Deno.args[0] || Deno.cwd())
 
 consola.info(`Checking links in ${root}`)
 
 let hasError = false
+
+// Crawl all markdown files
 for (const entry of walkSync(root, { match: [/\.md$/i] })) {
   consola.trace(entry.path)
-  hasError = (await checkFile(entry.path)) || hasError
+  hasError = (await hasInvalidLink(entry.path)) || hasError
 }
 
 if (hasError) {
@@ -24,26 +27,39 @@ if (hasError) {
   consola.success("All links are OK")
 }
 
-async function checkFile(filename: string): Promise<boolean> {
+/**
+ * Check links in a markdown file
+ * @param filename
+ * @returns true if there are invalid links
+ */
+async function hasInvalidLink(filename: string): Promise<boolean> {
   // Make it absolute path
   filename = resolve(filename)
 
   const markdown = await Deno.readTextFile(filename)
+
+  // Parse markdown
   const node = toAst(markdown) as NodeFixed
-  const links = []
 
-  links.push(...findLinks(node))
+  /** Links collected */
+  const links =
+    // Collect links in markdown
+    findLinks(node)
 
+  // Collect links in Frontmatter
   if (testFm(markdown)) {
     const fm = parseFm<FrontMatter>(markdown)
+
+    // Add thumbnail link
     if (fm.attrs.thumbnail) {
       links.push({ url: fm.attrs.thumbnail, hint: "thumbnail" })
     }
 
+    // Add related_works links
     if (fm.attrs.relaeted_works) {
       links.push(
         ...fm.attrs.relaeted_works.map((id) => ({
-          url: `/works/${id}`,
+          url: `/works/${id}`, // Convert from work id to internal path
           hint: "related_works",
         }))
       )
@@ -52,30 +68,31 @@ async function checkFile(filename: string): Promise<boolean> {
 
   let hasError = false
   for (const link of links) {
-    if (isInternalURL(link.url)) {
-      // Create absolute path
-      const path = join(
-        root,
+    // Skip external links
+    if (!isInternalURL(link.url)) continue
 
-        // Make it absolute path, in repo root
-        resolve("/" + relative(root, filename), "..", link.url)
+    // Create absolute path
+    const path = join(
+      root,
+
+      // Make it absolute path, in repo root
+      resolve("/" + relative(root, filename), "..", link.url)
+    )
+
+    // Check if the file exists
+    if (existsSync(path)) {
+      consola.trace(`OK: ${link.url}`)
+    } else {
+      consola.error(
+        `Invalid link: ${link.url}\n\tat ${filename}${
+          link.line && link.column
+            ? `:${link.line}:${link.column}`
+            : link.hint
+            ? ` (${link.hint})`
+            : ""
+        }`
       )
-
-      if (existsSync(path)) {
-        consola.trace(`OK: ${link.url}`)
-      } else {
-        consola.error(
-          `Invalid link: ${link.url}\n\tat ${filename}${
-            link.line && link.column
-              ? `:${link.line}:${link.column}`
-              : link.hint
-              ? ` (${link.hint})`
-              : ""
-          }`
-        )
-        consola.log(path, filename, link.url)
-        hasError = true
-      }
+      hasError = true
     }
   }
 
@@ -95,10 +112,18 @@ type Link = {
   column?: number
 }
 
+/**
+ * Check if the URL is internal (not to internet)
+ */
 function isInternalURL(url: string): boolean {
   return url.startsWith("/") || url.startsWith("./")
 }
 
+/**
+ * Find links in a markdown AST
+ * @param node
+ * @returns
+ */
 function findLinks(node: NodeFixed): Link[] {
   const links: Link[] = []
   if ((node.type === "image" || node.type === "link") && node.url) {
