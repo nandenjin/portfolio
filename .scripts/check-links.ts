@@ -1,4 +1,4 @@
-import { toAst, Node } from "https://deno.land/x/charmd@v0.0.1/mod.ts"
+import { toAst, NodeFixed } from "https://deno.land/x/charmd@v0.0.2/mod.ts"
 import {
   test as testFm,
   extract as parseFm,
@@ -26,7 +26,7 @@ if (hasError) {
 async function checkFile(filename: string): Promise<boolean> {
   filename = resolve(filename)
   const markdown = await Deno.readTextFile(filename)
-  const node = toAst(markdown)
+  const node = toAst(markdown) as NodeFixed
   const links = []
 
   links.push(...findLinks(node))
@@ -54,10 +54,9 @@ async function checkFile(filename: string): Promise<boolean> {
       if (existsSync(path)) {
         consola.trace(`OK: ${link.url}`)
       } else {
-        if (!hasError) {
-          consola.error(`In ${filename}:`)
-        }
-        consola.error(`  Not found: ${link.url}`)
+        consola.error(
+          `Invalid link: ${link.url}\n\tat ${filename}:${link.line}:${link.column}`
+        )
         hasError = true
       }
     }
@@ -75,30 +74,27 @@ type FrontMatter = {
 type Link = {
   url: string
   hint?: string
+  line?: number
+  column?: number
 }
 
 function isRelativeUrl(url: string): boolean {
   return url.startsWith("/") || url.startsWith("./")
 }
 
-function findLinks(node: Node): Link[] {
+function findLinks(node: NodeFixed): Link[] {
   const links: Link[] = []
-  switch (node.type) {
-    case "link":
-      if (node.url) {
-        links.push({ url: node.url })
-      }
-      break
-    case "image":
-      if (node.url) {
-        links.push({ url: node.url })
-      }
-      break
+  if ((node.type === "image" || node.type === "link") && node.url) {
+    links.push({
+      url: node.url,
+      line: node.position.start.line,
+      column: node.position.start.column,
+    })
   }
 
   if (node.children) {
     for (const child of node.children) {
-      links.push(...findLinks(child))
+      links.push(...findLinks(child as NodeFixed))
     }
   }
 
