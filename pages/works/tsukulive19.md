@@ -5,7 +5,7 @@ creator: プロジェクト ツクライブ！サンシャイン！！
 materials: Stage
 year: 2019
 tags: lighting stage
-info: 
+info:
 thumbnail: /assets/works/tsukulive19/0.jpg
 release: 2018-04-01
 ---
@@ -23,6 +23,6 @@ release: 2018-04-01
 
 ## Resources
 
-* ウェブ記事「Behind the Scenes of ツクライブ! ライブ照明を作るとき考えたこと」
-  * [技術編](https://note.com/nandenjin/n/n9a08fdcaaff8)
-  * [デザイン編](https://note.com/nandenjin/n/naaf4cb3f364e)
+- ウェブ記事「Behind the Scenes of ツクライブ! ライブ照明を作るとき考えたこと」
+  - [技術編](https://note.com/nandenjin/n/n9a08fdcaaff8)
+  - [デザイン編](https://note.com/nandenjin/n/naaf4cb3f364e)

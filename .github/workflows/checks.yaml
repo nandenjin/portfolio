@@ -1,0 +1,16 @@
+name: checks
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - uses: actions/checkout@v4
+      - run: deno run --allow-read ./.scripts/check-links.ts .
