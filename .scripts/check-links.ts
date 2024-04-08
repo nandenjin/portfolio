@@ -5,7 +5,8 @@ import {
 } from "https://deno.land/std@0.145.0/encoding/front_matter.ts"
 import { consola } from "https://esm.sh/consola@3.2.3"
 import { walkSync, existsSync } from "https://deno.land/std@0.221.0/fs/mod.ts"
-import { resolve, join } from "https://deno.land/std@0.221.0/path/mod.ts"
+import { relative, resolve } from "https://deno.land/std@0.221.0/path/mod.ts"
+import { join } from "https://deno.land/std@0.221.0/path/join.ts"
 
 const root = resolve(Deno.args[0] || Deno.cwd())
 
@@ -24,7 +25,9 @@ if (hasError) {
 }
 
 async function checkFile(filename: string): Promise<boolean> {
+  // Make it absolute path
   filename = resolve(filename)
+
   const markdown = await Deno.readTextFile(filename)
   const node = toAst(markdown) as NodeFixed
   const links = []
@@ -49,14 +52,28 @@ async function checkFile(filename: string): Promise<boolean> {
 
   let hasError = false
   for (const link of links) {
-    if (isRelativeUrl(link.url)) {
-      const path = join(Deno.cwd(), resolve(filename, "..", link.url))
+    if (isInternalURL(link.url)) {
+      // Create absolute path
+      const path = join(
+        root,
+
+        // Make it absolute path, in repo root
+        resolve("/" + relative(root, filename), "..", link.url)
+      )
+
       if (existsSync(path)) {
         consola.trace(`OK: ${link.url}`)
       } else {
         consola.error(
-          `Invalid link: ${link.url}\n\tat ${filename}:${link.line}:${link.column}`
+          `Invalid link: ${link.url}\n\tat ${filename}${
+            link.line && link.column
+              ? `:${link.line}:${link.column}`
+              : link.hint
+              ? ` (${link.hint})`
+              : ""
+          }`
         )
+        consola.log(path, filename, link.url)
         hasError = true
       }
     }
@@ -78,7 +95,7 @@ type Link = {
   column?: number
 }
 
-function isRelativeUrl(url: string): boolean {
+function isInternalURL(url: string): boolean {
   return url.startsWith("/") || url.startsWith("./")
 }
 
