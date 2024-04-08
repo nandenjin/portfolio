@@ -19,6 +19,8 @@ for (const entry of walkSync(root, { match: [/\.md$/i] })) {
 
 if (hasError) {
   Deno.exit(1)
+} else {
+  consola.success("All links are OK")
 }
 
 async function checkFile(filename: string): Promise<boolean> {
