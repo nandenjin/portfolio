@@ -13,4 +13,4 @@ jobs:
         with:
           deno-version: v1.x
       - uses: actions/checkout@v4
-      - run: deno test --allow-read ./scripts/check-links.ts .
+      - run: deno run --allow-read ./scripts/check-links.ts .
