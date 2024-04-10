@@ -12,7 +12,7 @@ related_works: []
 thumbnail: /assets/events/tsukuba24/visual_16-9.jpg
 ---
 
-![](/assets/events/tsukuba24/visual_16-9.jpg)
+![](/assets/events/tsukuba24/screen_overview_0.jpg)
 
 まもなく在住 8 年目になる茨城県つくば市で、自主企画による個展を開催します。
 
@@ -21,6 +21,28 @@ thumbnail: /assets/events/tsukuba24/visual_16-9.jpg
 I will soon hold a self-initiated solo exhibition in Tsukuba, Ibaraki, where I have lived for eight years.
 
 Tide is a series of works that investigates the characteristics of the society that spreads out there by reading the data associated with geographical space into a virtual topography and showing the invisible currents that lie in the place. In this exhibition, a video installation in a park rest house will be used as a venue for a video installation about an attempt to have an AI using a large-scale language model 'walk' through the city of Tsukuba, which shows various aspects, such as a farming village before the Research Park City and a bedroom town developed in recent years.
+
+![](/assets/events/tsukuba24/visual_16-9.jpg)
+
+![](/assets/events/tsukuba24/screen_front.jpg)
+
+![](/assets/events/tsukuba24/overview_wide_0.jpg)
+
+![](/assets/events/tsukuba24/screen_zoom_0.jpg)
+
+![](/assets/events/tsukuba24/screen_zoom_1.jpg)
+
+![](/assets/events/tsukuba24/terrain_1.jpg)
+
+![](/assets/events/tsukuba24/overview_wide_1.jpg)
+
+![](/assets/events/tsukuba24/terrain_0.jpg)
+
+![](/assets/events/tsukuba24/topo_0.jpg)
+
+![](/assets/events/tsukuba24/switch_0.jpg)
+
+![](/assets/events/tsukuba24/topo_1.jpg)
 
 ## For Visitors
 
@@ -31,6 +53,10 @@ Tide is a series of works that investigates the characteristics of the society t
 Free admission. 300m from Tsukuba Station Exit A2 (in Central Park, opposite Tsukuba Expo Center). 12-5pm (until 3pm on 24 March).
 
 Parking is available at the Tsukuba Urban Transport Centre car park attached to the park (nearest is ["North 2"](https://www.tutc.or.jp/carparking/n02/)).
+
+![](/assets/events/tsukuba24/title_0.jpg)
+
+![](/assets/events/tsukuba24/entrance_0.jpg)
 
 ## Credits
 
