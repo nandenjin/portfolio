@@ -24,25 +24,33 @@ Tide is a series of works that investigates the characteristics of the society t
 
 ![](/assets/events/tsukuba24/visual_16-9.jpg)
 
-![](/assets/events/tsukuba24/screen_front.jpg)
-
 ![](/assets/events/tsukuba24/overview_wide_0.jpg)
+
+![](/assets/events/tsukuba24/screen_front.jpg)
 
 ![](/assets/events/tsukuba24/screen_zoom_0.jpg)
 
 ![](/assets/events/tsukuba24/screen_zoom_1.jpg)
 
-![](/assets/events/tsukuba24/terrain_1.jpg)
-
 ![](/assets/events/tsukuba24/overview_wide_1.jpg)
 
+![](/assets/events/tsukuba24/terrain_1.jpg)
+
 ![](/assets/events/tsukuba24/terrain_0.jpg)
+
+![](/assets/events/tsukuba24/overview_1.jpg)
 
 ![](/assets/events/tsukuba24/topo_0.jpg)
 
 ![](/assets/events/tsukuba24/switch_0.jpg)
 
 ![](/assets/events/tsukuba24/topo_1.jpg)
+
+![](/assets/events/tsukuba24/screen_zoom_2.jpg)
+
+![](/assets/events/tsukuba24/screen_overview_1.jpg)
+
+![](/assets/events/tsukuba24/overview_0.jpg)
 
 ## For Visitors
 
@@ -54,9 +62,13 @@ Free admission. 300m from Tsukuba Station Exit A2 (in Central Park, opposite Tsu
 
 Parking is available at the Tsukuba Urban Transport Centre car park attached to the park (nearest is ["North 2"](https://www.tutc.or.jp/carparking/n02/)).
 
+![](/assets/events/tsukuba24/entrance_0.jpg)
+
 ![](/assets/events/tsukuba24/title_0.jpg)
 
-![](/assets/events/tsukuba24/entrance_0.jpg)
+![](/assets/events/tsukuba24/window_0.jpg)
+
+![](/assets/events/tsukuba24/entrance_1.jpg)
 
 ## Credits
 
