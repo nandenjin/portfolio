@@ -9,7 +9,7 @@ locations:
     lat: 36.0853373
     lng: 140.1102046
 related_works: []
-thumbnail: /assets/events/tsukuba24/visual_16-9.jpg
+thumbnail: /assets/events/tsukuba24/screen_overview_0.jpg
 ---
 
 ![](/assets/events/tsukuba24/screen_overview_0.jpg)
