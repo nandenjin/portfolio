@@ -13,7 +13,11 @@ release: 2021-07-30
 池に沈む塵や落ち葉に、場に横たわる文化・時間・営みの存在を重ね合わせるようにして描くプロジェクションマッピング作品。現実の動きを量り取るためのさまざまなデータを CG 映像に変換し、様々な形で重畳しながら見せる。人形を用いたパフォーマンスは文楽の技法を元にして制作した。
 
 ![](/assets/works/layers/pre_00.png)
+
+[![](https://img.youtube.com/vi/9wbpUWU3pyM/maxresdefault.jpg)](https://www.youtube.com/watch?v=9wbpUWU3pyM)
+
 ![](/assets/works/layers/pre_01.png)
+
 ![](/assets/works/layers/pre_02.png)
 
 ## データのクレジット
