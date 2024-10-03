@@ -17,6 +17,8 @@ external_infos:
 
 [gallery neo\_/Senshu](https://neotsukuba.com/)（茨城県つくば市）にて個展を開催します。
 
+[![](https://i.ytimg.com/vi/x-ltyjRKW8Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=x-ltyjRKW8Q)
+
 ![](/assets/events/neo24/neo24_cover_0.jpg)
 
 > この度、gallery neo\_/Senshu では、メディアアーティスト、テクニカルディレクター としてつくばを拠点に活動する稲田和巳（いなだかずみ）の個展を開催する運びとなりました。
