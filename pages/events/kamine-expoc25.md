@@ -14,7 +14,7 @@ related_works:
   - kamine-proto
 thumbnail: /assets/events/kamine-expoc25/overview_hall.jpg
 external_infos:
-  - title_ja: TAKUMA KAMINE SOLO EXHBITION 宇宙と大地と… Project
+  - title_ja: TAKUMA KAMINE SOLO EXHIBITION 宇宙と大地と… Project
     url: https://neotsukuba.com/2025/04/21/%e3%80%90art-project%e3%80%91takuma-kamine-solo-exhbition%e5%ae%87%e5%ae%99%e3%81%a8%e5%a4%a7%e5%9c%b0%e3%81%a8-project/
   - title_ja: "上根拓馬 個展「宇宙のモリビト」宇宙と大地と……Project vol. 1 - つくばエキスポセンター"
     url: https://www.expocenter.or.jp/event/detail/id=4219
