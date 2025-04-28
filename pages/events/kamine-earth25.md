@@ -13,11 +13,11 @@ locations:
 related_works: []
 thumbnail:
 external_infos:
-  - title_ja: TAKUMA KAMINE SOLO EXHBITION 宇宙と大地と… Project
+  - title_ja: TAKUMA KAMINE SOLO EXHIBITION 宇宙と大地と… Project
     url: https://neotsukuba.com/2025/04/21/%e3%80%90art-project%e3%80%91takuma-kamine-solo-exhbition%e5%ae%87%e5%ae%99%e3%81%a8%e5%a4%a7%e5%9c%b0%e3%81%a8-project/
 ---
 
-現代美術家 上根拓馬の個展シリーズに、コラボレーション作家として参加します。"Vol. 2" となる EATH+GALLERY では、パブリックアートへの展開を検討するシミュレーション作品に参画します。
+現代美術家 上根拓馬の個展シリーズに、コラボレーション作家として参加します。"Vol. 2" となる EARTH+GALLERY では、パブリックアートへの展開を検討するシミュレーション作品に参画します。
 
 > 土着の神々や仏教など、宇宙を構成する様々なものに祈りを捧げてきた太古の日本…
 >
