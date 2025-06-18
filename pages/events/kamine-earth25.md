@@ -10,7 +10,9 @@ locations:
     lat: 35.67260895537718
     lng: 139.80550140338832
     address: 東京都江東区木場3丁目18-17
-related_works: []
+related_works:
+  - kamine-baby
+  - kamine-proto
 thumbnail:
 external_infos:
   - title_ja: TAKUMA KAMINE SOLO EXHIBITION 宇宙と大地と… Project

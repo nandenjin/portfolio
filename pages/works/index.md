@@ -4,6 +4,7 @@
 - [Instant Sympathy](/pages/works/sympathy.md)
 - [菅野歩美個展『Boaring Process たいくつな掘削かてい』 / Ayumi Kanno Solo Exhibition "Boarding Process"](/pages/works/caf-kanno.md)
 - [Another Skin 川島史也の彫刻 / Another Skin: Sculptures by KAWASHIMA Fumiya](/pages/works/kwsm.md)
+- [Baby Guardian - 転写と置換 / Baby Guardian - Trace and Replacement](/pages/works/kamine-baby.md)
 - [カリヨン / Carillon](/pages/works/carillon.md)
 - [つくば SKIP アカデミー 募集フライヤー / Tsukuba SKIP Academy Recruitment Flyer](/pages/works/skip24.md)
 - [中高生のための研究サポート動画 / Introduction of Academic Study for Junior Highschool and Highschool Students](/pages/works/gfest-guide-video.md)
