@@ -1,3 +1,4 @@
+- [上根拓馬 個展シリーズ「宇宙と大地と… Project」に参加します](/pages/news/250426_kamine.md)
 - [筑波大学 メ芸 LT2024 で登壇しました](/pages/news/241007_mast-ad-lt-2024.md)
 - [個展『潮』のカタログが発行されました](/pages/news/230822_ushio-rpng-catalog.md)
 - [CAF 賞 2021 で受賞しました](/pages/news/211128_caf21_award.md)
