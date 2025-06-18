@@ -12,7 +12,7 @@ locations:
     address: 東京都江東区木場3丁目18-17
 related_works:
   - kamine-proto
-thumbnail:
+thumbnail: /assets/events/kamine-neo25/overview.jpg
 external_infos:
   - title_ja: TAKUMA KAMINE SOLO EXHIBITION 宇宙と大地と… Project
     url: https://neotsukuba.com/2025/04/21/%e3%80%90art-project%e3%80%91takuma-kamine-solo-exhbition%e5%ae%87%e5%ae%99%e3%81%a8%e5%a4%a7%e5%9c%b0%e3%81%a8-project/
