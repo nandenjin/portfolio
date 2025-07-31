@@ -10,7 +10,7 @@ locations:
     lat: 36.0853455
     lng: 140.1103426
     address: 茨城県つくば市吾妻 2-8
-related_works: []
+related_works: [room-of-observation]
 thumbnail: /assets/events/tmaf25/thumbnail.jpg
 external_infos:
   - title_ja: つくばメディアアートフェスティバル2025 | つくば・アートチャンネル
@@ -28,6 +28,8 @@ I will be exhibiting at the Tsukuba Media Art Festival 2025. The exhibition will
 > The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsukuba's unique culture by leveraging the characteristics of "Tsukuba, the City of Science," and this is the 7th time it will be held. With the cooperation of the "Engineering and Arts Collaborative Research Group" at the University of Tsukuba, which boasts world-class achievements in the field of media art, the festival showcases numerous works that transcend disciplinary boundaries and fuse technology and art, created by international artists graduated from the University of Tsukuba and students selected through internal calls for submissions. See, experience, and learn from the results of cutting-edge research and new ideas. Why not feel the charm of science × art?
 
 ![つくばメディアアートフェスティバル2025 フライヤー裏面](/assets/events/tmaf25/flyer_b.jpg)
+
+![](/assets/works/room-of-observation/00.jpg)
 
 ## 開催概要 / Details
 

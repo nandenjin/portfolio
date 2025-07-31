@@ -1,3 +1,4 @@
+- [観測の部屋 / Room of Observation](/pages/works/room-of-observation.md)
 - [住人たち / Residents](/pages/works/residents.md)
 - [潮（六本木） / Tide (Roppongi)](/pages/works/ushio-rpng.md)
 - [潮（六本木）- 右か左かみんなで決める / Tide (Roppongi) - Decide right or left with everyone](/pages/works/ushio-rpng-walk.md)
