@@ -4,7 +4,7 @@ title_ja: 観測の部屋
 creator: Kazumi Inada
 materials: Mixed Media
 year: 2025
-tags: art electronic exhitbition-tmaf25
+tags: art electronic exhibition-tmaf25
 info:
 thumbnail: /assets/works/room-of-observation/thumbnail.jpg
 release: 2025-08-01
