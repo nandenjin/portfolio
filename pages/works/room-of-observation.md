@@ -50,6 +50,6 @@ release: 2025-08-01
 
 ## クレジット
 
-- 地図データ： &copy; OpenStreetMap contributors
+- 地図データ：&copy; OpenStreetMap contributors
 - 設営協力：上條真菜・武井優泰
 - 機材協力：[筑波大学人形劇団 NEU](https://tkbneu.net/)
