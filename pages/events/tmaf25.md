@@ -29,7 +29,7 @@ I will be exhibiting at the Tsukuba Media Art Festival 2025. The exhibition will
 
 ![つくばメディアアートフェスティバル2025 フライヤー裏面](/assets/events/tmaf25/flyer_b.jpg)
 
-![](/assets/works/room-of-observation/00.jpg)
+![](/assets/works/room-of-observation/overview.jpg)
 
 ## 開催概要 / Details
 
