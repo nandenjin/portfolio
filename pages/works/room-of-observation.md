@@ -6,7 +6,7 @@ materials: Mixed Media
 year: 2025
 tags: art electronic exhibition-tmaf25
 info:
-thumbnail: /assets/works/room-of-observation/00.jpg
+thumbnail: /assets/works/room-of-observation/overview.jpg
 release: 2025-08-01
 ---
 
@@ -14,7 +14,17 @@ release: 2025-08-01
 
 地図、時計、パーティクルが飛び交う航空写真、ときおり瞬く明かりなどの奇怪なオブジェクトが並び、展示室で静かに動き続ける。鑑賞者は普段の生活の視点では意識されない不可視なシグナルの存在に触れ、身の回りの社会を身体を離れた視点から観察する体験をする。
 
-![](/assets/works/room-of-observation/00.jpg)
+![](/assets/works/room-of-observation/overview.jpg)
+
+![](/assets/works/room-of-observation/overview_front.jpg)
+
+![](/assets/works/room-of-observation/overview_from-right.jpg)
+
+![](/assets/works/room-of-observation/zoom_desk.jpg)
+
+![](/assets/works/room-of-observation/zoom_relay.jpg)
+
+![](/assets/works/room-of-observation/zoom_clock.jpg)
 
 ## 展示構成
 
@@ -38,9 +48,15 @@ release: 2025-08-01
 
 壁にかけられた装置のスイッチは、つくばセンターのバスの発車時刻にあわせて動き、表示灯を明滅させる。6 つの乗り場をそれぞれ示すランプの光と音の重なりは、奇妙なリズムのようにも聞こえる。
 
+![](/assets/works/room-of-observation/items_relay.jpg)
+
 ### AI の散歩による通過経路と仮想地形のシミュレーション
 
 大規模言語モデルにストリートビューの画像を与えて進む方向を決めるよう求めることを繰り返し、実際の街を「散歩」させる取り組みの出力物。数千回にわたる「散歩」について、セッションをサンプリングした経路の図と、道ごとの通過回数を高低差に変換した仮想地形に粒子を流すシミュレーション映像が示される。
+
+![](/assets/works/room-of-observation/items_route.jpg)
+
+![](/assets/works/room-of-observation/items_aerial.jpg)
 
 ### つくば市中心部の道路のトポロジー
 
@@ -51,5 +67,5 @@ release: 2025-08-01
 ## クレジット
 
 - 地図データ：&copy; OpenStreetMap contributors
-- 設営協力：上條真菜・武井優泰
+- 設営協力：磯貝美由紀・上條真菜・武井優泰・塚越彩加
 - 機材協力：[筑波大学人形劇団 NEU](https://tkbneu.net/)
