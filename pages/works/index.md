@@ -1,6 +1,8 @@
 - [観測の部屋 / Room of Observation](/pages/works/room-of-observation.md)
 - [住人たち / Residents](/pages/works/residents.md)
 - [潮（六本木） / Tide (Roppongi)](/pages/works/ushio-rpng.md)
+- [人形劇団むすび座『ニルスのふしぎな旅』 / Puppet Theater MUSUBI-ZA "The Wonderful Adventure of Nils"](/pages/works/nils.md)
+- [人形劇団むすび座『小さな山神スズナ姫』 / Puppet Theater MUSUBI-ZA "Princess Suzuna, The Little God of Mountain"](/pages/works/suzuna.md)
 - [潮（六本木）- 右か左かみんなで決める / Tide (Roppongi) - Decide right or left with everyone](/pages/works/ushio-rpng-walk.md)
 - [Instant Sympathy](/pages/works/sympathy.md)
 - [菅野歩美個展『Boaring Process たいくつな掘削かてい』 / Ayumi Kanno Solo Exhibition "Boarding Process"](/pages/works/caf-kanno.md)
