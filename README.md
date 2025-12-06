@@ -14,7 +14,7 @@ Kazumi Inada is an artist, a technical director and a doctoral student of Univer
 
 ## Issues and Pull Requests
 
-Issues and Pull Requests for reports typo or invalid informations are welcome.
+Issues and Pull Requests for reports of typo or invalid information are welcome.
 
 ## Copyright
 
