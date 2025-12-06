@@ -5,7 +5,7 @@ creator: Kazumi Inada
 materials: Digital Work
 year: 2015
 tags: art installation
-info: 
+info:
 thumbnail: /assets/works/ssss/ssss_00.jpg
 release: 2015-01-01
 ---

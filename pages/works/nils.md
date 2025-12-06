@@ -13,7 +13,7 @@ release: 2025-07-19
 
 [![ニルスのふしぎな旅](/assets/works/nils/thumbnail2.jpg)](https://www.youtube.com/watch?v=qSGLv2z2bSE)
 
-初演 PR（2025 年 7 月）
+初演PR（2025年7月）
 
 [![ニルスのふしぎな旅](/assets/works/nils/thumbnail.jpg)](https://www.youtube.com/watch?v=3cYSdM3uesM)
 

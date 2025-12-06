@@ -16,4 +16,4 @@ Typeface Catalog / フォントカタログ
 
 ![](/assets/works/study/study_01.jpg)
 
-Stories which can be understanded in 3 secs: Birch of Inaba 　/ 3 秒で理解できるストーリー: 因幡の白兎
+Stories which can be understanded in 3 secs: Birch of Inaba　/ 3秒で理解できるストーリー: 因幡の白兎

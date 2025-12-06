@@ -5,7 +5,7 @@ creator: Puppetry Troupe NEU, Kazumi Inada
 materials: Website
 year: 2018
 tags: web design tsukuba-neu
-info: 
+info:
 thumbnail: /assets/works/tkbneu18/tkbneu18_thumb.png
 release: 2018-04-01
 ---

@@ -5,7 +5,7 @@ creator: Kazumi Inada
 materials: Printed
 year: 2019
 tags: design branding graphic printed
-info: 
+info:
 thumbnail: /assets/works/sgym-card/sgym-a.png
 release: 2019-10-21
 ---

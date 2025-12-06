@@ -5,7 +5,7 @@ creator: "BEAUTIFULL, AD: Takuto Okamoto, D/Dev: Kazumi Inada"
 materials: Website
 year: 2020
 tags: web design graphic branding beautifull takuto-okamoto
-info: 
+info:
 thumbnail: /assets/works/fyb/cover.png
 release: 2020-05-27
 ---
@@ -24,9 +24,9 @@ BEAUTIFULLメンバーの瀬能が撮影した写真から制作し[公式Instag
 
 ## Resources
 
-* [BEAUTIFULL IMAGE GENERATOR](https://beautifull-image-generator.web.app/)
-* [#MYBEAUTIFULL on Twitter](https://twitter.com/hashtag/MYBEAUTIFULL)
-* BEAUTIFULL Official
-  * [Twitter @BEAUTIFULL_JPN](https://twitter.com/beautifull_jpn)
-  * [Instagram @beautifull_jpn](https://www.instagram.com/beautifull_jpn/)
-  * [SoundCloud](https://soundcloud.com/user-551101888)
+- [BEAUTIFULL IMAGE GENERATOR](https://beautifull-image-generator.web.app/)
+- [#MYBEAUTIFULL on Twitter](https://twitter.com/hashtag/MYBEAUTIFULL)
+- BEAUTIFULL Official
+  - [Twitter @BEAUTIFULL_JPN](https://twitter.com/beautifull_jpn)
+  - [Instagram @beautifull_jpn](https://www.instagram.com/beautifull_jpn/)
+  - [SoundCloud](https://soundcloud.com/user-551101888)
