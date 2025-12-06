@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "pages/works/index.md",
-  "scripts": {},
+  "scripts": {
+    "postinstall": "simple-git-hooks"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nandenjin/portfolio.git"
@@ -17,6 +19,14 @@
   },
   "homepage": "https://github.com/nandenjin/portfolio#readme",
   "devDependencies": {
-    "prettier": "3.7.4"
+    "lint-staged": "16.2.7",
+    "prettier": "3.7.4",
+    "simple-git-hooks": "2.13.1"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx,json,md,css,scss,html,yml,yaml}": "prettier --write"
   }
 }
