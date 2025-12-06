@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "0.0.0",
+  "description": "",
+  "main": "pages/works/index.md",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandenjin/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nandenjin/portfolio/issues"
+  },
+  "homepage": "https://github.com/nandenjin/portfolio#readme",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
