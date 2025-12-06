@@ -2,10 +2,10 @@
 title_en: 'Teaching Fellow for "Information Design I" at University of Tsukuba'
 title_ja: 筑波大学「情報デザインI」でTFを担当しました
 tags: talk education
-release: 2024-12-03
+release: 2025-12-03
 ---
 
-筑波大学 情報メディア創成学類の授業「情報デザインI」で、ティーチング・フェロー（TF）として3回の講義を担当しました。
+筑波大学 情報メディア創成学類の授業「情報デザインI」（2025）で、ティーチング・フェロー（TF）として3回の講義を担当しました。
 
 グラフィックデザイン手法を用いた情報デザイン表現を学びながら、クリエイティブに携わる際に必要な知識やスキルを習得することを目標に、以下の内容で講義を行いました。
 
@@ -21,7 +21,7 @@ release: 2024-12-03
 
 [情報デザインI 2025 授業を担当しての記録](https://posts.nandenjin.com/2025/information-design/)
 
-I served as a Teaching Fellow (TF) for three lectures in the "Information Design I" course at the College of Media Arts, Science and Technology, University of Tsukuba.
+I served as a Teaching Fellow (TF) for three lectures in the "Information Design I" (2025) course at the College of Media Arts, Science and Technology, University of Tsukuba.
 
 The lectures were designed to help students acquire the knowledge and skills necessary for creative work while learning information design expression using graphic design methods. The following topics were covered:
 
