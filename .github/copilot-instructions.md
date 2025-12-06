@@ -1,1 +1,1 @@
-.agents/rules/base.md
+../.agents/rules/base.md
