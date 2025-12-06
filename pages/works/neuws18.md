@@ -5,7 +5,7 @@ creator: "Puppetry Troupe NEU, D: Kazumi Inada"
 materials: Printed
 year: 2018
 tags: design graphic tsukuba-neu
-info: 
+info:
 thumbnail: /assets/works/neuws18/neuws18_thumb.jpg
 release: 2017-11-03
 ---

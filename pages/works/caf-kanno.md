@@ -10,7 +10,7 @@ thumbnail: /assets/works/caf-kanno/screenshot_0.png
 release: 2025-05-29
 ---
 
-美術家・[菅野歩美](https://ayumikannno.myportfolio.com/home)による個展「Boaring Process たいくつな掘削かてい」の Web サイトのデザイン・実装を担当。3DCG を多用する菅野の作品のデータを Web に取り込み、インタラクティブなギミックとして仕込んだ。
+美術家・[菅野歩美](https://ayumikannno.myportfolio.com/home)による個展「Boaring Process たいくつな掘削かてい」のWebサイトのデザイン・実装を担当。3DCGを多用する菅野の作品のデータをWebに取り込み、インタラクティブなギミックとして仕込んだ。
 
 I was responsible for the design and implementation of the website for the solo exhibition “Boaring Process: Boring Excavation” by artist [Ayumi Kanno](https://ayumikannno.myportfolio.com/home). The website incorporates 3D CG data from Kanno's works, creating interactive gimmicks that enhance the user experience.
 

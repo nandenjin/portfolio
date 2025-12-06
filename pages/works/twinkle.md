@@ -5,7 +5,7 @@ creator: Kazumi Inada
 materials: Web Service
 year: 2019
 tags: web design branding
-info: 
+info:
 thumbnail: /assets/works/twinkle/twinkle_thumb.png
 release: 2019-04-01
 ---

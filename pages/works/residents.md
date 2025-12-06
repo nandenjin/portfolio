@@ -30,6 +30,6 @@ The lights in the windows of disused buildings are connected to the lights of so
 
 ## Awards
 
-- [CAF 賞 2021](https://gendai-art.org/caf_single/caf2021/) 最優秀賞
-- [アートアンドテクノロジー東北 2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 審査員特別賞
-- [北九州デジタルクリエイターズコンテスト 2020](http://kdcc.info/) インスタレーション部門 入選
+- [CAF賞2021](https://gendai-art.org/caf_single/caf2021/) 最優秀賞
+- [アートアンドテクノロジー東北2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 審査員特別賞
+- [北九州デジタルクリエイターズコンテスト2020](http://kdcc.info/) インスタレーション部門 入選

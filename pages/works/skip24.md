@@ -10,7 +10,7 @@ thumbnail: /assets/works/skip24/cover.jpg
 release: 2024-04-01
 ---
 
-筑波大学の小中学生向け社会連携事業[「つくば SKIP アカデミー」](https://skip.tsukuba.ac.jp)の募集フライヤーのデザインを担当しました。
+筑波大学の小中学生向け社会連携事業[「つくばSKIPアカデミー」](https://skip.tsukuba.ac.jp)の募集フライヤーのデザインを担当しました。
 
 Designed a recruitment flyer for [Tsukuba SKIP Academy](https://skip.tsukuba.ac.jp), a social collaboration project for elementary and junior high school students at the University of Tsukuba.
 

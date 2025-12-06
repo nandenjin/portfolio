@@ -9,7 +9,7 @@ locations:
     title_en: Ibaraki Tsukuba Museum of Art
     lat: 36.0853455
     lng: 140.1103426
-    address: 茨城県つくば市吾妻 2-8
+    address: 茨城県つくば市吾妻2-8
 related_works: [room-of-observation]
 thumbnail: /assets/events/tmaf25/thumbnail.jpg
 external_infos:
@@ -17,26 +17,26 @@ external_infos:
     url: https://www.tsukuba-artchannel.jp/page/page000181.html
 ---
 
-つくばメディアアートフェスティバル 2025 に出展いたします。近年取り組んできた社会に横たわる不可視な要素・構造を観察するシリーズの作品からなる、新作のインスタレーションを展示します。
+つくばメディアアートフェスティバル2025に出展いたします。近年取り組んできた社会に横たわる不可視な要素・構造を観察するシリーズの作品からなる、新作のインスタレーションを展示します。
 
 I will be exhibiting at the Tsukuba Media Art Festival 2025. The exhibition will feature a new installation comprising works from the series that observes invisible elements and structures in society that I have been working on in recent years.
 
-![つくばメディアアートフェスティバル2025 フライヤー](/assets/events/tmaf25/flyer_a.jpg)
+![つくばメディアアートフェスティバル2025フライヤー](/assets/events/tmaf25/flyer_a.jpg)
 
-> 「つくばメディアアートフェスティバル」は、「科学のまちつくば」の特色を生かした、つくばならではの文化の発信を目指して 2014 年度にスタートし、今回で 7 回目の開催となります。メディアアートの分野で世界でもトップクラスの実績を誇る筑波大学の「工学・芸術連携リサーチグループ」の協力のもと、筑波大学が輩出する国際的アーティストや学内公募により選ばれた学生たちによる、分野を超えテクノロジーと芸術が融合した作品の数々を展示します。最先端の研究の成果や新しい発想の数々を、見て、体験して、学べる。科学 × アートの魅力を感じてみませんか。
+> 「つくばメディアアートフェスティバル」は、「科学のまちつくば」の特色を生かした、つくばならではの文化の発信を目指して2014年度にスタートし、今回で7回目の開催となります。メディアアートの分野で世界でもトップクラスの実績を誇る筑波大学の「工学・芸術連携リサーチグループ」の協力のもと、筑波大学が輩出する国際的アーティストや学内公募により選ばれた学生たちによる、分野を超えテクノロジーと芸術が融合した作品の数々を展示します。最先端の研究の成果や新しい発想の数々を、見て、体験して、学べる。科学 × アートの魅力を感じてみませんか。
 >
 > The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsukuba's unique culture by leveraging the characteristics of "Tsukuba, the City of Science," and this is the 7th time it will be held. With the cooperation of the "Engineering and Arts Collaborative Research Group" at the University of Tsukuba, which boasts world-class achievements in the field of media art, the festival showcases numerous works that transcend disciplinary boundaries and fuse technology and art, created by international artists graduated from the University of Tsukuba and students selected through internal calls for submissions. See, experience, and learn from the results of cutting-edge research and new ideas. Why not feel the charm of science × art?
 
-![つくばメディアアートフェスティバル2025 フライヤー裏面](/assets/events/tmaf25/flyer_b.jpg)
+![つくばメディアアートフェスティバル2025フライヤー裏面](/assets/events/tmaf25/flyer_b.jpg)
 
 ![](/assets/works/room-of-observation/overview.jpg)
 
 ## 開催概要 / Details
 
-**会期:** 2025 年 8 月 1 日(金)〜8 月 11 日(月・祝)  
-**休館日:** 8 月 4 日(月)  
-**会場:** 茨城県つくば美術館 （茨城県つくば市吾妻 2-8）  
-**開館時間:** 9:30〜17:00 （最終日は 13:00 閉館、入場は閉館の 30 分前まで）  
+**会期:** 2025年8月1日(金)〜8月11日(月・祝)  
+**休館日:** 8月4日(月)  
+**会場:** 茨城県つくば美術館 （茨城県つくば市吾妻2-8）  
+**開館時間:** 9:30〜17:00（最終日は13:00閉館、入場は閉館の30分前まで）  
 **入場料:** 無料
 
 **Period:** August 1 (Fri) - August 11 (Mon, Holiday), 2025  
@@ -62,7 +62,7 @@ Yusuke Ashizawa, Hiroki Aso, Nozomi Inagaki, Kazumi Inada, Akira Inose, Toshiro 
 **主催:** つくば市  
 **共催:** 筑波大学工学・芸術連携リサーチグループ  
 **協力:** 大学共同利用機関法人 高エネルギー加速器研究機構(KEK)  
-**助成:** 令和 7 年度 文化庁 文化芸術創造拠点形成事業  
+**助成:** 令和7年度 文化庁 文化芸術創造拠点形成事業  
 **後援:** 茨城県、つくば市教育委員会、公益財団法人つくば文化振興財団
 
 **Supervision:**
@@ -80,7 +80,7 @@ Yusuke Ashizawa, Hiroki Aso, Nozomi Inagaki, Kazumi Inada, Akira Inose, Toshiro 
 ## アクセス / Access
 
 **茨城県つくば美術館**  
-住所: 茨城県つくば市吾妻 2-8  
+住所: 茨城県つくば市吾妻2-8  
 TEL: 029-856-3711  
 [Google Maps](https://maps.app.goo.gl/FcX9PRP3SodK9ASp8)
 

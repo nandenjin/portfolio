@@ -13,7 +13,7 @@
 - <a href="https://researchmap.jp/kzmi" target="_blank">reserchmap.jp</a>
 - <a href="https://orcid.org/0009-0002-5707-074X">ORCID</a>
 
-1997 年大阪府生まれ。2021 年より筑波大学大学院 情報学学位プログラム 博士後期課程 グラフィックスデザイン研究室に在学中。
+1997年大阪府生まれ。2021年より筑波大学大学院 情報学学位プログラム 博士後期課程 グラフィックスデザイン研究室に在学中。
 
 計算機やデジタルメディアを用いて身の回りの外界を構造化し、社会の姿を正確に観察する手法を生み出すことに取り組んでいます。わたしたちが外界を視るにあたってつきまとう主観や無意識なバイアスといったノイズを可能な限り排除し、身体を超えた客観的な俯瞰視点を得ることを目指しています。
 
@@ -49,24 +49,24 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 
 ## Awards
 
-- 現代芸術振興財団 CAF 賞 2021 最優秀賞 (2021)
-- アートアンドテクノロジー東北 2021 優秀賞・審査員特別賞 (2021)
-- いばらきデジタルコンテンツ・ソフトウェア大賞 2020 デジタルアート部門 優秀賞 (2021)
-- INTERNATIONAL STUDENTS CREATIVE AWARD 2020 デジタルコンテンツ部門 入選、So good 賞 (2020)
+- 現代芸術振興財団CAF賞2021最優秀賞 (2021)
+- アートアンドテクノロジー東北2021優秀賞・審査員特別賞 (2021)
+- いばらきデジタルコンテンツ・ソフトウェア大賞2020デジタルアート部門 優秀賞 (2021)
+- INTERNATIONAL STUDENTS CREATIVE AWARD 2020デジタルコンテンツ部門 入選、So good賞 (2020)
 - 北九州デジタルアートコンテスト インスタレーション部門 入選 (2019)
-- 亀山トリエンナーレ 2020 出展ノミネート (2019)
+- 亀山トリエンナーレ2020出展ノミネート (2019)
 - 筑波大学工作室「創房大賞」最優秀賞 (2018)
 
 ## Scholarships
 
-- [クマ財団クリエイター奨学生 第 7 期](https://kuma-foundation.org/student/kazumi-inada/) / [Kuma Foundation: Creator Scholarship](https://kuma-foundation.org/student/kazumi-inada/) (2023)
+- [クマ財団クリエイター奨学生 第7期](https://kuma-foundation.org/student/kazumi-inada/) / [Kuma Foundation: Creator Scholarship](https://kuma-foundation.org/student/kazumi-inada/) (2023)
 - [国立研究開発法人 科学技術振興機構（JST）次世代研究者挑戦的研究プログラム](https://www.jst.go.jp/jisedai/)（採択機関: 筑波大学）/ Japan Science and Technology Agency: Support for Pioneering Research Initiated by the Next Generation (SPRING) (as a student of University of Tsukuba) (2023 - 2027)
 
 ## Media
 
-- 現代芸術振興財団 [INTERVIEW: Artists #38 稲田和巳](https://gendai-art.org/interviews/artists_kazumiinada/) (2023)
-- 美術手帖 Web[『国内最大級の学生向けアートコンペ「CAF 賞 2021」の受賞者が決定。最優秀賞は稲田和巳』](https://bijutsutecho.com/magazine/news/promotion/24852)（2021）
-- 筑波大学情報メディア創成学類 学類紙 MAST Web『【特集】私の一年： 稲田和巳 (mast17)』 (2018)([Archive](https://web.archive.org/web/20210227074936/https://magazine.mast.tsukuba.ac.jp/archives/3682))
+- 現代芸術振興財団 [INTERVIEW: Artists #38稲田和巳](https://gendai-art.org/interviews/artists_kazumiinada/) (2023)
+- 美術手帖Web[『国内最大級の学生向けアートコンペ「CAF賞2021」の受賞者が決定。最優秀賞は稲田和巳』](https://bijutsutecho.com/magazine/news/promotion/24852)（2021）
+- 筑波大学情報メディア創成学類 学類紙MAST Web『【特集】私の一年： 稲田和巳 (mast17)』 (2018)([Archive](https://web.archive.org/web/20210227074936/https://magazine.mast.tsukuba.ac.jp/archives/3682))
 
 <!-- WIP/Update required
 

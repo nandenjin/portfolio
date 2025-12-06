@@ -13,7 +13,7 @@ locations:
 related_works: [ut-collection-perspective]
 thumbnail: /assets/works/ut-collection-perspective/thumbnail_view.jpg
 external_infos:
-  - title_ja: 博物館実習履修生の企画による筑波大学アート・コレクション展『PERSPECTIVE －視点を変えて「み」る－』 - 筑波大学 A.R.T
+  - title_ja: 博物館実習履修生の企画による筑波大学アート・コレクション展『PERSPECTIVE －視点を変えて「み」る－』 - 筑波大学A.R.T
     title_en: Collection Gallery of University Tsukuba "Perspective" - Art Resources in Tsukuba
     url: https://www.art.tsukuba.ac.jp/archives/9200
 ---

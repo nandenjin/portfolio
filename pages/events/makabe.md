@@ -14,7 +14,7 @@ related_works: [ushio-makabe]
 thumbnail: /assets/works/ushio-makabe/overview.jpg
 ---
 
-**本展は感染症対策のため、1 月 26 日をもって開催を終了いたしました。**
+**本展は感染症対策のため、1月26日をもって開催を終了いたしました。**
 
 **The Exhibition was shutted down due to spread of COVID-19.**
 
@@ -30,8 +30,8 @@ thumbnail: /assets/works/ushio-makabe/overview.jpg
 
 ## 開催情報
 
-- 2021/1/12（水）～ 1/31（金）
-- 真壁伝承館（茨城県桜川市）ほか近隣 4 施設
+- 2021/1/12（水）～1/31（金）
+- 真壁伝承館（茨城県桜川市）ほか近隣4施設
 
 ## 参加作家
 
@@ -45,7 +45,7 @@ thumbnail: /assets/works/ushio-makabe/overview.jpg
 
 ## アクセス
 
-つくばエクスプレス つくば駅 または JR 水戸線 岩瀬駅よりバス。桜川市バス「下宿」より徒歩。
+つくばエクスプレス つくば駅 またはJR水戸線 岩瀬駅よりバス。桜川市バス「下宿」より徒歩。
 
 ![](/assets/works/ushio-makabe/overview.jpg)
 
