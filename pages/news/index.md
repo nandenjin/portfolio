@@ -1,3 +1,4 @@
+- [筑波大学「情報デザインI」でTFを担当しました / Teaching Fellow for "Information Design I" at University of Tsukuba](/pages/news/251203_information-design.md)
 - [つくばメディアアートフェスティバル2025に参加します](/pages/news/250704_tmaf25.md)
 - [上根拓馬 個展シリーズ「宇宙と大地と… Project」に参加します](/pages/news/250426_kamine.md)
 - [筑波大学 メ芸LT2024で登壇しました](/pages/news/241007_mast-ad-lt-2024.md)
