@@ -49,12 +49,12 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 
 ## Awards
 
-- 現代芸術振興財団CAF賞2021最優秀賞 (2021)
-- アートアンドテクノロジー東北2021優秀賞・審査員特別賞 (2021)
-- いばらきデジタルコンテンツ・ソフトウェア大賞2020デジタルアート部門 優秀賞 (2021)
-- INTERNATIONAL STUDENTS CREATIVE AWARD 2020デジタルコンテンツ部門 入選、So good賞 (2020)
-- 北九州デジタルアートコンテスト 入選 (2020)
-- 筑波大学工作室「創房大賞」最優秀賞 (2018)
+- [現代芸術振興財団 CAF賞2021](https://gendai-art.org/caf_single/caf2021/) 最優秀賞 (2021)
+- [アートアンドテクノロジー東北2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 優秀賞・審査員特別賞 (2021)
+- [いばらきデジタルコンテンツ・ソフトウェア大賞2020](http://www.it-ibaraki.jp/contest/digicon2020/) デジタルアート部門 優秀賞 (2021)
+- [INTERNATIONAL STUDENTS CREATIVE AWARD 2020](https://kc-i.jp/activity/award/isca/2020/) デジタルコンテンツ部門 入選、So good賞 (2020)
+- [北九州デジタルアートコンテスト](https://kdcc.info/archive/2020.html) 入選 (2020)
+- 筑波大学工作室「創房大賞」最優秀賞 （[PDF](https://www.mast.tsukuba.ac.jp/event/sobo_prize/2018_results.pdf)）(2018)
 
 ## Scholarships
 
