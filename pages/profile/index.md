@@ -59,7 +59,7 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 ## Scholarships
 
 - [クマ財団クリエイター奨学生 第7期](https://kuma-foundation.org/student/kazumi-inada/) / [Kuma Foundation: Creator Scholarship](https://kuma-foundation.org/student/kazumi-inada/) (2023)
-- [国立研究開発法人 科学技術振興機構（JST）次世代研究者挑戦的研究プログラム](https://www.jst.go.jp/jisedai/)（採択機関: 筑波大学）/ Japan Science and Technology Agency: Support for Pioneering Research Initiated by the Next Generation (SPRING) (as a student of University of Tsukuba) (2023 - 2027)
+- [国立研究開発法人 科学技術振興機構（JST）次世代研究者挑戦的研究プログラム](https://www.jst.go.jp/jisedai/)（採択機関: 筑波大学）/ Japan Science and Technology Agency: Support for Pioneering Research Initiated by the Next Generation (SPRING) (as a student of University of Tsukuba) (2023 - 2026)
 
 ## Media Appearance
 
