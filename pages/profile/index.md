@@ -61,8 +61,9 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 - [クマ財団クリエイター奨学生 第7期](https://kuma-foundation.org/student/kazumi-inada/) / [Kuma Foundation: Creator Scholarship](https://kuma-foundation.org/student/kazumi-inada/) (2023)
 - [国立研究開発法人 科学技術振興機構（JST）次世代研究者挑戦的研究プログラム](https://www.jst.go.jp/jisedai/)（採択機関: 筑波大学）/ Japan Science and Technology Agency: Support for Pioneering Research Initiated by the Next Generation (SPRING) (as a student of University of Tsukuba) (2023 - 2027)
 
-## Media
+## Media Appearance
 
+- 信濃毎日新聞 [7日に開幕 「いいだ人形劇フェスタ2025」 飯田市を主会場に370公演 スマホから会場検索](https://www.shinmai.co.jp/news/article/CNTS2025080700146)（2025年）
 - 現代芸術振興財団 [INTERVIEW: Artists #38稲田和巳](https://gendai-art.org/interviews/artists_kazumiinada/) (2023)
 - 美術手帖Web[『国内最大級の学生向けアートコンペ「CAF賞2021」の受賞者が決定。最優秀賞は稲田和巳』](https://bijutsutecho.com/magazine/news/promotion/24852)（2021）
 - 筑波大学情報メディア創成学類 学類紙MAST Web『【特集】私の一年： 稲田和巳 (mast17)』 (2018)([Archive](https://web.archive.org/web/20210227074936/https://magazine.mast.tsukuba.ac.jp/archives/3682))
