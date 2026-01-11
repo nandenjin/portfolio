@@ -54,7 +54,6 @@ More at [Wantedly](https://www.wantedly.com/id/kzmi)
 - いばらきデジタルコンテンツ・ソフトウェア大賞2020デジタルアート部門 優秀賞 (2021)
 - INTERNATIONAL STUDENTS CREATIVE AWARD 2020デジタルコンテンツ部門 入選、So good賞 (2020)
 - 北九州デジタルアートコンテスト インスタレーション部門 入選 (2019)
-- 亀山トリエンナーレ2020出展ノミネート (2019)
 - 筑波大学工作室「創房大賞」最優秀賞 (2018)
 
 ## Scholarships
