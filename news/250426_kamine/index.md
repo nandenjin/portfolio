@@ -20,18 +20,18 @@ release: 2025-04-26
 - 2025.04.26 (Sat) - 2025.06.01 (Sun)
 - [つくばエキスポセンター](https://www.expocenter.or.jp/)（茨城県つくば市吾妻2-9）
 
-[展示詳細](/events/kamine-expoc25.md)
+[展示詳細](/events/kamine-expoc25)
 
 ### Vol. 0「モリビトを創る」（gallery neo\_/Senshu）
 
 - 2025.06.06 (Fri) - 2025.06.20 (Fri)
 - [gallery neo\_/Senshu](https://neotsukuba.com/category/news/gallery/)（茨城県つくば市千現1丁目23-4マイコーポ二の宮101）
 
-[展示詳細](/events/kamine-neo25.md)
+[展示詳細](/events/kamine-neo25)
 
 ### Vol. 2「大地のモリビト」（EARTH+GALLERY）
 
 - 2025.06.19 (Thu) - 2025.06.29 (Sun)
 - [EARTH+GALLERY](https://earth-plus.com/)（東京都江東区木場3丁目18−17）
 
-[展示詳細](/events/kamine-earth25.md)
+[展示詳細](/events/kamine-earth25)

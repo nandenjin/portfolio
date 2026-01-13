@@ -21,7 +21,7 @@ The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsuku
 
 ## インフォメーション / Information
 
-**つくばメディアアートフェスティバル2025** （[イベント詳細ページ](/events/tmaf25.md)）
+**つくばメディアアートフェスティバル2025** （[イベント詳細ページ](/events/tmaf25)）
 
 **会期:** 2025年8月1日(金)〜8月11日(月・祝)  
 **休館日:** 8月4日(月)  
@@ -29,7 +29,7 @@ The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsuku
 **開館時間:** 9:30〜17:00（最終日は13:00閉館、入場は閉館の30分前まで）  
 **入場料:** 無料
 
-**Tsukuba Media Art Festival 2025** （[Event Details](/events/tmaf25.md)）
+**Tsukuba Media Art Festival 2025** （[Event Details](/events/tmaf25)）
 
 **Period:** August 1 (Fri) - August 11 (Mon, Holiday), 2025  
 **Closed:** August 4 (Mon)  
