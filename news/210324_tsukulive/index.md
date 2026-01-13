@@ -13,5 +13,5 @@ release: 2021-03-25
 
 2019年開催の2nd Liveについては、こちらもご覧ください。
 
-- [ツクライブ! サンシャイン!! 2nd Liveの照明演出を担当します](/news/191101_tsukulive.md)
-- [ツクライブ! サンシャイン!! 2nd Live](/works/tsukulive19.md)
+- [ツクライブ! サンシャイン!! 2nd Liveの照明演出を担当します](/news/191101_tsukulive)
+- [ツクライブ! サンシャイン!! 2nd Live](/works/tsukulive19)

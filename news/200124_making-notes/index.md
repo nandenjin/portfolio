@@ -18,5 +18,5 @@ release: 2020-11-08
 - Behind the Scenes of ツクライブ！ ライブ照明を作るとき考えたこと
   - [技術編](https://note.com/nandenjin/n/n9a08fdcaaff8)
   - [デザイン編](https://note.com/nandenjin/n/naaf4cb3f364e)
-- [作品詳細](/works/tsukulive19.md)
+- [作品詳細](/works/tsukulive19)
 - [ツクライブ！公式Twitter](https://twitter.com/tsuku_live)
