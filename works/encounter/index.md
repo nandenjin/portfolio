@@ -14,4 +14,4 @@ release: 2017-03-10
 ![](encounter/encounter_3.jpg)
 ![](encounter/encounter_pano.jpg)
 
-筑波大学人形劇団 NEU 公演「encounter」において、照明プランを担当。
+筑波大学人形劇団NEU 公演「encounter」において、照明プランを担当。

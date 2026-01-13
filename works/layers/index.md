@@ -10,10 +10,14 @@ thumbnail: /works/layers/pre_00.png
 release: 2021-07-30
 ---
 
-池に沈む塵や落ち葉に、場に横たわる文化・時間・営みの存在を重ね合わせるようにして描くプロジェクションマッピング作品。現実の動きを量り取るためのさまざまなデータを CG 映像に変換し、様々な形で重畳しながら見せる。人形を用いたパフォーマンスは文楽の技法を元にして制作した。
+池に沈む塵や落ち葉に、場に横たわる文化・時間・営みの存在を重ね合わせるようにして描くプロジェクションマッピング作品。現実の動きを量り取るためのさまざまなデータをCG映像に変換し、様々な形で重畳しながら見せる。人形を用いたパフォーマンスは文楽の技法を元にして制作した。
 
 ![](/works/layers/pre_00.png)
+
+[![](https://img.youtube.com/vi/9wbpUWU3pyM/maxresdefault.jpg)](https://www.youtube.com/watch?v=9wbpUWU3pyM)
+
 ![](/works/layers/pre_01.png)
+
 ![](/works/layers/pre_02.png)
 
 ## データのクレジット
@@ -22,9 +26,9 @@ release: 2021-07-30
 
 - 地図タイル、衛星写真・航空写真 ... [国土地理院 地理院地図](https://maps.gsi.go.jp/)
 - 人工衛星軌道 ... [Celestrak Orbit Visualization](https://celestrak.com/cesium/orbit-viz.php?tle=/pub/TLE/catalog.txt&satcat=/pub/satcat.txt&referenceFrame=1)
-- SNS ユーザー行動・単語 ... [Instant Sympathy](/works/sympathy) by I/O (Takuto Okamoto + Kazumi Inada)
+- SNSユーザー行動・単語 ... [Instant Sympathy](/pages/works/sympathy.md) by I/O (Takuto Okamoto + Kazumi Inada)
 
-### Creative Commons BY 下で使用されたコンテンツ
+### Creative Commons BY下で使用されたコンテンツ
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), via Wikimedia Commons.
 

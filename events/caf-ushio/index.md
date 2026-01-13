@@ -48,11 +48,11 @@ external_infos:
 
 ## Overview
 
-CAF 賞 2021 最優秀賞受賞作家 稲田和巳個展「潮」
+CAF賞2021 最優秀賞受賞作家 稲田和巳個展「潮」
 
-- 会期：2023 年 2 月 18 日（土）〜4 月 8 日（土）＊日〜水、祝日休廊
-- 開廊時間：会期中の木・金は 12:00〜18:00、土は 12:00 - 19:00
-- 会場：現代芸術振興財団（東京都港区六本木 6-6-9 ピラミデビル 4 階）
+- 会期：2023年2月18日（土）〜4月8日（土）＊日〜水、祝日休廊
+- 開廊時間：会期中の木・金は12:00〜18:00、土は12:00 - 19:00
+- 会場：現代芸術振興財団（東京都港区六本木6-6-9ピラミデビル4階）
 - 入場無料、事前予約不要
 
 CAF Award 2021 Grand Prize Winner Kazumi Inada Solo Exhibition “Ushio”
@@ -71,7 +71,7 @@ CAF Award 2021 Grand Prize Winner Kazumi Inada Solo Exhibition “Ushio”
 
 デザイン: [岡本太玖斗（SINGS）](https://takuto-okamoto.com/)
 
-[現代芸術振興財団 Web ページのフォーム](https://gendai-art.org/catalog/)から請求できます（無料）。残部がなくなり次第、フォームへの掲載は終了します。
+[現代芸術振興財団Webページのフォーム](https://gendai-art.org/catalog/)から請求できます（無料）。残部がなくなり次第、フォームへの掲載は終了します。
 
 - Photos of works and exhibition view
 - Exhibition review by Akihiko Taniguchi and Gaetan Kubo
@@ -100,7 +100,7 @@ A field work and a talk session was held with [tomotosi](http://tomotosi.com/) &
 
 ## Media
 
-- Numero Tokyo [若手アーティストの登竜門「CAF 賞」受賞・稲田和巳展＠現代芸術振興財団](https://numero.jp/news-20230221-kazumiinada/)
+- Numero Tokyo [若手アーティストの登竜門「CAF賞」受賞・稲田和巳展＠現代芸術振興財団](https://numero.jp/news-20230221-kazumiinada/)
 - TOKYO ART BEAT [稲田和巳 「潮」公益財団法人現代芸術振興財団事務局](https://www.tokyoartbeat.com/events/-/Kazumi-Inada-Ushio/AD9D1C2A/2023-02-18)
-- 美術手帖 [CAF 賞 2021 最優秀賞受賞作家 稲田和巳 個展『潮』現代芸術振興財団](https://bijutsutecho.com/exhibitions/11313)
-- 朝日新聞 首都圏版 2023.2.21 夕刊アート情報欄
+- 美術手帖 [CAF賞2021最優秀賞受賞作家 稲田和巳 個展『潮』現代芸術振興財団](https://bijutsutecho.com/exhibitions/11313)
+- 朝日新聞 首都圏版2023.2.21夕刊アート情報欄

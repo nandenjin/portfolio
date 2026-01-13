@@ -17,6 +17,7 @@ let hasError = false
 
 // Crawl all markdown files
 for (const entry of walkSync(root, { match: [/\.md$/i] })) {
+  if (entry.path.includes("/node_modules/")) continue
   consola.trace(entry.path)
   hasError = (await hasInvalidLink(entry.path)) || hasError
 }
@@ -36,6 +37,7 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
   // Make it absolute path
   filename = resolve(filename)
 
+  consola.debug(`Checking links in ${filename}`)
   const markdown = await Deno.readTextFile(filename)
 
   // Parse markdown
@@ -48,21 +50,25 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
 
   // Collect links in Frontmatter
   if (testFm(markdown)) {
-    const fm = parseFm<FrontMatter>(markdown)
+    try {
+      const fm = parseFm<FrontMatter>(markdown)
 
-    // Add thumbnail link
-    if (fm.attrs.thumbnail) {
-      links.push({ url: fm.attrs.thumbnail, hint: "thumbnail" })
-    }
+      // Add thumbnail link
+      if (fm.attrs.thumbnail) {
+        links.push({ url: fm.attrs.thumbnail, hint: "thumbnail" })
+      }
 
-    // Add related_works links
-    if (fm.attrs.relaeted_works) {
-      links.push(
-        ...fm.attrs.relaeted_works.map((id) => ({
-          url: `/works/${id}`, // Convert from work id to internal path
-          hint: "related_works",
-        }))
-      )
+      // Add related_works links
+      if (fm.attrs.relaeted_works) {
+        links.push(
+          ...fm.attrs.relaeted_works.map((id) => ({
+            url: `/works/${id}`, // Convert from work id to internal path
+            hint: "related_works",
+          })),
+        )
+      }
+    } catch (e) {
+      consola.warn(`Failed to parse frontmatter in ${filename}: ${e}`)
     }
   }
 
@@ -76,7 +82,7 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
       root,
 
       // Make it absolute path, in repo root
-      resolve("/" + relative(root, filename), "..", link.url)
+      resolve("/" + relative(root, filename), "..", link.url),
     )
 
     // Check if the file exists
@@ -88,9 +94,9 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
           link.line && link.column
             ? `:${link.line}:${link.column}`
             : link.hint
-            ? ` (${link.hint})`
-            : ""
-        }`
+              ? ` (${link.hint})`
+              : ""
+        }`,
       )
       hasError = true
     }

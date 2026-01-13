@@ -16,7 +16,7 @@ release: 2019-05-20
 ![](/works/sympathy/sympathy_1.png)
 ![](/works/sympathy/sympathy_wide.jpg)
 
-インターネットでのユーザーの行動を分析し、オンラインの世界に広がる社会構造を明らかにするシミュレーション作品。現実空間と平行に存在する「オンラインでの社会の構造」を可視化し、そのふるまいを観察する手段を作ることを目指したもの。任意のコミュニティに属する人々の SNS での行動を集め、その関連性を推測したグラフィックを生成する。2018 年より筑波大学の学生を対象としてデータセットの構築をおこない、2000 人〜3000 人のデータを常時収集・処理しながら稼働している。
+インターネットでのユーザーの行動を分析し、オンラインの世界に広がる社会構造を明らかにするシミュレーション作品。現実空間と平行に存在する「オンラインでの社会の構造」を可視化し、そのふるまいを観察する手段を作ることを目指したもの。任意のコミュニティに属する人々のSNSでの行動を集め、その関連性を推測したグラフィックを生成する。2018年より筑波大学の学生を対象としてデータセットの構築をおこない、2000人〜3000人のデータを常時収集・処理しながら稼働している。
 
 岡本太玖斗とのユニット「I/O」での制作。グラフィック・音楽デザインを岡本が、コンセプト・技術を稲田が担当。
 
@@ -32,5 +32,5 @@ Worked as a unit "I/O" with Taikuto Okamoto. Okamoto is in charge of graphic and
 
 ## Awards
 
-- [アートアンドテクノロジー東北 2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 優秀賞
-- [International Students Creative Award 2020](https://kc-i.jp/activity/award/isca/2020/) 入選・So good 賞
+- [アートアンドテクノロジー東北2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 優秀賞
+- [International Students Creative Award 2020](https://kc-i.jp/activity/award/isca/2020/) 入選・So good賞

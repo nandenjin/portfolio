@@ -5,15 +5,15 @@ tags: art installation
 release: 2021-11-28
 ---
 
-現代芸術振興財団主催「[CAF 賞 2021](https://gendai-art.org/caf_single/caf2021/)」で、最優秀賞を受賞しました。ありがとうございます。
+現代芸術振興財団主催「[CAF賞2021](https://gendai-art.org/caf_single/caf2021/)」で、最優秀賞を受賞しました。ありがとうございます。
 
 - [CAF 賞 2021 入選作品展](/events/caf21)
 
-> 「CAF 賞」は、日本全国の高校・大学・大学院・専門学校の学生、および日本国籍を有し海外の教育機関に在籍する学生の作品を対象としたアートアワードです。学生の創作活動の支援と日本の現代芸術の振興を目的に開催し、今回で 8 回目を迎えます。
+> 「CAF賞」は、日本全国の高校・大学・大学院・専門学校の学生、および日本国籍を有し海外の教育機関に在籍する学生の作品を対象としたアートアワードです。学生の創作活動の支援と日本の現代芸術の振興を目的に開催し、今回で8回目を迎えます。
 
-- [現代芸術振興財団 CAF 賞 2021](https://gendai-art.org/caf_single/caf2021/)
-- [国内最大級の学生向けアートコンペ「CAF 賞 2021」の受賞者が決定。最優秀賞は稲田和巳 - 美術手帖](https://bijutsutecho.com/magazine/news/promotion/24852)
-- [本学学生が Contemporary Art Foundation Award「CAF 賞 2021」最優秀賞を受賞 - TSUKUBA JOURNAL](https://www.tsukuba.ac.jp/journal/awards/20211208110719.html)
+- [現代芸術振興財団CAF賞2021](https://gendai-art.org/caf_single/caf2021/)
+- [国内最大級の学生向けアートコンペ「CAF賞2021」の受賞者が決定。最優秀賞は稲田和巳 - 美術手帖](https://bijutsutecho.com/magazine/news/promotion/24852)
+- [本学学生がContemporary Art Foundation Award「CAF賞2021」最優秀賞を受賞 - TSUKUBA JOURNAL](https://www.tsukuba.ac.jp/journal/awards/20211208110719.html)
 
 > 本作は筑波の街中にある、筑波大学のかつての学生寮を使用し、人々が”住んだ”記録を反映し行われるアート・プロジェクト作品である。どこかに住んでいる人が家に帰ってきたときに灯した明かりに反応し、リアルタイムに電気がつくようになる。実際に本作に協力した人たちも、会ったことがない人も含め、協力者によって作られていくという匿名的な人々の何気ない生活の振る舞いが、この廃墟となってしまった、一見冷たくも見える学生寮に明かりを灯していく、そういったシステムを開発した。
 >
@@ -23,6 +23,6 @@ release: 2021-11-28
 
 [![](/events/caf21/caf21_0.jpg)](https://www.youtube.com/watch?v=qQykSf7AoBA)
 
-最終審査での展示作品《住人たち》は、30 日（火）日の出まで実物を展示中です。
+最終審査での展示作品《住人たち》は、30日（火）日の出まで実物を展示中です。
 
 - [《住人たち》再制作と展示](/events/residents21)

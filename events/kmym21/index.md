@@ -24,7 +24,7 @@ external_infos:
 
 ---
 
-三重県亀山市で開催の「亀山トリエンナーレ 2022」にて、《潮》を展示します。
+三重県亀山市で開催の「亀山トリエンナーレ2022」にて、《潮》を展示します。
 
 ![](/events/kmym21/indoor_overview.jpg)
 
@@ -41,17 +41,17 @@ external_infos:
 2022/10/30 (Sun) - 11/19 (Sat)<br>
 10:00 - 17:00 / 三重県亀山市内各所
 
-- 展示場所一覧（[Google マップ](https://www.google.com/maps/d/viewer?mid=19qX6JxjaBgpcsK-xuG0A84xfIp-N_lDt&hl=ja) / [PDF](http://kameyamatriennale.jp/pdf/map2022o.pdf)）
+- 展示場所一覧（[Googleマップ](https://www.google.com/maps/d/viewer?mid=19qX6JxjaBgpcsK-xuG0A84xfIp-N_lDt&hl=ja) / [PDF](http://kameyamatriennale.jp/pdf/map2022o.pdf)）
 - 入場料
-  - **舘家・加藤家:** 有料（共通 500 円）。それぞれの会場でお買い求めいただけます。
+  - **舘家・加藤家:** 有料（共通500円）。それぞれの会場でお買い求めいただけます。
   - **その他の会場:** 無料
 
 ### 《潮》展示場所
 
 高村書店（[Twitter](https://twitter.com/takamurabook)）
 
-亀山市東町 1 丁目 4-1 （[Google Maps](https://goo.gl/maps/Ae5b5U3VqnDHZGSM8)）<br>
-9:30 - 19:30 日曜定休<br>
+亀山市東町1丁目4-1（[Google Maps](https://goo.gl/maps/Ae5b5U3VqnDHZGSM8)）<br>
+9:30 - 19:30日曜定休<br>
 入場無料
 
 ![](/events/kmym21/outdoor_view.jpg)
@@ -60,7 +60,7 @@ external_infos:
 
 以下はすべて亀山トリエンナーレ公式パンフレット（[Web](http://kameyamatriennale.jp/)）に掲載の情報です。詳細は亀山トリエンナーレ事務局へお問い合わせください。
 
-519-0137 三重県亀山市阿野田町 1060<br>
+519-0137 三重県亀山市阿野田町1060<br>
 090-8950-3011<br>
 artkameyama[at]gmail.com
 
@@ -71,7 +71,7 @@ artkameyama[at]gmail.com
     - 15:00 | 気高く、我が　を（イラン）
     - 16:15 | 殊勲十字章（アメリカ）
   - 11/5
-    - 15:30 | 自画像: 47KM の窓（中国）
+    - 15:30 | 自画像: 47KMの窓（中国）
   - 11/6
     - 13:00 | 気高く、我が　を（イラン）
     - 16:00 | 殊勲十字章（アメリカ）
@@ -84,8 +84,8 @@ artkameyama[at]gmail.com
   - 11/12
     - 12:00 | 祖国-イラク零年（イラク・フランス）
   - 11/19
-    - 11:00 | 自画像: 47KM の窓（中国）
-- 亀山市市民協働センター 2F
+    - 11:00 | 自画像: 47KMの窓（中国）
+- 亀山市市民協働センター2F
 - 入場無料
 
 ### 矢作隆一 学校ワークショップの作品展示「Milagro-奇跡 × 軌跡-」
@@ -127,7 +127,7 @@ artkameyama[at]gmail.com
 
 ### 亀山モンマルトル（スケッチ）
 
-- 11/3 10:00- （雨天時は 11/6）
+- 11/3 10:00- （雨天時は11/6）
 - 亀山市内一帯（自由参加）
 - 参加費無料
 - 受付: 亀山市市民協働センター
@@ -143,7 +143,7 @@ artkameyama[at]gmail.com
 
 - 11/6 11:00- / 14:00-
 - 東町ふれあい広場 / 雨天時は市民協働センター
-- 参加費 1000 円
+- 参加費 1000円
 
 ### 辻將成「DUALITY2022KAMEYAMA」（ダンスパフォーマンス）
 
