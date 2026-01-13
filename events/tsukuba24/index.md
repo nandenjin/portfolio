@@ -22,35 +22,35 @@ I will soon hold a self-initiated solo exhibition in Tsukuba, Ibaraki, where I h
 
 Tide is a series of works that investigates the characteristics of the society that spreads out there by reading the data associated with geographical space into a virtual topography and showing the invisible currents that lie in the place. In this exhibition, a video installation in a park rest house will be used as a venue for a video installation about an attempt to have an AI using a large-scale language model 'walk' through the city of Tsukuba, which shows various aspects, such as a farming village before the Research Park City and a bedroom town developed in recent years.
 
-![](/assets/events/tsukuba24/visual_16-9.jpg)
+![](/events/tsukuba24/visual_16-9.jpg)
 
-![](/assets/events/tsukuba24/overview_wide_0.jpg)
+![](/events/tsukuba24/overview_wide_0.jpg)
 
-![](/assets/events/tsukuba24/screen_front.jpg)
+![](/events/tsukuba24/screen_front.jpg)
 
-![](/assets/events/tsukuba24/screen_zoom_0.jpg)
+![](/events/tsukuba24/screen_zoom_0.jpg)
 
-![](/assets/events/tsukuba24/screen_zoom_1.jpg)
+![](/events/tsukuba24/screen_zoom_1.jpg)
 
-![](/assets/events/tsukuba24/overview_wide_1.jpg)
+![](/events/tsukuba24/overview_wide_1.jpg)
 
-![](/assets/events/tsukuba24/terrain_1.jpg)
+![](/events/tsukuba24/terrain_1.jpg)
 
-![](/assets/events/tsukuba24/terrain_0.jpg)
+![](/events/tsukuba24/terrain_0.jpg)
 
-![](/assets/events/tsukuba24/overview_1.jpg)
+![](/events/tsukuba24/overview_1.jpg)
 
-![](/assets/events/tsukuba24/topo_0.jpg)
+![](/events/tsukuba24/topo_0.jpg)
 
-![](/assets/events/tsukuba24/switch_0.jpg)
+![](/events/tsukuba24/switch_0.jpg)
 
-![](/assets/events/tsukuba24/topo_1.jpg)
+![](/events/tsukuba24/topo_1.jpg)
 
-![](/assets/events/tsukuba24/screen_zoom_2.jpg)
+![](/events/tsukuba24/screen_zoom_2.jpg)
 
-![](/assets/events/tsukuba24/screen_overview_1.jpg)
+![](/events/tsukuba24/screen_overview_1.jpg)
 
-![](/assets/events/tsukuba24/overview_0.jpg)
+![](/events/tsukuba24/overview_0.jpg)
 
 > 《潮》は、「人間のなす社会は目に見えない 『流れ』を生じているのではないか」という着想から始まったシリーズです。都市には地方からエネルギーや資本が集まっていき、逆に文化や流行り病は都市から外側へ広がっていく、そういった誰もがなんとなくは想像がつくであろう動きを、街区や通りのレベルまで高解像度に「観測する」ことを目指しています。見えない「流れ」を可視化するため、自然界のそれが地表の形によって起こるのと同じように、場所に紐づいたさまざまな数値データから架空の地形を生成し、その上に流体を流すシミュレーションを提示します。
 >
@@ -68,13 +68,13 @@ Free admission. 300m from Tsukuba Station Exit A2 (in Central Park, opposite Tsu
 
 Parking is available at the Tsukuba Urban Transport Centre car park attached to the park (nearest is ["North 2"](https://www.tutc.or.jp/carparking/n02/)).
 
-![](/assets/events/tsukuba24/entrance_0.jpg)
+![](/events/tsukuba24/entrance_0.jpg)
 
-![](/assets/events/tsukuba24/title_0.jpg)
+![](/events/tsukuba24/title_0.jpg)
 
-![](/assets/events/tsukuba24/window_0.jpg)
+![](/events/tsukuba24/window_0.jpg)
 
-![](/assets/events/tsukuba24/entrance_1.jpg)
+![](/events/tsukuba24/entrance_1.jpg)
 
 ## Credits
 

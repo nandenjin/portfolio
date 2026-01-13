@@ -30,12 +30,12 @@ external_infos:
 >
 > 双方が混ざり合わさることで生み出される、リアルな日本なるものという概念をガーディアン (Guardian) というフィギュアをフォーマットとした表現手段を中心に提示し続けてきた現代美術家 上根拓馬。「宇宙と大地と…Project」では、宇宙と大地をテーマに、つくばエキスポセンターイベントスペースでの展示を皮切りに、gallery neo\_/Senshu（つくば）、EARTH+GALLERY（東京）と三つの会場にて個展を開催します。上根拓馬による宇宙と大地をめぐる物語をとおして、人間文化と宇宙観、土着の神々と人の関係を造形表現とそのプロセスによって迫ります。
 
-![](/assets/events/kamine-expoc25/overview_hall.jpg)
+![](/events/kamine-expoc25/overview_hall.jpg)
 
-![](/assets/events/kamine-expoc25/overview_front.jpg)
+![](/events/kamine-expoc25/overview_front.jpg)
 
-![](/assets/events/kamine-expoc25/side_left.jpg)
+![](/events/kamine-expoc25/side_left.jpg)
 
-![](/assets/events/kamine-expoc25/side_right_from_center.jpg)
+![](/events/kamine-expoc25/side_right_from_center.jpg)
 
-![](/assets/events/kamine-expoc25/devas_head_side.jpg)
+![](/events/kamine-expoc25/devas_head_side.jpg)

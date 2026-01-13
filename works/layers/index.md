@@ -26,7 +26,7 @@ release: 2021-07-30
 
 - 地図タイル、衛星写真・航空写真 ... [国土地理院 地理院地図](https://maps.gsi.go.jp/)
 - 人工衛星軌道 ... [Celestrak Orbit Visualization](https://celestrak.com/cesium/orbit-viz.php?tle=/pub/TLE/catalog.txt&satcat=/pub/satcat.txt&referenceFrame=1)
-- SNSユーザー行動・単語 ... [Instant Sympathy](/pages/works/sympathy) by I/O (Takuto Okamoto + Kazumi Inada)
+- SNSユーザー行動・単語 ... [Instant Sympathy](/works/sympathy) by I/O (Takuto Okamoto + Kazumi Inada)
 
 ### Creative Commons BY下で使用されたコンテンツ
 
