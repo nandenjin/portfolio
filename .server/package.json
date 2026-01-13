@@ -1,0 +1,27 @@
+{
+  "name": "@portfolio/server",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsx build/index.ts",
+    "dev": "npm run build && nodemon --exec 'tsx src/index.ts' --watch src --ext ts",
+    "start": "NODE_ENV=production tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist/ data/"
+  },
+  "dependencies": {
+    "@hono/node-server": "1.19.8",
+    "better-sqlite3": "12.6.0",
+    "gray-matter": "4.0.3",
+    "hono": "4.11.3",
+    "markdown-it": "14.1.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "7.6.13",
+    "@types/markdown-it": "14.1.2",
+    "@types/node": "25.0.6",
+    "nodemon": "3.1.11",
+    "tsx": "4.21.0",
+    "typescript": "5.9.3"
+  }
+}
