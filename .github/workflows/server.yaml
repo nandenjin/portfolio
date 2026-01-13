@@ -1,0 +1,24 @@
+name: server
+on:
+  push:
+    branches:
+      - master
+      - renovate/*
+  pull_request:
+
+defaults:
+  run:
+    working-directory: .server
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version-file: .nvmrc
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm run build
