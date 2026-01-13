@@ -1,0 +1,44 @@
+---
+title_en: Tsukuba Media Art Festival 2025
+title_ja: つくばメディアアートフェスティバル2025に参加します
+tags: art exhibition
+release: 2025-07-04
+---
+
+2025.08.01〜08.11の期間で、茨城県で開催される「つくばメディアアートフェスティバル2025」に、新作のインスタレーション作品で参加します。
+
+I will be participating in the "Tsukuba Media Art Festival 2025" held in Ibaraki Prefecture from August 1-11, 2025, with a new installation work.
+
+![つくばメディアアートフェスティバル2025フライヤー](/events/tmaf25/flyer_a.jpg)
+
+本展では、近年取り組んできた社会に横たわる不可視な要素・構造を観察するシリーズの作品からなる、新作のインスタレーション作品を発表します。
+
+This exhibition will feature a new installation work comprising works from the series that observes invisible elements and structures in society that I have been working on in recent years.
+
+「つくばメディアアートフェスティバル」は、「科学のまちつくば」の特色を生かした、つくばならではの文化の発信を目指して2014年度にスタートし、今回で7回目の開催となります。筑波大学の「工学・芸術連携リサーチグループ」の協力のもと、国際的アーティストや学内公募により選ばれた学生たちによる、分野を超えテクノロジーと芸術が融合した作品の数々が展示されます。
+
+The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsukuba's unique culture by leveraging the characteristics of "Tsukuba, the City of Science," and this is the 7th time it will be held. With the cooperation of the "Engineering and Arts Collaborative Research Group" at the University of Tsukuba, numerous works that transcend disciplinary boundaries and fuse technology and art, created by international artists and students selected through internal calls for submissions, will be exhibited.
+
+## インフォメーション / Information
+
+**つくばメディアアートフェスティバル2025** （[イベント詳細ページ](/events/tmaf25)）
+
+**会期:** 2025年8月1日(金)〜8月11日(月・祝)  
+**休館日:** 8月4日(月)  
+**会場:** 茨城県つくば美術館 （茨城県つくば市吾妻2-8）  
+**開館時間:** 9:30〜17:00（最終日は13:00閉館、入場は閉館の30分前まで）  
+**入場料:** 無料
+
+**Tsukuba Media Art Festival 2025** （[Event Details](/events/tmaf25)）
+
+**Period:** August 1 (Fri) - August 11 (Mon, Holiday), 2025  
+**Closed:** August 4 (Mon)  
+**Venue:** Ibaraki Tsukuba Museum of Art (2-8 Azuma, Tsukuba City, Ibaraki)  
+**Hours:** 9:30 AM - 5:00 PM (closes at 1:00 PM on the final day, admission until 30 minutes before closing)  
+**Admission:** Free
+
+※お知らせ掲載時点での情報となります。変更等について参考サイトもご確認ください。  
+※Information is current as of the time of publication. Please check the reference sites for any changes.
+
+- [イベント公式情報（つくば・アートチャンネル）](https://www.tsukuba-artchannel.jp/page/page000181.html)
+- [お問い合わせ] つくば市芸術文化推進課 TEL: 029-883-1111（代表）

@@ -62,7 +62,7 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
       if (fm.attrs.relaeted_works) {
         links.push(
           ...fm.attrs.relaeted_works.map((id) => ({
-            url: `/pages/works/${id}`, // Convert from work id to internal path
+            url: `/works/${id}`, // Convert from work id to internal path
             hint: "related_works",
           })),
         )

@@ -14,16 +14,20 @@ This repository manages the master content for the portfolio of Kazumi Inada, an
 
 ```
 portfolio/
-├── pages/          # Content files (Markdown)
-│   ├── news/       # News articles
-│   ├── works/      # Work information
-│   ├── events/     # Event and exhibition information
-│   └── profile/    # Profile
-├── assets/         # Media files (images, videos, etc.)
-│   ├── news/       # Assets for news articles
-│   ├── works/      # Assets for works
-│   ├── events/     # Assets for events
-│   └── profile/    # Assets for profile
+├── news/           # News articles
+│   └── YYMMDD_slug/
+│       ├── index.md    # Article content
+│       └── *.jpg       # Article assets
+├── works/          # Work information
+│   └── slug/
+│       ├── index.md    # Work content
+│       └── *.jpg       # Work assets
+├── events/         # Event and exhibition information
+│   └── slug/
+│       ├── index.md    # Event content
+│       └── *.jpg       # Event assets
+├── profile/        # Profile
+│   └── index.md
 ├── .scripts/       # Validation scripts
 │   └── check-links.ts  # Link validation script
 └── .github/workflows/  # CI/CD workflows
@@ -31,18 +35,20 @@ portfolio/
 
 ## Content Types
 
-### 1. News (`pages/news/`)
+### 1. News (`news/`)
 
-#### File Naming Convention
+#### Directory Naming Convention
 
-Use `YYMMDD_slug.md` format:
+Use `YYMMDD_slug/` format:
 
 - `YY`: Last 2 digits of year
 - `MM`: Month (2 digits)
 - `DD`: Day (2 digits)
 - `slug`: Short identifier composed of alphanumeric characters and hyphens
 
-Example: `251203_information-design.md`
+Example: `251203_information-design/`
+
+Content is stored in `index.md` within each directory.
 
 #### Front Matter
 
@@ -66,24 +72,16 @@ release: YYYY-MM-DD
 - `tags`: Space-separated list of tags
   - Examples: `talk`, `education`, `art`, `stage`, `video`, `photo`, etc.
 
-#### Index File
+### 2. Works (`works/`)
 
-Manually maintain a list in `pages/news/index.md` in chronological order (newest first). When adding a new article, add it to the **beginning** of this file.
+#### Directory Naming Convention
 
-List format:
-
-```markdown
-- [日本語タイトル / English Title](/pages/news/YYMMDD_slug.md)
-```
-
-### 2. Works (`pages/works/`)
-
-#### File Naming Convention
-
-Use `slug.md` format (no date prefix):
+Use `slug/` format (no date prefix):
 
 - Short alphanumeric identifier with hyphens representing the work name
-- Examples: `suzuna.md`, `ushio-rpng.md`, `room-of-observation.md`
+- Examples: `suzuna/`, `ushio-rpng/`, `room-of-observation/`
+
+Content is stored in `index.md` within each directory.
 
 #### Front Matter
 
@@ -95,7 +93,7 @@ creator: Credit (creator/organization name)
 materials: Media/materials used
 year: Production year
 tags: tag1 tag2 tag3
-thumbnail: /assets/works/slug/thumbnail.jpg
+thumbnail: /works/slug/thumbnail.jpg
 release: YYYY-MM-DD
 ---
 ```
@@ -114,18 +112,16 @@ release: YYYY-MM-DD
 - `tags`: Tag list (e.g., `stage video photo musubiza`)
 - `thumbnail`: Thumbnail image path
 
-#### Index File
+### 3. Events (`events/`)
 
-Manually maintain a work list in `pages/works/index.md`. Add new works at the appropriate position (typically newest first).
+#### Directory Naming Convention
 
-### 3. Events (`pages/events/`)
-
-#### File Naming Convention
-
-Use `slug.md` format:
+Use `slug/` format:
 
 - Short alphanumeric identifier with hyphens representing the event name
-- Examples: `kamine-expoc25.md`, `tmaf25.md`
+- Examples: `kamine-expoc25/`, `tmaf25/`
+
+Content is stored in `index.md` within each directory.
 
 #### Front Matter
 
@@ -144,7 +140,7 @@ locations:
     address: Address
 related_works:
   - work-slug
-thumbnail: /assets/events/slug/image.jpg
+thumbnail: /events/slug/image.jpg
 external_infos:
   - title_ja: 外部リンクタイトル
     url: https://example.com
@@ -170,18 +166,23 @@ external_infos:
 
 ### Directory Structure
 
-Assets corresponding to each content type are placed under `assets/`:
+Assets are stored alongside content within each directory:
 
 ```
-assets/
-├── works/slug/
-│   ├── thumbnail.jpg
-│   ├── 00.jpg
-│   └── 01.jpg
-├── events/slug/
-│   └── image.jpg
-└── news/slug/
-    └── image.jpg
+news/YYMMDD_slug/
+├── index.md
+├── thumbnail.jpg
+└── image.jpg
+
+works/slug/
+├── index.md
+├── thumbnail.jpg
+├── 00.jpg
+└── 01.jpg
+
+events/slug/
+├── index.md
+└── image.jpg
 ```
 
 ### Naming Convention
@@ -194,18 +195,19 @@ assets/
 Reference with absolute path format in Markdown:
 
 ```markdown
-![](/assets/works/suzuna/thumbnail.jpg)
+![](/works/suzuna/thumbnail.jpg)
+![](/events/kamine-expoc25/image.jpg)
 ```
 
 ## Internal Links
 
 ### Link Format
 
-Internal links must be written as absolute paths starting with `/pages/`:
+Internal links must be written as absolute paths:
 
 ```markdown
-[Link text](/pages/works/suzuna.md)
-[Exhibition details](/pages/events/kamine-expoc25.md)
+[Link text](/works/suzuna/)
+[Exhibition details](/events/kamine-expoc25/)
 ```
 
 ### Link Validation
@@ -238,11 +240,11 @@ All Markdown, JSON, and YAML files are formatted with Prettier.
 
 ### Content Addition Workflow
 
-1. **Create file**: Create Markdown file in the appropriate directory following naming conventions
-2. **Write Front Matter**: Write proper Front Matter including required fields
-3. **Write content**: Write content in both Japanese and English
-4. **Place assets**: Place necessary images in the appropriate directory under `assets/`
-5. **Update index**: Add new entry to `index.md` file (for News and Works)
+1. **Create directory**: Create directory with appropriate naming convention
+2. **Create index.md**: Create `index.md` file in the directory
+3. **Write Front Matter**: Write proper Front Matter including required fields
+4. **Write content**: Write content in both Japanese and English
+5. **Place assets**: Place necessary images in the same directory
 6. **Validate links**: Verify internal links are correct
 7. **Commit**: Commit after automatic formatting by Prettier
 
@@ -290,30 +292,30 @@ Check existing tags and use standardized tags whenever possible:
 ### Adding a New News Article
 
 1. Determine date and slug (`YYMMDD_slug`)
-2. Create `pages/news/YYMMDD_slug.md`
-3. Write Front Matter and content
-4. Place images in `assets/news/slug/` if needed
-5. Add new entry to the **beginning** of `pages/news/index.md`
+2. Create directory `news/YYMMDD_slug/`
+3. Create `news/YYMMDD_slug/index.md`
+4. Write Front Matter and content
+5. Place images in `news/YYMMDD_slug/` if needed
 6. Commit changes
 
 ### Adding a New Work
 
 1. Determine work slug
-2. Create `pages/works/slug.md`
-3. Write Front Matter and content
-4. Place thumbnail and images in `assets/works/slug/`
-5. Commit changes
-
-Note: Adding new entry in `/pages/works/index.md` should be executed manually by human, because this list is curated. Ask about it if it seems to be needed.
+2. Create directory `works/slug/`
+3. Create `works/slug/index.md`
+4. Write Front Matter and content
+5. Place thumbnail and images in `works/slug/`
+6. Commit changes
 
 ### Adding Event Information
 
 1. Determine event slug
-2. Create `pages/events/slug.md`
-3. Write Front Matter (venue info, schedule, etc.) and content
-4. Place images in `assets/events/slug/`
-5. Create related news article in `pages/news/` if needed
-6. Commit changes
+2. Create directory `events/slug/`
+3. Create `events/slug/index.md`
+4. Write Front Matter (venue info, schedule, etc.) and content
+5. Place images in `events/slug/`
+6. Create related news article in `news/` if needed
+7. Commit changes
 
 ## Validation Checklist
 
@@ -322,8 +324,8 @@ When adding or updating content:
 - [ ] Following file naming conventions
 - [ ] All required Front Matter fields are filled in
 - [ ] Written in both Japanese and English
-- [ ] Internal links written with correct paths (starting with `/pages/`)
-- [ ] Image paths are correct (starting with `/assets/`)
+- [ ] Internal links written with correct paths (absolute paths like `/works/slug/`)
+- [ ] Image paths are correct (absolute paths like `/works/slug/image.jpg`)
 - [ ] Index file (`index.md`) is updated (if applicable)
 - [ ] Date format is correct
 - [ ] Tags are appropriate
