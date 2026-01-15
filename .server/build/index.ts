@@ -1,6 +1,6 @@
-import { join, dirname } from "path"
-import { fileURLToPath } from "url"
-import fs from "fs-extra"
+import { join, dirname } from "node:path"
+import { fileURLToPath } from "node:url"
+import { mkdir } from "node:fs/promises"
 import { parseWorks } from "./models/works/parser"
 import { parseEvents } from "./models/events/parser"
 import { parseNews } from "./models/news/parser"
@@ -24,9 +24,7 @@ async function build() {
   console.log("Dist dir:", distDir)
 
   // 1. Clean dist
-  console.log("\n1. Cleaning dist directory...")
-  await fs.remove(distDir)
-  await fs.ensureDir(distDir)
+  await mkdir(distDir, { recursive: true })
 
   // 2. Parse content
   console.log("\n2. Parsing markdown files...")

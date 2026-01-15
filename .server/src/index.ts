@@ -57,10 +57,6 @@ app.onError((err, c) => {
 const port = process.env.PORT ? parseInt(process.env.PORT) : 3000
 console.log(`Server starting on http://localhost:${port}`)
 
-showRoutes(app, {
-  verbose: true,
-})
-
 serve({
   fetch: app.fetch,
   port,
