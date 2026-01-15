@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "build": "npm run clean && tsx build/index.ts && ncc build src/index.ts -o dist",
+    "prebuild": "npm run clean && tsx build/index.ts",
+    "build": "ncc build src/index.ts -o dist",
     "build:watch": "npm run build -- --watch",
     "dev": "run-p build:watch start:watch",
     "start:watch": "nodemon dist/index.js",

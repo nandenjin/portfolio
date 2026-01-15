@@ -1,6 +1,11 @@
 {
   "name": "Node.js & TypeScript",
   "image": "mcr.microsoft.com/devcontainers/typescript-node:24-bookworm",
+  "features": {
+    "docker-from-docker": {
+      "version": "latest"
+    }
+  },
   "customizations": {
     "vscode": {
       "extensions": ["esbenp.prettier-vscode", "github.vscode-github-actions"]
