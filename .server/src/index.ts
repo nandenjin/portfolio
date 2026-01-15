@@ -7,7 +7,6 @@ import { router as eventsRouter } from "./models/events/index.js"
 import { router as newsRouter } from "./models/news/index.js"
 import { internalError } from "./shared/error.js"
 import type { ProblemDetails } from "./types/api.js"
-import { showRoutes } from "hono/dev"
 import { prettyJSON } from "hono/pretty-json"
 
 const app = new Hono()
