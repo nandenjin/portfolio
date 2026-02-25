@@ -1,3 +1,4 @@
+- [筑波大学「情報デザインI」のオンデマンド動画を公開しました / University of Tsukuba's "Information Design I" on-demand videos are now available](/news/260218_fd)
 - [筑波大学「情報デザインI」でTFを担当しました / Teaching Fellow for "Information Design I" at University of Tsukuba](/news/251203_information-design)
 - [つくばメディアアートフェスティバル2025に参加します / Tsukuba Media Art Festival 2025](/news/250704_tmaf25)
 - [上根拓馬 個展シリーズ「宇宙と大地と… Project」に参加します / Takuma Kamine Solo Exhibition Series "Universe and Earth... Project"](/news/250426_kamine)
