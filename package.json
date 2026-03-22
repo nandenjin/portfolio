@@ -7,7 +7,7 @@
   ],
   "main": "/works/index.md",
   "scripts": {
-    "postinstall": "simple-git-hooks"
+    "postinstall": "npx simple-git-hooks"
   },
   "repository": {
     "type": "git",
