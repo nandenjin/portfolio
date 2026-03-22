@@ -1,14 +1,3 @@
----
-title_en: Puppet Theater MUSUBI-ZA "The Wonderful Adventure of Nils"
-title_ja: 人形劇団むすび座『ニルスのふしぎな旅』
-creator: 人形劇団むすび座
-materials: Video, Photo
-year: 2025
-tags: stage video photo musubiza at-nantka
-thumbnail: /works/nils/thumbnail2.jpg
-release: 2025-07-19
----
-
 人形劇団むすび座の大型人形劇作品[『ニルスのふしぎな旅』](https://www.musubiza.co.jp/works_school_nils.html)で、舞台写真・映像を担当しました。
 
 [![ニルスのふしぎな旅](/works/nils/thumbnail2.jpg)](https://www.youtube.com/watch?v=qSGLv2z2bSE)
@@ -69,3 +58,144 @@ release: 2025-07-19
 - 衣装: 幅上ちさと
 - 舞台監督: 高光浩一
 - 制作: 吉田明子・渡辺智美
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Photograph",
+  "name": [
+    {
+      "@value": "人形劇団むすび座『ニルスのふしぎな旅』",
+      "@language": "ja"
+    },
+    {
+      "@value": "Puppet Theater MUSUBI-ZA \"The Wonderful Adventure of Nils\"",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "人形劇団むすび座の大型人形劇作品『ニルスのふしぎな旅』で、舞台写真・映像を担当しました。",
+      "@language": "ja"
+    },
+    {
+      "@value": "初演PR（2025年7月）",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "人形劇団むすび座"
+  },
+  "material": "Video, Photo",
+  "dateCreated": "2025",
+  "datePublished": "2025-07-19",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "stage",
+    "video",
+    "photo",
+    "musubiza",
+    "at-nantka"
+  ],
+  "image": [
+    "/works/nils/thumbnail2.jpg",
+    "/works/nils/thumbnail.jpg",
+    "/works/nils/00.jpg",
+    "/works/nils/01.jpg",
+    "/works/nils/02.jpg",
+    "/works/nils/03.jpg",
+    "/works/nils/04.jpg",
+    "/works/nils/05.jpg",
+    "/works/nils/06.jpg",
+    "/works/nils/07.jpg",
+    "/works/nils/08.jpg",
+    "/works/nils/09.jpg",
+    "/works/nils/10.jpg",
+    "/works/nils/11.jpg",
+    "/works/nils/12.jpg",
+    "/works/nils/13.jpg",
+    "/works/nils/14.jpg",
+    "/works/nils/15.jpg"
+  ],
+  "url": "/works/nils",
+  "mainEntityOfPage": "/works/nils",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/nils/thumbnail2.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/thumbnail.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/00.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/01.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/02.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/03.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/04.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/05.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/06.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/07.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/08.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/09.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/10.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/11.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/12.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/13.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/14.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/nils/15.jpg"
+    }
+  ]
+}
+</script>

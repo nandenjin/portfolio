@@ -4,12 +4,11 @@ import { mkdir } from "node:fs/promises"
 import { parseWorks } from "./models/works/parser"
 import { parseEvents } from "./models/events/parser"
 import { parseNews } from "./models/news/parser"
+import { parseProfile } from "./models/profile/parser"
 import { populateDatabase } from "./db-populate"
 import { copyAssets } from "./copy-assets"
-import {
-  normalizeThumbnailPath,
-  normalizeImagePathsInHtml,
-} from "./normalize-paths"
+import { normalizeImagePathsInHtml } from "./normalize-paths"
+import { withBodyHtmlAdditionalProperty } from "./jsonld"
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
@@ -31,34 +30,62 @@ async function build() {
   let works = await parseWorks(projectRoot)
   let events = await parseEvents(projectRoot)
   let news = await parseNews(projectRoot)
+  let profile = await parseProfile(projectRoot)
 
   console.log(
-    `Parsed ${works.length} works, ${events.length} events, ${news.length} news`,
+    `Parsed ${works.length} works, ${events.length} events, ${news.length} news, profile`,
   )
 
   // 3. Normalize paths
   console.log("\n3. Normalizing paths...")
-  works = works.map((work) => ({
-    ...work,
-    thumbnail: normalizeThumbnailPath(work.thumbnail, "works", work.id),
-    body_html: normalizeImagePathsInHtml(work.body_html, "works", work.id),
-  }))
+  works = works.map((work) => {
+    const bodyHtml = normalizeImagePathsInHtml(work.body_html, "works", work.id)
+    return {
+      ...work,
+      body_html: bodyHtml,
+      jsonld: withBodyHtmlAdditionalProperty(work.jsonld, bodyHtml),
+    }
+  })
 
-  events = events.map((event) => ({
-    ...event,
-    thumbnail: normalizeThumbnailPath(event.thumbnail, "events", event.id),
-    body_html: normalizeImagePathsInHtml(event.body_html, "events", event.id),
-  }))
+  events = events.map((event) => {
+    const bodyHtml = normalizeImagePathsInHtml(
+      event.body_html,
+      "events",
+      event.id,
+    )
+    return {
+      ...event,
+      body_html: bodyHtml,
+      jsonld: withBodyHtmlAdditionalProperty(event.jsonld, bodyHtml),
+    }
+  })
 
-  news = news.map((item) => ({
-    ...item,
-    body_html: normalizeImagePathsInHtml(item.body_html, "news", item.id),
-  }))
+  news = news.map((item) => {
+    const bodyHtml = normalizeImagePathsInHtml(item.body_html, "news", item.id)
+    return {
+      ...item,
+      body_html: bodyHtml,
+      jsonld: withBodyHtmlAdditionalProperty(item.jsonld, bodyHtml),
+    }
+  })
+
+  {
+    const bodyHtml = normalizeImagePathsInHtml(
+      profile.body_html,
+      "profile",
+      profile.id,
+    )
+    profile = {
+      ...profile,
+      body_html: bodyHtml,
+      jsonld: withBodyHtmlAdditionalProperty(profile.jsonld, bodyHtml),
+    }
+  }
 
   // 4. Populate database
   console.log("\n4. Creating database...")
   const dbPath = join(distDir, "portfolio.db")
-  populateDatabase(dbPath, works, events, news)
+  populateDatabase(dbPath, works, events, news, profile)
 
   // 5. Copy assets
   console.log("\n5. Copying assets...")

@@ -1,15 +1,3 @@
----
-title_en: Layers
-title_ja: Layers
-creator: Kazumi Inada
-materials: Video (5m25s)
-year: 2021
-tags: art video
-info:
-thumbnail: /works/layers/pre_00.png
-release: 2021-07-30
----
-
 池に沈む塵や落ち葉に、場に横たわる文化・時間・営みの存在を重ね合わせるようにして描くプロジェクションマッピング作品。現実の動きを量り取るためのさまざまなデータをCG映像に変換し、様々な形で重畳しながら見せる。人形を用いたパフォーマンスは文楽の技法を元にして制作した。
 
 ![](/works/layers/pre_00.png)
@@ -50,3 +38,71 @@ These files comes from **Wellcome Images**, a website operated by Wellcome Trust
   - 村上史明
 - 協力
   - 株式会社光雅
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": [
+    {
+      "@value": "Layers",
+      "@language": "ja"
+    },
+    {
+      "@value": "Layers",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "池に沈む塵や落ち葉に、場に横たわる文化・時間・営みの存在を重ね合わせるようにして描くプロジェクションマッピング作品。現実の動きを量り取るためのさまざまなデータをCG映像に変換し、様々な形で重畳しながら見せる。人形を用いたパフォーマンスは文楽の技法を元にして制作した。",
+      "@language": "ja"
+    },
+    {
+      "@value": "These files comes from Wellcome Images, a website operated by Wellcome Trust, a global charitable foundation based in the United Kingdom.",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Kazumi Inada"
+  },
+  "material": "Video (5m25s)",
+  "dateCreated": "2021",
+  "datePublished": "2021-07-30",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "video"
+  ],
+  "image": [
+    "/works/layers/pre_00.png",
+    "https://img.youtube.com/vi/9wbpUWU3pyM/maxresdefault.jpg",
+    "/works/layers/pre_01.png",
+    "/works/layers/pre_02.png"
+  ],
+  "url": "/works/layers",
+  "mainEntityOfPage": "/works/layers",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/layers/pre_00.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/layers/pre_01.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/layers/pre_02.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/sympathy"
+    }
+  ]
+}
+</script>

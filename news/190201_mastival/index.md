@@ -1,10 +1,3 @@
----
-title_en: College Exhibition mAstival
-title_ja: 創成学類作品展「mAstival」に出展します
-tags: art installation exhibition-mastival
-release: 2019-02-01
----
-
 筑波大学情報メディア創成学類生による作品展「mAstival」において、作品を製作し展示します。
 
 ## 展示作品 / Works
@@ -26,3 +19,54 @@ release: 2019-02-01
 筑波大学 総合交流会会館 / 30th Anniversary Hall, University of Tsukuba
 
 入場無料 / Entrance free
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "創成学類作品展「mAstival」に出展します",
+      "@language": "ja"
+    },
+    {
+      "@value": "College Exhibition mAstival",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "筑波大学情報メディア創成学類生による作品展「mAstival」において、作品を製作し展示します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "2019/02/14(Thu.) ~ 2019/02/15(Fri.)",
+      "@language": "en"
+    }
+  ],
+  "datePublished": "2019-02-01",
+  "dateModified": "2019-02-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "installation",
+    "exhibition-mastival"
+  ],
+  "image": [],
+  "url": "/news/190201_mastival",
+  "mainEntityOfPage": "/news/190201_mastival",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/ri"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/sympathy"
+    }
+  ]
+}
+</script>

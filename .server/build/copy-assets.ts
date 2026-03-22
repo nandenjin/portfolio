@@ -5,7 +5,7 @@ export async function copyAssets(
   srcDir: string,
   destDir: string,
 ): Promise<void> {
-  const contentTypes = ["works", "events", "news"]
+  const contentTypes = ["works", "events", "news", "profile"]
 
   for (const type of contentTypes) {
     const srcPath = join(srcDir, type)

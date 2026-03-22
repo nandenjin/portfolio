@@ -1,22 +1,3 @@
----
-is_exhibition: true
-title_ja: つくばメディアアートフェスティバル2025
-title_en: Tsukuba Media Art Festival 2025
-session_start: 2025-08-01
-session_end: 2025-08-11
-locations:
-  - title_ja: 茨城県つくば美術館
-    title_en: Ibaraki Tsukuba Museum of Art
-    lat: 36.0853455
-    lng: 140.1103426
-    address: 茨城県つくば市吾妻2-8
-related_works: [room-of-observation]
-thumbnail: /events/tmaf25/thumbnail.jpg
-external_infos:
-  - title_ja: つくばメディアアートフェスティバル2025 | つくば・アートチャンネル
-    url: https://www.tsukuba-artchannel.jp/page/page000181.html
----
-
 つくばメディアアートフェスティバル2025に出展いたします。近年取り組んできた社会に横たわる不可視な要素・構造を観察するシリーズの作品からなる、新作のインスタレーションを展示します。
 
 I will be exhibiting at the Tsukuba Media Art Festival 2025. The exhibition will feature a new installation comprising works from the series that observes invisible elements and structures in society that I have been working on in recent years.
@@ -96,3 +77,73 @@ TEL: 029-883-1111（代表）
 
 Tsukuba City Arts and Culture Promotion Division  
 TEL: 029-883-1111 (Main)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "つくばメディアアートフェスティバル2025",
+      "@language": "ja"
+    },
+    {
+      "@value": "Tsukuba Media Art Festival 2025",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "つくばメディアアートフェスティバル2025に出展いたします。近年取り組んできた社会に横たわる不可視な要素・構造を観察するシリーズの作品からなる、新作のインスタレーションを展示します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "I will be exhibiting at the Tsukuba Media Art Festival 2025. The exhibition will feature a new installation comprising works from the series that observes invisible elements and structures in society that I have been working on in recent years.",
+      "@language": "en"
+    }
+  ],
+  "startDate": "2025-08-01",
+  "endDate": "2025-08-11",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "茨城県つくば美術館",
+          "@language": "ja"
+        },
+        {
+          "@value": "Ibaraki Tsukuba Museum of Art",
+          "@language": "en"
+        }
+      ],
+      "address": "茨城県つくば市吾妻2-8",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.0853455,
+        "longitude": 140.1103426
+      }
+    }
+  ],
+  "workFeatured": [
+    {
+      "@type": "CreativeWork",
+      "url": "/works/room-of-observation"
+    }
+  ],
+  "sameAs": [
+    "https://www.tsukuba-artchannel.jp/page/page000181.html"
+  ],
+  "image": [
+    "/events/tmaf25/flyer_a.jpg",
+    "/events/tmaf25/flyer_b.jpg",
+    "/works/room-of-observation/overview.jpg"
+  ],
+  "url": "/events/tmaf25",
+  "mainEntityOfPage": "/events/tmaf25"
+}
+</script>

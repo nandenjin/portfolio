@@ -10,6 +10,7 @@ CREATE TABLE IF NOT EXISTS works (
   thumbnail TEXT,
   release TEXT,
   info TEXT,
+  jsonld TEXT,
   body_html TEXT,
   created_at TEXT DEFAULT CURRENT_TIMESTAMP
 );

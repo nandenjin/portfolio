@@ -1,29 +1,26 @@
+export interface JsonLdPropertyValue {
+  "@type": "PropertyValue"
+  name: string
+  value: string
+}
+
+export interface JsonLdBase {
+  "@context": "https://schema.org"
+  "@type": string
+  additionalProperty?: JsonLdPropertyValue[]
+  [key: string]: unknown
+}
+
 export interface Work {
   id: string
-  title_en: string
-  title_ja: string
-  creator: string
-  materials: string
-  year: number
-  tags: string[]
-  thumbnail: string | null
-  release: string
-  info?: string | null
+  jsonld: JsonLdBase
   body_html: string
   created_at?: string
 }
 
 export interface Event {
   id: string
-  is_exhibition: boolean
-  title_ja: string
-  title_en: string
-  session_start: string
-  session_end: string
-  locations: EventLocation[]
-  related_works: string[]
-  thumbnail: string | null
-  external_infos?: EventExternalInfo[] | null
+  jsonld: JsonLdBase
   body_html: string
   created_at?: string
 }
@@ -44,10 +41,14 @@ export interface EventExternalInfo {
 
 export interface News {
   id: string
-  title_en: string
-  title_ja: string
-  tags: string[]
-  release: string
+  jsonld: JsonLdBase
+  body_html: string
+  created_at?: string
+}
+
+export interface Profile {
+  id: "profile"
+  jsonld: JsonLdBase
   body_html: string
   created_at?: string
 }

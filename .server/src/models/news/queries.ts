@@ -1,15 +1,17 @@
 import { getDb } from "../../shared/db-client"
-import type { News } from "../../types/content"
+import type { JsonLdBase, News } from "../../types/content"
 import type { QueryResult, PaginationParams } from "../../types/api"
 
 interface ListParams extends PaginationParams {}
 
-function parseJsonField<T>(value: string | null): T {
-  if (!value) return [] as T
+function parseJsonLd(value: string | null): JsonLdBase {
+  if (!value) {
+    throw new Error("News JSON-LD is missing")
+  }
   try {
-    return JSON.parse(value) as T
+    return JSON.parse(value) as JsonLdBase
   } catch {
-    return [] as T
+    throw new Error("News JSON-LD is invalid")
   }
 }
 
@@ -25,8 +27,10 @@ export function getNews(params: ListParams): QueryResult<News> {
   const { total } = db.prepare(countQuery).get() as { total: number }
 
   const data = rows.map((row) => ({
-    ...row,
-    tags: parseJsonField<string[]>(row.tags),
+    id: row.id,
+    jsonld: parseJsonLd(row.jsonld),
+    body_html: row.body_html,
+    created_at: row.created_at,
   })) as News[]
 
   return { data, total }
@@ -39,7 +43,9 @@ export function getNewsById(id: string): News | null {
   if (!row) return null
 
   return {
-    ...row,
-    tags: parseJsonField<string[]>(row.tags),
+    id: row.id,
+    jsonld: parseJsonLd(row.jsonld),
+    body_html: row.body_html,
+    created_at: row.created_at,
   } as News
 }

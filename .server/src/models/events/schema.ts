@@ -10,6 +10,7 @@ CREATE TABLE IF NOT EXISTS events (
   related_works TEXT,
   thumbnail TEXT,
   external_infos TEXT,
+  jsonld TEXT,
   body_html TEXT,
   created_at TEXT DEFAULT CURRENT_TIMESTAMP
 );

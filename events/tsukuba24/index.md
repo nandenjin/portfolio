@@ -1,17 +1,3 @@
----
-is_exhibition: true
-title_ja: 稲田和巳 潮 重なり隣り合う世界
-title_en: "Kazumi Inada Tide: Overlapping and Adjacent Worlds"
-session_start: 2024-03-20
-session_end: 2024-03-24
-locations:
-  - title_ja: つくば市民ギャラリー
-    lat: 36.0853373
-    lng: 140.1102046
-related_works: []
-thumbnail: /events/tsukuba24/visual_16-9.jpg
----
-
 ![](/events/tsukuba24/visual_16-9.jpg)
 
 まもなく在住8年目になる茨城県つくば市で、自主企画による個展を開催します。
@@ -80,3 +66,77 @@ Parking is available at the Tsukuba Urban Transport Centre car park attached to 
 
 - Sound: [頃安祐輔 - Yusuke Koroyasu](https://www.koroyu.com/)
 - Aerial photography: [国土地理院 - Geospatial Information Authority in Japan](https://maps.gsi.go.jp/development/ichiran.html)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "稲田和巳 潮 重なり隣り合う世界",
+      "@language": "ja"
+    },
+    {
+      "@value": "Kazumi Inada Tide: Overlapping and Adjacent Worlds",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "まもなく在住8年目になる茨城県つくば市で、自主企画による個展を開催します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "《潮》は、地理空間に紐づくデータを仮想の地形に読み替え、場に横たわる不可視な流れを示すことで、そこに広がる社会の特性を調査する作品シリーズです。本展では、研究学園都市以前の農村や近年開発されるベッドタウンなどさまざまな相を見せるつくばの街を、大規模言語モデルを用いたAIに「歩いて」もらう試みについて、公園のレストハウスを会場にした映像インスタレーションで展示します。",
+      "@language": "en"
+    }
+  ],
+  "startDate": "2024-03-20",
+  "endDate": "2024-03-24",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "つくば市民ギャラリー",
+          "@language": "ja"
+        }
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.0853373,
+        "longitude": 140.1102046
+      }
+    }
+  ],
+  "workFeatured": [],
+  "sameAs": [],
+  "image": [
+    "/events/tsukuba24/visual_16-9.jpg",
+    "/events/tsukuba24/overview_wide_0.jpg",
+    "/events/tsukuba24/screen_front.jpg",
+    "/events/tsukuba24/screen_zoom_0.jpg",
+    "/events/tsukuba24/screen_zoom_1.jpg",
+    "/events/tsukuba24/overview_wide_1.jpg",
+    "/events/tsukuba24/terrain_1.jpg",
+    "/events/tsukuba24/terrain_0.jpg",
+    "/events/tsukuba24/overview_1.jpg",
+    "/events/tsukuba24/topo_0.jpg",
+    "/events/tsukuba24/switch_0.jpg",
+    "/events/tsukuba24/topo_1.jpg",
+    "/events/tsukuba24/screen_zoom_2.jpg",
+    "/events/tsukuba24/screen_overview_1.jpg",
+    "/events/tsukuba24/overview_0.jpg",
+    "/events/tsukuba24/entrance_0.jpg",
+    "/events/tsukuba24/title_0.jpg",
+    "/events/tsukuba24/window_0.jpg",
+    "/events/tsukuba24/entrance_1.jpg"
+  ],
+  "url": "/events/tsukuba24",
+  "mainEntityOfPage": "/events/tsukuba24"
+}
+</script>

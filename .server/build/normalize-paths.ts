@@ -1,6 +1,6 @@
 export function normalizeThumbnailPath(
   thumbnail: string | null | undefined,
-  contentType: "works" | "events" | "news",
+  contentType: "works" | "events" | "news" | "profile",
   id: string,
 ): string | null {
   if (!thumbnail) return null
@@ -18,7 +18,7 @@ export function normalizeThumbnailPath(
 
 export function normalizeImagePathsInHtml(
   html: string,
-  contentType: "works" | "events" | "news",
+  contentType: "works" | "events" | "news" | "profile",
   id: string,
 ): string {
   // Replace relative image paths in <img> tags
@@ -36,4 +36,7 @@ export function normalizeImagePathsInHtml(
         return `<img${attrs} src="/static/${type}/${path}"`
       },
     )
+    .replace(/<img([^>]*)\ssrc="\/profile\/([^"]+)"/g, (match, attrs, path) => {
+      return `<img${attrs} src="/static/profile/${path}"`
+    })
 }

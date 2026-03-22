@@ -5,6 +5,7 @@ CREATE TABLE IF NOT EXISTS news (
   title_ja TEXT,
   tags TEXT,
   release TEXT,
+  jsonld TEXT,
   body_html TEXT,
   created_at TEXT DEFAULT CURRENT_TIMESTAMP
 );

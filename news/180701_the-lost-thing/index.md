@@ -1,10 +1,3 @@
----
-title_en: 'Puppetry "The Lost Thing"'
-title_ja: 現代人形劇「おとしもの」を上演いたします
-tags: art stage tsukuba-neu
-release: 2018-07-01
----
-
 筑波大学人形劇団 NEU で演出を担当する作品「おとしもの」が上演されます。
 
 オーストラリアの大人向け絵本作家の作品を元に、これまでにない形態の舞台となりました。どなたさまもぜひご来場くださいませ。
@@ -35,3 +28,52 @@ release: 2018-07-01
 - 制作：太田帆南・井上睦美
 
 [作品ページ](/works/the-lost-thing)もご覧ください。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "現代人形劇「おとしもの」を上演いたします",
+      "@language": "ja"
+    },
+    {
+      "@value": "Puppetry \"The Lost Thing\"",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "筑波大学人形劇団 NEU で演出を担当する作品「おとしもの」が上演されます。",
+      "@language": "ja"
+    }
+  ],
+  "datePublished": "2018-07-01",
+  "dateModified": "2018-07-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "stage",
+    "tsukuba-neu"
+  ],
+  "image": [
+    "/works/the-lost-thing/the-lost-thing_cover.jpg"
+  ],
+  "url": "/news/180701_the-lost-thing",
+  "mainEntityOfPage": "/news/180701_the-lost-thing",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing/the-lost-thing_cover.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing"
+    }
+  ]
+}
+</script>

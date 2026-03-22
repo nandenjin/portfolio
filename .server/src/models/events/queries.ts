@@ -1,15 +1,17 @@
 import { getDb } from "../../shared/db-client"
-import type { Event } from "../../types/content"
+import type { Event, JsonLdBase } from "../../types/content"
 import type { QueryResult, PaginationParams } from "../../types/api"
 
 interface ListParams extends PaginationParams {}
 
-function parseJsonField<T>(value: string | null): T {
-  if (!value) return [] as T
+function parseJsonLd(value: string | null): JsonLdBase {
+  if (!value) {
+    throw new Error("Event JSON-LD is missing")
+  }
   try {
-    return JSON.parse(value) as T
+    return JSON.parse(value) as JsonLdBase
   } catch {
-    return [] as T
+    throw new Error("Event JSON-LD is invalid")
   }
 }
 
@@ -26,13 +28,10 @@ export function getEvents(params: ListParams): QueryResult<Event> {
   const { total } = db.prepare(countQuery).get() as { total: number }
 
   const data = rows.map((row) => ({
-    ...row,
-    is_exhibition: row.is_exhibition === 1,
-    locations: parseJsonField(row.locations),
-    related_works: parseJsonField<string[]>(row.related_works),
-    external_infos: row.external_infos
-      ? parseJsonField(row.external_infos)
-      : null,
+    id: row.id,
+    jsonld: parseJsonLd(row.jsonld),
+    body_html: row.body_html,
+    created_at: row.created_at,
   })) as Event[]
 
   return { data, total }
@@ -45,12 +44,9 @@ export function getEventById(id: string): Event | null {
   if (!row) return null
 
   return {
-    ...row,
-    is_exhibition: row.is_exhibition === 1,
-    locations: parseJsonField(row.locations),
-    related_works: parseJsonField<string[]>(row.related_works),
-    external_infos: row.external_infos
-      ? parseJsonField(row.external_infos)
-      : null,
+    id: row.id,
+    jsonld: parseJsonLd(row.jsonld),
+    body_html: row.body_html,
+    created_at: row.created_at,
   } as Event
 }
