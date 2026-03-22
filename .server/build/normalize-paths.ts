@@ -1,21 +1,3 @@
-export function normalizeThumbnailPath(
-  thumbnail: string | null | undefined,
-  contentType: "works" | "events" | "news" | "profile",
-  id: string,
-): string | null {
-  if (!thumbnail) return null
-
-  // Already absolute path starting with /
-  if (thumbnail.startsWith("/")) {
-    // Replace content type prefix with /static/ prefix
-    // e.g., /works/foo/bar.jpg -> /static/works/foo/bar.jpg
-    return thumbnail.replace(/^\/(works|events|news)/, "/static/$1")
-  }
-
-  // Relative path - make it absolute based on content type
-  return `/static/${contentType}/${id}/${thumbnail}`
-}
-
 export function normalizeImagePathsInHtml(
   html: string,
   contentType: "works" | "events" | "news" | "profile",
