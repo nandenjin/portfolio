@@ -24,7 +24,13 @@ export async function copyAssets(
       })
       console.log(`Copied ${type} assets to ${destPath}`)
     } catch (error) {
-      console.error(`Error copying ${type} assets:`, error)
+      console.error(
+        `Error copying ${type} assets from ${srcPath} to ${destPath}:`,
+        error,
+      )
+      throw new Error(
+        `Failed to copy assets for content type "${type}". See previous log for details.`,
+      )
     }
   }
 }
