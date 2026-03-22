@@ -6,7 +6,11 @@ function parseJsonLd(value: string | null): JsonLdBase {
     throw new Error("Profile JSON-LD is missing")
   }
 
-  return JSON.parse(value) as JsonLdBase
+  try {
+    return JSON.parse(value) as JsonLdBase
+  } catch (_error) {
+    throw new Error("Profile JSON-LD is invalid")
+  }
 }
 
 export function getProfile(): Profile | null {
