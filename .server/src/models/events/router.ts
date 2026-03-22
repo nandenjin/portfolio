@@ -3,13 +3,13 @@ import { getEvents, getEventById } from "./queries"
 import { setListHeaders } from "../../shared/response"
 import { notFound } from "../../shared/error"
 import { toApiJsonLd } from "../../shared/jsonld"
+import { parsePagination } from "../../shared/pagination"
 
 const router = new Hono()
 
 // GET /events
 router.get("events", (c) => {
-  const limit = Math.min(parseInt(c.req.query("limit") || "50"), 100)
-  const offset = parseInt(c.req.query("offset") || "0")
+  const { limit, offset } = parsePagination((name) => c.req.query(name))
 
   const result = getEvents({ limit, offset })
   const lang = c.req.query("lang")
