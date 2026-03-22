@@ -20,5 +20,6 @@ jobs:
         with:
           node-version-file: .nvmrc
       - run: npm ci
+        working-directory: .
       - run: npm run typecheck
       - run: npm run build
