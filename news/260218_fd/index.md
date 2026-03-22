@@ -34,3 +34,67 @@ In the lesson, he explores observation methods for conveying the appeal of objec
 ![](./screenshot_02.jpg)
 
 ![](./screenshot_03.jpg)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "筑波大学「情報デザインI」のオンデマンド動画を公開しました",
+      "@language": "ja"
+    },
+    {
+      "@value": "University of Tsukuba's \"Information Design I\" on-demand videos are now available",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "筑波大学 情報メディア創成学類の授業「情報デザインI」（2025）でのティーチング・フェロー活動について、筑波大学 人間総合科学学術院 TF優秀賞を受賞しました。これに伴い、学内FDプログラム（教職研修）での模擬授業を実施しましたので、その映像（オンデマンド配信）を公開いたします。",
+      "@language": "ja"
+    },
+    {
+      "@value": "Inada received the TF Excellence Award from the University of Tsukuba's Faculty of Human and Environmental Studies for his activities as a Teaching Fellow in the course \"Information Design I\" (2025) within the Department of Information Media Creation. In connection with this, he conducted a mock class as part of the university's FD program (faculty development training). The video recording of this session (on-demand streaming) is now available.",
+      "@language": "en"
+    }
+  ],
+  "datePublished": "2026-02-18",
+  "dateModified": "2026-02-18",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "talk",
+    "education"
+  ],
+  "image": [
+    "/news/260218_fd/cover.jpg",
+    "/news/260218_fd/screenshot_00.jpg",
+    "/news/260218_fd/screenshot_01.jpg",
+    "/news/260218_fd/screenshot_02.jpg",
+    "/news/260218_fd/screenshot_03.jpg"
+  ],
+  "url": "/news/260218_fd",
+  "mainEntityOfPage": "/news/260218_fd",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "https://www.chs.tsukuba.ac.jp/fd/4347"
+    },
+    {
+      "@type": "Thing",
+      "url": "https://www.youtube.com/watch?v=M3mkpMWoiZU"
+    },
+    {
+      "@type": "Thing",
+      "url": "https://docs.google.com/presentation/d/1GFvCB3FIt3LSgiZ5_7fKxCuurWGR1UqttInmqZfhQ8c/edit"
+    },
+    {
+      "@type": "Thing",
+      "url": "https://posts.nandenjin.com/2026/observation-for-attractive-design"
+    }
+  ]
+}
+</script>
