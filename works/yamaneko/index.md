@@ -6,7 +6,7 @@ materials: Stage Performance
 year: 2025
 tags: art stage tsukuba-neu
 info:
-thumbnail: /works/yamanekoken/sohosai_gs_opening.jpg
+thumbnail: /works/yamaneko/sohosai_gs_opening.jpg
 release: 2026-05-12
 ---
 
