@@ -4,7 +4,7 @@ title_ja: "人形劇を広く知る会: 筑波大学から見る、人形劇の�
 title_en: "The Association for the Promotion of Puppet Theater: Making, Watching, and Preserving Puppetry — Perspectives from the University of Tsukuba"
 session_start: 2026-05-21
 session_end: 2026-05-21
-thumbnail:
+thumbnail: /works/yamaneko/sohosai_hk_brush.jpg
 ---
 
 人形劇研究者による研究会で、人形劇に関する稲田の活動について話題提供として口頭発表をします。ご興味のある方に広くご参加いただけます。
@@ -19,11 +19,18 @@ thumbnail:
 
 稲田は2017年から現在まで所属しており、学生ならではの課題であるところの、ノウハウの継承が大変であること・指導者がおらず試行錯誤が多いこと・コストや作業時間の捻出に苦労すること、などの解決に取り組もうとしています。
 
+<figure>
+  <img src="/works/yamaneko/sohosai_hk_brush.jpg" alt="">
+  <figcaption><a href="/works/yamaneko/">『注文の多い料理店』（2025）</a>より</figcaption>
+</figure>
+
 ### 研究活動について
 
 稲田は情報学（情報デザイン・メディアアートなど）を専門分野としていますが、ノイでの活動の影響もあって修士課程（2021〜）より人形劇をテーマに取り入れて研究活動を行っています。
 
 近年掲げている課題は、「情報科学的な手法を使って、人形劇を観る人・取り組む人の幅を増やすことはできないか」というものです。このテーマのもと、デジタルファブリケーション（3Dプリント）を用いた人形劇の教育教材の開発や、人形劇活動のメタデータ整備を通じたアーカイブに取り組んでいます。また、これらの課題意識から派生する学外活動にも取り組んでいます。
+
+![](./puppet_kit_cover.jpg)
 
 ## 参加のご案内
 
