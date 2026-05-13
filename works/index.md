@@ -4,6 +4,7 @@
 - [人形劇団むすび座『ニルスのふしぎな旅』 / Puppet Theater MUSUBI-ZA "The Wonderful Adventure of Nils"](/works/nils)
 - [人形劇団むすび座『小さな山神スズナ姫』 / Puppet Theater MUSUBI-ZA "Princess Suzuna, The Little God of Mountain"](/works/suzuna)
 - [潮（六本木）- 右か左かみんなで決める / Tide (Roppongi) - Decide right or left with everyone](/works/ushio-rpng-walk)
+- [注文の多い料理店 / The Restaurant of Many Orders](/works/yamanekoken)
 - [Instant Sympathy](/works/sympathy)
 - [菅野歩美個展『Boaring Process たいくつな掘削かてい』 / Ayumi Kanno Solo Exhibition "Boarding Process"](/works/caf-kanno)
 - [Another Skin 川島史也の彫刻 / Another Skin: Sculptures by KAWASHIMA Fumiya](/works/kwsm)
