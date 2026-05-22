@@ -7,9 +7,11 @@ session_end: 2026-05-21
 thumbnail: /works/yamaneko/sohosai_hk_brush.jpg
 ---
 
-人形劇研究者による研究会で、人形劇に関する稲田の活動について話題提供として口頭発表をします。ご興味のある方に広くご参加いただけます。
+人形劇研究者による研究会で、人形劇に関する稲田の活動について話題提供として口頭発表をしました。
 
 稲田は2017年の筑波大学への入学を機に人形劇への関わりを始め、現在では大学での上演・制作はもとより、大学での研究や国際人形劇連盟日本センターを基軸とした普及や調査活動、業務としての専門劇団の制作にも携わりながら活動しています。情報学という専門領域を軸に、独特な切り口で取り組みを続けています。
+
+- [💻️ 発表資料（スライド）](https://docs.google.com/presentation/d/1cVgKBtkTC3r9BPphFQOfNEJxnhmuMnO6_8ndTAXJaUk/edit)
 
 ## トピック
 
@@ -34,6 +36,4 @@ thumbnail: /works/yamaneko/sohosai_hk_brush.jpg
 
 ## 参加のご案内
 
-2026年5月21日（木）19:00-21:00 オンライン（Zoom Meetingsを利用）
-
-参加をご希望の方は、[hello@nandenjin.comへお問い合わせください。](mailto:hello@nandenjin.com?subject=260521%20人形劇を広く知る会%20参加希望)
+2026年5月21日（木）19:00-21:00 オンライン（Zoom Meetingsを利用）に開催し、無事終了しました。
