@@ -1,14 +1,3 @@
----
-title_en: Tide (Roppongi)
-title_ja: 潮（六本木）
-creator: Kazumi Inada
-materials: Installation
-year: 2023
-tags: art installation ushio
-thumbnail: /works/ushio-rpng/center_1.jpg
-release: 2023-02-18
----
-
 『潮』は、社会統計データから生成された仮想の地形を用いて、地理空間に横たわる不可視な流れを考察しようとする取り組みです。
 
 本シリーズの制作は、場所に紐付けることができる社会統計データをそれぞれの地点の「標高」とした、仮想の地形モデルを生成することを核とします。たとえば地価統計のデータでは、統計が取られた地点ごとに、価格の相対的な高低を地形上の高さに変換しています。得られたまばらな点の間を数理的に補完することで、地形の「地面」ができます。展示を構成する作品はすべて同じ単一のモデルの見せ方を、さまざまに変化させて作られています。
@@ -48,3 +37,101 @@ The mathematical processes involved in the production are implemented by compute
 The recording of the talk session at [exhibition "Ushio" (2023)](/events/caf-ushio) is available.
 
 [![](/events/caf-ushio/talk_0.jpg)](https://www.youtube.com/watch?v=PLxmK3oVGL0)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VisualArtwork",
+  "name": [
+    {
+      "@value": "潮（六本木）",
+      "@language": "ja"
+    },
+    {
+      "@value": "Tide (Roppongi)",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "『潮』は、社会統計データから生成された仮想の地形を用いて、地理空間に横たわる不可視な流れを考察しようとする取り組みです。",
+      "@language": "ja"
+    },
+    {
+      "@value": "\"Tide\" is an initiative that seeks to examine the invisible currents that lie in geographic space using virtual topography generated from socio-demographic data.",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Kazumi Inada"
+  },
+  "material": "Installation",
+  "dateCreated": "2023",
+  "datePublished": "2023-02-18",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "installation",
+    "ushio"
+  ],
+  "image": [
+    "/works/ushio-rpng/center_1.jpg",
+    "/events/caf-ushio/interview_0.jpg",
+    "/works/ushio-rpng/center_0.jpg",
+    "/events/caf-ushio/view_0.jpg",
+    "/works/ushio-rpng/left_0.jpg",
+    "/events/caf-ushio/view_1.jpg",
+    "/works/ushio-rpng/right_0.jpg",
+    "/events/caf-ushio/view_2.jpg",
+    "/events/caf-ushio/talk_0.jpg"
+  ],
+  "url": "/works/ushio-rpng",
+  "mainEntityOfPage": "/works/ushio-rpng",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/ushio-rpng/center_1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf-ushio/interview_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/ushio-rpng/center_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf-ushio/view_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/ushio-rpng/left_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf-ushio/view_1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/ushio-rpng/right_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf-ushio/view_2.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf-ushio"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf-ushio/talk_0.jpg"
+    }
+  ]
+}
+</script>

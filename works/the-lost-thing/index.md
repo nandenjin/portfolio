@@ -1,15 +1,3 @@
----
-title_en: The Lost Thing
-title_ja: おとしもの
-creator: Puppetry Troupe NEU, Kazumi Inada
-materials: Stage Performance (Puppetry)
-year: 2018-2019
-tags: art stage tsukuba-neu
-info:
-thumbnail: /works/the-lost-thing/the-lost-thing_cover.jpg
-release: 2018-05-19
----
-
 ![](/works/the-lost-thing/the-lost-thing_cover.jpg)
 ![](/works/the-lost-thing/the-lost-thing_puppets.jpg)
 ![](/works/the-lost-thing/the-lost-thing_pete.jpg)
@@ -47,3 +35,77 @@ release: 2018-05-19
 
 - 2018/10 児童文化交流フェスにて、演出として作品の紹介と解説を実施。
 - 2018/12 筑波大学openfab創房が発行する「創房報」に、作品の美術に関わるファブリケーション技術の紹介記事を寄稿。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": [
+    {
+      "@value": "おとしもの",
+      "@language": "ja"
+    },
+    {
+      "@value": "The Lost Thing",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "筑波大学人形劇団 NEU 公演「おとしもの」において、演出・美術を担当。",
+      "@language": "ja"
+    },
+    {
+      "@value": "2018 年は 4 人の、2019 年には 3 人の人形遣いが入れ替わりながら、ときには自分自身がキャラクターとして登場する特徴的な演出を採用。また、前例のない外観の人形をはじめとする美術の制作にはレーザー加工機や 3D プリンタが活用されるなど、伝統的な人形劇の技術を発展させた製作がおこなわれた。",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Puppetry Troupe NEU, Kazumi Inada"
+  },
+  "material": "Stage Performance (Puppetry)",
+  "dateCreated": "2018-2019",
+  "datePublished": "2018-05-19",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "stage",
+    "tsukuba-neu"
+  ],
+  "image": [
+    "/works/the-lost-thing/the-lost-thing_cover.jpg",
+    "/works/the-lost-thing/the-lost-thing_puppets.jpg",
+    "/works/the-lost-thing/the-lost-thing_pete.jpg",
+    "/works/the-lost-thing/the-lost-thing_signs.jpg",
+    "/works/the-lost-thing/the-lost-thing_creatures.jpg"
+  ],
+  "url": "/works/the-lost-thing",
+  "mainEntityOfPage": "/works/the-lost-thing",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing/the-lost-thing_cover.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing/the-lost-thing_puppets.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing/the-lost-thing_pete.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing/the-lost-thing_signs.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing/the-lost-thing_creatures.jpg"
+    }
+  ]
+}
+</script>

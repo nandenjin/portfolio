@@ -1,19 +1,3 @@
----
-is_exhibition: true
-title_ja: 現代美術演習 成果展「あるきまわる」
-title_en: Walking Around
-session_start: 2022-01-12
-session_end: 2022-01-26
-locations:
-  - title_ja: 桜川市真壁伝承館
-    title_en: Makabe Community Center, Sakuragawa City
-    lat: 36.277407
-    lng: 140.100526
-    address: 茨城県桜川市真壁町真壁198
-related_works: [ushio-makabe]
-thumbnail: /works/ushio-makabe/overview.jpg
----
-
 **本展は感染症対策のため、1月26日をもって開催を終了いたしました。**
 
 **The Exhibition was shutted down due to spread of COVID-19.**
@@ -54,3 +38,73 @@ thumbnail: /works/ushio-makabe/overview.jpg
 ![](/works/ushio-makabe/stairs.jpg)
 
 ![](/works/ushio-makabe/stairs-zoom.jpg)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "現代美術演習 成果展「あるきまわる」",
+      "@language": "ja"
+    },
+    {
+      "@value": "Walking Around",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "本展は感染症対策のため、1月26日をもって開催を終了いたしました。",
+      "@language": "ja"
+    },
+    {
+      "@value": "The Exhibition was shutted down due to spread of COVID-19.",
+      "@language": "en"
+    }
+  ],
+  "startDate": "2022-01-12",
+  "endDate": "2022-01-26",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "桜川市真壁伝承館",
+          "@language": "ja"
+        },
+        {
+          "@value": "Makabe Community Center, Sakuragawa City",
+          "@language": "en"
+        }
+      ],
+      "address": "茨城県桜川市真壁町真壁198",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.277407,
+        "longitude": 140.100526
+      }
+    }
+  ],
+  "workFeatured": [
+    {
+      "@type": "CreativeWork",
+      "url": "/works/ushio-makabe"
+    }
+  ],
+  "sameAs": [],
+  "image": [
+    "/events/makabe/flyer_front.png",
+    "/works/ushio-makabe/overview.jpg",
+    "/works/ushio-makabe/window.jpg",
+    "/works/ushio-makabe/stairs.jpg",
+    "/works/ushio-makabe/stairs-zoom.jpg"
+  ],
+  "url": "/events/makabe",
+  "mainEntityOfPage": "/events/makabe"
+}
+</script>

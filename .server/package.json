@@ -1,0 +1,32 @@
+{
+  "name": "@portfolio/server",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "prebuild": "npm run clean && tsx build/index.ts",
+    "build": "ncc build src/index.ts -o dist",
+    "build:watch": "npm run build -- --watch",
+    "dev": "run-p build:watch start:watch",
+    "start:watch": "nodemon dist/index.js",
+    "start": "NODE_ENV=production node dist/index.js",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist/"
+  },
+  "dependencies": {
+    "@hono/node-server": "1.19.8",
+    "better-sqlite3": "12.6.0",
+    "gray-matter": "4.0.3",
+    "hono": "4.11.3",
+    "markdown-it": "14.1.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "7.6.13",
+    "@types/markdown-it": "14.1.2",
+    "@types/node": "25.0.6",
+    "@vercel/ncc": "0.38.4",
+    "nodemon": "3.1.11",
+    "npm-run-all2": "8.0.4",
+    "tsx": "4.21.0",
+    "typescript": "5.9.3"
+  }
+}

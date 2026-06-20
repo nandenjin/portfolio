@@ -1,10 +1,3 @@
----
-title_en: Takuma Kamine Solo Exhibition Series "Universe and Earth... Project"
-title_ja: 上根拓馬 個展シリーズ「宇宙と大地と… Project」に参加します
-tags: art stage tsukuba-neu
-release: 2025-04-26
----
-
 現代美術家 上根拓馬の個展シリーズ「宇宙と大地と… Project」に、コラボレーション作家として参加します。
 
 > 土着の神々や仏教など、宇宙を構成する様々なものに祈りを捧げてきた太古の日本…
@@ -35,3 +28,54 @@ release: 2025-04-26
 - [EARTH+GALLERY](https://earth-plus.com/)（東京都江東区木場3丁目18−17）
 
 [展示詳細](/events/kamine-earth25)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "上根拓馬 個展シリーズ「宇宙と大地と… Project」に参加します",
+      "@language": "ja"
+    },
+    {
+      "@value": "Takuma Kamine Solo Exhibition Series \"Universe and Earth... Project\"",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "現代美術家 上根拓馬の個展シリーズ「宇宙と大地と… Project」に、コラボレーション作家として参加します。",
+      "@language": "ja"
+    }
+  ],
+  "datePublished": "2025-04-26",
+  "dateModified": "2025-04-26",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "stage",
+    "tsukuba-neu"
+  ],
+  "image": [],
+  "url": "/news/250426_kamine",
+  "mainEntityOfPage": "/news/250426_kamine",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/events/kamine-expoc25"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/kamine-neo25"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/kamine-earth25"
+    }
+  ]
+}
+</script>

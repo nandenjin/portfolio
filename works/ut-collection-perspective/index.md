@@ -1,15 +1,3 @@
----
-title_en: Collection Gallery of University Tsukuba "Perspective"
-title_ja: 筑波大学アート・コレクション展『Perspective －視点を変えて「み」る－』
-creator: University of Tsukuba
-materials: Exhibition
-year: 2022
-tags: web branding promotion video
-info:
-thumbnail: /works/ut-collection-perspective/thumbnail_making.jpg
-release: 2022-08-01
----
-
 博物館学芸員資格にかかわる授業の一環として、筑波大学の所蔵するアートコレクション展の企画を実施。広報メンバーとして公式Webサイトの運用・プロモーション映像の制作などを担当した。
 
 As part of a class related to the museum curatorial qualification, planned an exhibition of the art collection held by the University of Tsukuba. As a member of the public relations team, I was in charge of the operation of the official website and the production of promotional videos.
@@ -31,3 +19,63 @@ As part of a class related to the museum curatorial qualification, planned an ex
 ## Resources
 
 - [博物館実習履修生の企画による筑波大学アート・コレクション展『PERSPECTIVE－視点を変えて「み」る－』 - 筑波大学A.R.T](https://www.art.tsukuba.ac.jp/archives/9200)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": [
+    {
+      "@value": "筑波大学アート・コレクション展『Perspective －視点を変えて「み」る－』",
+      "@language": "ja"
+    },
+    {
+      "@value": "Collection Gallery of University Tsukuba \"Perspective\"",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "博物館学芸員資格にかかわる授業の一環として、筑波大学の所蔵するアートコレクション展の企画を実施。広報メンバーとして公式Webサイトの運用・プロモーション映像の制作などを担当した。",
+      "@language": "ja"
+    },
+    {
+      "@value": "As part of a class related to the museum curatorial qualification, planned an exhibition of the art collection held by the University of Tsukuba. As a member of the public relations team, I was in charge of the operation of the official website and the production of promotional videos.",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "University of Tsukuba"
+  },
+  "material": "Exhibition",
+  "dateCreated": "2022",
+  "datePublished": "2022-08-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "web",
+    "branding",
+    "promotion",
+    "video"
+  ],
+  "image": [
+    "/works/ut-collection-perspective/thumbnail_view.jpg",
+    "/works/ut-collection-perspective/thumbnail_making.jpg"
+  ],
+  "url": "/works/ut-collection-perspective",
+  "mainEntityOfPage": "/works/ut-collection-perspective",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/ut-collection-perspective/thumbnail_view.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/ut-collection-perspective/thumbnail_making.jpg"
+    }
+  ]
+}
+</script>

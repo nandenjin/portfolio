@@ -1,15 +1,3 @@
----
-title_en: Introduction of Academic Study for Junior Highschool and Highschool Students
-title_ja: 中高生のための研究サポート動画
-creator: "Planning & Direction: Kazumi Inada, Camera: Tomoya Onuki, Music: Takuto Okamoto, Client: GFEST by University of Tsukuba"
-materials: Video
-year: 2022
-tags: video education tomoya-onuki takuto-okamoto
-info:
-thumbnail: /works/gfest-guide-video/capture_ishida-0.jpg
-release: 2022-09-12
----
-
 はじめて研究・探究活動に取り組む中高生向けの動画教材を制作。筑波大学教員や附属学校関係者の監修を受けながら、内容の企画・ディレクションを担当した。
 
 筑波大学の高校生向け社会連携事業「筑波大学GFEST」による企画事業。
@@ -58,3 +46,98 @@ The project was planned by "GFEST by University of Tsukuba", a social collaborat
 - Camera: [小貫智弥 | Tomoya Onuki](https://tomoya-onuki.github.io/)
 - Music: [岡本太玖斗 | Takuto Okamoto](https://takuto-okamoto.com/)
 - Client: 筑波大学GFEST | GFEST by University of Tsukuba
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": [
+    {
+      "@value": "中高生のための研究サポート動画",
+      "@language": "ja"
+    },
+    {
+      "@value": "Introduction of Academic Study for Junior Highschool and Highschool Students",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "はじめて研究・探究活動に取り組む中高生向けの動画教材を制作。筑波大学教員や附属学校関係者の監修を受けながら、内容の企画・ディレクションを担当した。",
+      "@language": "ja"
+    },
+    {
+      "@value": "筑波大学の高校生向け社会連携事業「筑波大学GFEST」による企画事業。",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Planning & Direction: Kazumi Inada, Camera: Tomoya Onuki, Music: Takuto Okamoto, Client: GFEST by University of Tsukuba"
+  },
+  "material": "Video",
+  "dateCreated": "2022",
+  "datePublished": "2022-09-12",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "video",
+    "education",
+    "tomoya-onuki",
+    "takuto-okamoto"
+  ],
+  "image": [
+    "/works/gfest-guide-video/capture_01-0.jpg",
+    "/works/gfest-guide-video/capture_01-1.jpg",
+    "/works/gfest-guide-video/capture_02-0.jpg",
+    "/works/gfest-guide-video/capture_03-0.jpg",
+    "/works/gfest-guide-video/capture_03-1.jpg",
+    "/works/gfest-guide-video/capture_ishida-0.jpg",
+    "/works/gfest-guide-video/capture_karube-0.jpg",
+    "/works/gfest-guide-video/capture_tabuchi-0.jpg",
+    "/works/gfest-guide-video/capture_ebisu-0.jpg"
+  ],
+  "url": "/works/gfest-guide-video",
+  "mainEntityOfPage": "/works/gfest-guide-video",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_01-0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_01-1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_02-0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_03-0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_03-1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_ishida-0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_karube-0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_tabuchi-0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/gfest-guide-video/capture_ebisu-0.jpg"
+    }
+  ]
+}
+</script>

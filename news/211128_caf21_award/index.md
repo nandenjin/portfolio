@@ -1,10 +1,3 @@
----
-title_en: "Awarded by Contemporary Art Foundation"
-title_ja: CAF賞2021で受賞しました
-tags: art installation
-release: 2021-11-28
----
-
 現代芸術振興財団主催「[CAF賞2021](https://gendai-art.org/caf_single/caf2021/)」で、最優秀賞を受賞しました。ありがとうございます。
 
 - [CAF 賞 2021 入選作品展](/events/caf21)
@@ -26,3 +19,55 @@ release: 2021-11-28
 最終審査での展示作品《住人たち》は、30日（火）日の出まで実物を展示中です。
 
 - [《住人たち》再制作と展示](/events/residents21)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "CAF賞2021で受賞しました",
+      "@language": "ja"
+    },
+    {
+      "@value": "Awarded by Contemporary Art Foundation",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "現代芸術振興財団主催「CAF賞2021」で、最優秀賞を受賞しました。ありがとうございます。",
+      "@language": "ja"
+    }
+  ],
+  "datePublished": "2021-11-28",
+  "dateModified": "2021-11-28",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "installation"
+  ],
+  "image": [
+    "/events/caf21/caf21_0.jpg"
+  ],
+  "url": "/news/211128_caf21_award",
+  "mainEntityOfPage": "/news/211128_caf21_award",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/events/caf21"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf21/caf21_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/residents21"
+    }
+  ]
+}
+</script>
