@@ -7,7 +7,7 @@ import {
   withBodyHtmlAdditionalProperty,
 } from "../../jsonld"
 
-const md = new MarkdownIt()
+const md = new MarkdownIt({ html: true })
 
 export async function parseWorks(baseDir: string): Promise<Work[]> {
   const worksDir = join(baseDir, "works")
