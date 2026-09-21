@@ -1,15 +1,3 @@
----
-title_en: The Room of Observation
-title_ja: 観測の部屋
-creator: Kazumi Inada
-materials: Mixed Media
-year: 2025
-tags: art electronic exhibition-tmaf25
-info:
-thumbnail: /works/room-of-observation/overview.jpg
-release: 2025-08-01
----
-
 人々の生活する空間に横たわる、見えない流れや構造を「観測」する装置群からなるインスタレーション。
 
 地図、時計、パーティクルが飛び交う航空写真、ときおり瞬く明かりなどの奇怪なオブジェクトが並び、展示室で静かに動き続ける。鑑賞者は普段の生活の視点では意識されない不可視なシグナルの存在に触れ、身の回りの社会を身体を離れた視点から観察する体験をする。
@@ -69,3 +57,112 @@ release: 2025-08-01
 - 地図データ：&copy; OpenStreetMap contributors
 - 設営協力：磯貝美由紀・上條真菜・武井優泰・塚越彩加
 - 機材協力：[筑波大学人形劇団NEU](https://tkbneu.net/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VisualArtwork",
+  "name": [
+    {
+      "@value": "観測の部屋",
+      "@language": "ja"
+    },
+    {
+      "@value": "The Room of Observation",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "人々の生活する空間に横たわる、見えない流れや構造を「観測」する装置群からなるインスタレーション。",
+      "@language": "ja"
+    },
+    {
+      "@value": "2. AIの散歩による仮想地形のシミュレーション",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Kazumi Inada"
+  },
+  "material": "Mixed Media",
+  "dateCreated": "2025",
+  "datePublished": "2025-08-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "electronic",
+    "exhibition-tmaf25"
+  ],
+  "image": [
+    "/works/room-of-observation/overview.jpg",
+    "/works/room-of-observation/overview_front.jpg",
+    "/works/room-of-observation/overview_from-right.jpg",
+    "/works/room-of-observation/zoom_desk.jpg",
+    "/works/room-of-observation/zoom_relay.jpg",
+    "/works/room-of-observation/zoom_clock.jpg",
+    "/works/room-of-observation/layout.png",
+    "/works/room-of-observation/items_radio.jpg",
+    "/works/room-of-observation/items_relay.jpg",
+    "/works/room-of-observation/items_route.jpg",
+    "/works/room-of-observation/items_aerial.jpg",
+    "/works/room-of-observation/items_topo.jpg"
+  ],
+  "url": "/works/room-of-observation",
+  "mainEntityOfPage": "/works/room-of-observation",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/overview.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/overview_front.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/overview_from-right.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/zoom_desk.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/zoom_relay.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/zoom_clock.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/layout.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/items_radio.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/items_relay.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/items_route.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/items_aerial.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/room-of-observation/items_topo.jpg"
+    }
+  ]
+}
+</script>

@@ -1,25 +1,3 @@
----
-is_exhibition: true
-title_ja: 稲田和巳個展『潮』
-title_en: 'Kazumi INADA Solo Exhibition "Ushio"'
-session_start: 2023-02-18
-session_end: 2023-04-08
-locations:
-  - title_ja: 現代芸術振興財団ギャラリー
-    title_en: Contemporary Art Foundation Gallery
-    lat: 35.6618627085482
-    lng: 139.7314945876261
-related_works: []
-thumbnail: /events/caf-ushio/ushio_visual_16-9.jpg
-external_infos:
-  - title_ja: 稲田和巳『潮』公式Webサイト - 現代芸術振興財団
-    title_en: Kazumi Inada Solo Exhibition "Ushio" Official Website
-    url: https://gendai-art.org/caf/inada/
-  - title_ja: CAF賞2021最優秀賞者：稲田和巳個展開催 - 現代芸術振興財団
-    title_en: "CAF Award 2021 Grand Prize Winner: Kazumi Inada Solo Exhibition"
-    url: https://gendai-art.org/news_single/inada/
----
-
 現代芸術振興財団ギャラリー（六本木）で個展を開催します。
 
 > この度、現代芸術振興財団は稲田和巳個展「潮」を開催いたします。
@@ -104,3 +82,72 @@ A field work and a talk session was held with [tomotosi](http://tomotosi.com/) &
 - TOKYO ART BEAT [稲田和巳 「潮」公益財団法人現代芸術振興財団事務局](https://www.tokyoartbeat.com/events/-/Kazumi-Inada-Ushio/AD9D1C2A/2023-02-18)
 - 美術手帖 [CAF賞2021最優秀賞受賞作家 稲田和巳 個展『潮』現代芸術振興財団](https://bijutsutecho.com/exhibitions/11313)
 - 朝日新聞 首都圏版2023.2.21夕刊アート情報欄
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "稲田和巳個展『潮』",
+      "@language": "ja"
+    },
+    {
+      "@value": "Kazumi INADA Solo Exhibition \"Ushio\"",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "現代芸術振興財団ギャラリー（六本木）で個展を開催します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "CAF賞2021 最優秀賞受賞作家 稲田和巳個展「潮」",
+      "@language": "en"
+    }
+  ],
+  "startDate": "2023-02-18",
+  "endDate": "2023-04-08",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "現代芸術振興財団ギャラリー",
+          "@language": "ja"
+        },
+        {
+          "@value": "Contemporary Art Foundation Gallery",
+          "@language": "en"
+        }
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.6618627085482,
+        "longitude": 139.7314945876261
+      }
+    }
+  ],
+  "workFeatured": [],
+  "sameAs": [
+    "https://gendai-art.org/caf/inada/",
+    "https://gendai-art.org/news_single/inada/"
+  ],
+  "image": [
+    "/events/caf-ushio/interview_0.jpg",
+    "/events/caf-ushio/ushio_visual_16-9.jpg",
+    "/events/caf-ushio/view_0.jpg",
+    "/events/caf-ushio/view_1.jpg",
+    "/events/caf-ushio/view_2.jpg",
+    "/events/caf-ushio/view_3.jpg",
+    "/events/caf-ushio/talk_0.jpg"
+  ],
+  "url": "/events/caf-ushio",
+  "mainEntityOfPage": "/events/caf-ushio"
+}
+</script>

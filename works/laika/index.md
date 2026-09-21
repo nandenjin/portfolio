@@ -1,15 +1,3 @@
----
-title_en: Laika
-title_ja: ライカ
-creator: Kazumi Inada
-materials: Installation
-year: 2021
-tags: art installation
-info:
-thumbnail: /works/laika/laika_03.jpg
-release: 2021-03-14
----
-
 > 4年通った大学の卒業を前に新しい進路を考える、という作業は、この地に対する自分の印象が浮き彫りになるようで奇妙な体験だった。
 >
 > 外界の誰もが思い描き、そして自分が目指してきたこの都市像はいまでもすこぶる健在であるものの、さすがに50年もの時を経ると当初のそれからは変化するらしい。上書きされた土地の記憶が染み出してくるようでもあるし、あるいはここに生活する人間の価値観のほうが順化しているのかもしれない。賛否はあろうが、本当の都会の生まれではない自分にとっては、馴染みある暮らしやすい場所だった。この場に来たからこそわかる感覚だと思う。
@@ -30,3 +18,67 @@ release: 2021-03-14
 ![](/works/laika/laika_01.jpg)
 ![](/works/laika/laika_02.jpg)
 ![](/works/laika/laika_03.jpg)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VisualArtwork",
+  "name": [
+    {
+      "@value": "ライカ",
+      "@language": "ja"
+    },
+    {
+      "@value": "Laika",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "筑波大学の学群生として過ごした4年間の最後に、進路に迷いながら制作したインスタレーション。2021年3月の「平砂アートムーヴメント2020」で展示された。会場のつくばセンタービルは、学園都市としてのつくばのまちづくりと共に完成したものの、駅前地区の空洞化が進み全テナントを撤退させての改装・再開発を控えており、展示空間自体も移ろいゆく存在そのものであった。",
+      "@language": "ja"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Kazumi Inada"
+  },
+  "material": "Installation",
+  "dateCreated": "2021",
+  "datePublished": "2021-03-14",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "installation"
+  ],
+  "image": [
+    "/works/laika/laika_00.jpg",
+    "/works/laika/laika_01.jpg",
+    "/works/laika/laika_02.jpg",
+    "/works/laika/laika_03.jpg"
+  ],
+  "url": "/works/laika",
+  "mainEntityOfPage": "/works/laika",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/laika/laika_00.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/laika/laika_01.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/laika/laika_02.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/laika/laika_03.jpg"
+    }
+  ]
+}
+</script>

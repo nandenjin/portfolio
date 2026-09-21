@@ -1,10 +1,13 @@
 {
-  "name": "portfolio",
+  "name": "@nandenjin/portfolio",
   "version": "0.0.0",
   "description": "",
+  "workspaces": [
+    ".server"
+  ],
   "main": "/works/index.md",
   "scripts": {
-    "postinstall": "simple-git-hooks"
+    "postinstall": "npx simple-git-hooks"
   },
   "repository": {
     "type": "git",

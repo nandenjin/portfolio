@@ -112,3 +112,63 @@ See also: [GitHub](https://github.com/nandenjin)
 - Stage Lighting, DMX, Art-Net
 
 -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": [
+    {
+      "@value": "稲田和巳",
+      "@language": "ja"
+    },
+    {
+      "@value": "Kazumi Inada",
+      "@language": "en"
+    }
+  ],
+  "jobTitle": [
+    {
+      "@value": "アーティスト",
+      "@language": "ja"
+    },
+    {
+      "@value": "テクニカルディレクター",
+      "@language": "ja"
+    },
+    {
+      "@value": "Artist",
+      "@language": "en"
+    },
+    {
+      "@value": "Technical Director",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "1997年、日本の大阪生まれ。2017年より筑波大学情報メディア創成学類に在籍。2021年より同情報学学位プログラム（修士課程）に在籍中。",
+      "@language": "ja"
+    },
+    {
+      "@value": "Born in 1997 at Osaka, Japan. Belonging University of Tsukuba, Master’s Program in Informatics from 2021, via College of Media Arts, Science and Technology from 2017.",
+      "@language": "en"
+    }
+  ],
+  "url": "/profile",
+  "image": [
+    "/profile/profile.jpg",
+    "/events/caf-ushio/interview_0.jpg"
+  ],
+  "sameAs": [
+    "https://github.com/nandenjin",
+    "https://instagram.com/nandenjin",
+    "https://mstdn.jp/@kzmi",
+    "https://youtube.com/@KazumiInada",
+    "https://twitter.com/nandenjin",
+    "https://facebook.com/nandenjin",
+    "https://researchmap.jp/kzmi",
+    "https://orcid.org/0009-0002-5707-074X"
+  ]
+}
+</script>

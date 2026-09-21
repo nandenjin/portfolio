@@ -1,10 +1,3 @@
----
-title_en: Tsukuba Media Art Festival 2021
-title_ja: つくばメディアアートフェスティバル2021に参加します
-tags: art exhibition
-release: 2021-07-28
----
-
 2021.07.30〜08.08の期間で、茨城県で開催される「つくばメディアアートフェスティバル2021」に、新作《Layers》で参加します。
 
 ![](/works/layers/pre_00.png)
@@ -42,3 +35,55 @@ release: 2021-07-28
   - 村上史明
 - 協力
   - 株式会社光雅
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "つくばメディアアートフェスティバル2021に参加します",
+      "@language": "ja"
+    },
+    {
+      "@value": "Tsukuba Media Art Festival 2021",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "2021.07.30〜08.08の期間で、茨城県で開催される「つくばメディアアートフェスティバル2021」に、新作《Layers》で参加します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "《Layers》は、つくば市中央公園の水景内に建つ「市民ギャラリー」の外壁に投影するプロジェクションマッピング作品です。池に沈む塵や落ち葉に、場に横たわる文化・時間・営みの存在を重ね合わせるようにして描いています。",
+      "@language": "en"
+    }
+  ],
+  "datePublished": "2021-07-28",
+  "dateModified": "2021-07-28",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "exhibition"
+  ],
+  "image": [
+    "/works/layers/pre_00.png"
+  ],
+  "url": "/news/210728_tmaf21",
+  "mainEntityOfPage": "/news/210728_tmaf21",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/layers/pre_00.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/tmaf21"
+    }
+  ]
+}
+</script>

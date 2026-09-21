@@ -1,12 +1,3 @@
----
-is_exhibition: false
-title_ja: "人形劇を広く知る会: 筑波大学から見る、人形劇の「作る・観る・残す」"
-title_en: "The Association for the Promotion of Puppet Theater: Making, Watching, and Preserving Puppetry — Perspectives from the University of Tsukuba"
-session_start: 2026-05-21
-session_end: 2026-05-21
-thumbnail: /works/yamaneko/sohosai_hk_brush.jpg
----
-
 人形劇研究者による研究会で、人形劇に関する稲田の活動について話題提供として口頭発表をしました。
 
 稲田は2017年の筑波大学への入学を機に人形劇への関わりを始め、現在では大学での上演・制作はもとより、大学での研究や国際人形劇連盟日本センターを基軸とした普及や調査活動、業務としての専門劇団の制作にも携わりながら活動しています。情報学という専門領域を軸に、独特な切り口で取り組みを続けています。
@@ -37,3 +28,44 @@ thumbnail: /works/yamaneko/sohosai_hk_brush.jpg
 ## 参加のご案内
 
 2026年5月21日（木）19:00-21:00 オンライン（Zoom Meetingsを利用）に開催し、無事終了しました。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": [
+    {
+      "@value": "人形劇を広く知る会: 筑波大学から見る、人形劇の「作る・観る・残す」",
+      "@language": "ja"
+    },
+    {
+      "@value": "The Association for the Promotion of Puppet Theater: Making, Watching, and Preserving Puppetry — Perspectives from the University of Tsukuba",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "人形劇研究者による研究会で、人形劇に関する稲田の活動について話題提供として口頭発表をしました。",
+      "@language": "ja"
+    }
+  ],
+  "startDate": "2026-05-21",
+  "endDate": "2026-05-21",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "workFeatured": [
+    {
+      "@type": "CreativeWork",
+      "url": "/works/yamaneko"
+    }
+  ],
+  "image": [
+    "/works/yamaneko/sohosai_hk_brush.jpg",
+    "/events/puppetry-tsukuba26/puppet_kit_cover.jpg"
+  ],
+  "url": "/events/puppetry-tsukuba26",
+  "mainEntityOfPage": "/events/puppetry-tsukuba26"
+}
+</script>

@@ -1,10 +1,3 @@
----
-title_en: 'Catalog for the solo exhibition "Ushio" is now available'
-title_ja: 個展『潮』のカタログが発行されました
-tags: art exhibition takuto-okamoto
-release: 2023-08-22
----
-
 [個展『潮』](/events/caf-ushio)（2023年2月～4月、東京・六本木）のカタログが、主催の現代芸術振興財団から発行されています。
 
 - 作品・展示風景画像
@@ -26,3 +19,50 @@ The catalog of [solo exhibition "Ushio"](/events/caf-ushio) (February - April, 2
 Designed by: [Takuto Okamoto (SINGS)](https://takuto-okamoto.com/)
 
 Starting today, you can request a copy (free of charge) through [Contemporary Art Foundation](https://gendai-art.org/catalog/). The form will be closed when all remaining copies are gone.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "個展『潮』のカタログが発行されました",
+      "@language": "ja"
+    },
+    {
+      "@value": "Catalog for the solo exhibition \"Ushio\" is now available",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "デザイン: 岡本太玖斗（SINGS）",
+      "@language": "ja"
+    },
+    {
+      "@value": "本日より、現代芸術振興財団Webページのフォームから請求できます（無料）。残部がなくなり次第、フォームへの掲載は終了します。",
+      "@language": "en"
+    }
+  ],
+  "datePublished": "2023-08-22",
+  "dateModified": "2023-08-22",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "exhibition",
+    "takuto-okamoto"
+  ],
+  "image": [],
+  "url": "/news/230822_ushio-rpng-catalog",
+  "mainEntityOfPage": "/news/230822_ushio-rpng-catalog",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/events/caf-ushio"
+    }
+  ]
+}
+</script>

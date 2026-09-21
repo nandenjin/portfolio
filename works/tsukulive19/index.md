@@ -1,15 +1,3 @@
----
-title_en: T'qours 2nd LoveLive!
-title_ja: T'qours 2nd LoveLive!
-creator: プロジェクト ツクライブ！サンシャイン！！
-materials: Stage
-year: 2019
-tags: lighting stage
-info:
-thumbnail: /works/tsukulive19/0.jpg
-release: 2018-04-01
----
-
 [![](/works/tsukulive19/0.jpg)](https://www.youtube.com/watch?v=uOftsbFQ33g)
 
 ![](/works/tsukulive19/0.jpg)
@@ -26,3 +14,67 @@ release: 2018-04-01
 - ウェブ記事「Behind the Scenes of ツクライブ! ライブ照明を作るとき考えたこと」
   - [技術編](https://note.com/nandenjin/n/n9a08fdcaaff8)
   - [デザイン編](https://note.com/nandenjin/n/naaf4cb3f364e)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": [
+    {
+      "@value": "T'qours 2nd LoveLive!",
+      "@language": "ja"
+    },
+    {
+      "@value": "T'qours 2nd LoveLive!",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "筑波大学学園祭で上演されたステージ「T'qours 2nd LoveLive!」で、照明デザイン、制御技術の提供、オペレーションを担当。",
+      "@language": "ja"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "プロジェクト ツクライブ！サンシャイン！！"
+  },
+  "material": "Stage",
+  "dateCreated": "2019",
+  "datePublished": "2018-04-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "lighting",
+    "stage"
+  ],
+  "image": [
+    "/works/tsukulive19/0.jpg",
+    "/works/tsukulive19/1.jpg",
+    "/works/tsukulive19/2.jpg",
+    "/works/tsukulive19/3.jpg"
+  ],
+  "url": "/works/tsukulive19",
+  "mainEntityOfPage": "/works/tsukulive19",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/tsukulive19/0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/tsukulive19/1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/tsukulive19/2.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/tsukulive19/3.jpg"
+    }
+  ]
+}
+</script>

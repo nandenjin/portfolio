@@ -1,10 +1,3 @@
----
-title_en: '"The Lost Thing" will be replayed'
-title_ja: 現代人形劇「おとしもの」を再演いたします
-tags: art stage tsukuba-neu
-release: 2019-05-01
----
-
 2018 年に筑波大学人形劇団 NEU で演出・美術を担当した「おとしもの」を再演いたします。
 
 昨年に全 6 公演を数えたロングラン作品がつくばに帰ってきました。どなたさまもぜひご来場くださいませ。
@@ -31,3 +24,56 @@ release: 2019-05-01
 - 制作：太田帆南・井上睦美
 
 [作品ページ](/works/the-lost-thing)もご覧ください。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "現代人形劇「おとしもの」を再演いたします",
+      "@language": "ja"
+    },
+    {
+      "@value": "\"The Lost Thing\" will be replayed",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "2018 年に筑波大学人形劇団 NEU で演出・美術を担当した「おとしもの」を再演いたします。",
+      "@language": "ja"
+    },
+    {
+      "@value": "2019/05/12(Sun.) 14:20~ / 17:20~ 各回 20 分前に開場 / Opens 20 mins before",
+      "@language": "en"
+    }
+  ],
+  "datePublished": "2019-05-01",
+  "dateModified": "2019-05-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "stage",
+    "tsukuba-neu"
+  ],
+  "image": [
+    "/works/the-lost-thing/the-lost-thing_cover.jpg"
+  ],
+  "url": "/news/190501_the-lost-thing",
+  "mainEntityOfPage": "/news/190501_the-lost-thing",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing/the-lost-thing_cover.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/the-lost-thing"
+    }
+  ]
+}
+</script>

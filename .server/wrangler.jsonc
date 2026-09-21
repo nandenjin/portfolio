@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-09-21",
+  // nodejs_compat is deliberately omitted: src/ depends on hono only.
+  // run_worker_first is deliberately unset so /static/* stays on the free,
+  // unbilled static assets path.
+  "assets": {
+    "directory": "dist/public",
+    "html_handling": "none",
+    "not_found_handling": "none",
+  },
+}

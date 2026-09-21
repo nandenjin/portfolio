@@ -1,15 +1,3 @@
----
-title_en: BEAUTIFULL Image Generator
-title_ja: BEAUTIFULL Image Generator
-creator: "BEAUTIFULL, AD: Takuto Okamoto, D/Dev: Kazumi Inada"
-materials: Website
-year: 2020
-tags: web design graphic branding beautifull takuto-okamoto
-info:
-thumbnail: /works/fyb/cover.png
-release: 2020-05-27
----
-
 ![Cover Image](/works/fyb/cover.png)
 ![Screenshot](/works/fyb/steps.png)
 ![](/works/fyb/sample-sea.jpg)
@@ -30,3 +18,80 @@ BEAUTIFULLメンバーの瀬能が撮影した写真から制作し[公式Instag
   - [Twitter @BEAUTIFULL_JPN](https://twitter.com/beautifull_jpn)
   - [Instagram @beautifull_jpn](https://www.instagram.com/beautifull_jpn/)
   - [SoundCloud](https://soundcloud.com/user-551101888)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": [
+    {
+      "@value": "BEAUTIFULL Image Generator",
+      "@language": "ja"
+    },
+    {
+      "@value": "BEAUTIFULL Image Generator",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "BEAUTIFULLメンバーの瀬能が撮影した写真から制作し公式Instagramに投稿されていた作品を、誰でも自分の写真から作ることができるようにしたアプリケーション。スマートフォンから写真をアップロードすると、分析によってカラーパレットが生成される。",
+      "@language": "ja"
+    },
+    {
+      "@value": "リリース後、#MYBEAUTIFULLのハッシュタグで、TwitterやInstagramにユーザの作品が多数投稿された。",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "BEAUTIFULL, AD: Takuto Okamoto, D/Dev: Kazumi Inada"
+  },
+  "material": "Website",
+  "dateCreated": "2020",
+  "datePublished": "2020-05-27",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "web",
+    "design",
+    "graphic",
+    "branding",
+    "beautifull",
+    "takuto-okamoto"
+  ],
+  "image": [
+    "/works/fyb/cover.png",
+    "/works/fyb/steps.png",
+    "/works/fyb/sample-sea.jpg",
+    "/works/fyb/sample-forest.jpg",
+    "/works/fyb/sample-flower.jpg"
+  ],
+  "url": "/works/fyb",
+  "mainEntityOfPage": "/works/fyb",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/fyb/cover.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/fyb/steps.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/fyb/sample-sea.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/fyb/sample-forest.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/fyb/sample-flower.jpg"
+    }
+  ]
+}
+</script>

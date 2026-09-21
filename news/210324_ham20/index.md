@@ -1,10 +1,3 @@
----
-title_en: 'Hirasuna Art Movement Exhibition "MUJINA PLAY"'
-title_ja: 平砂アートムーヴメント「狢PLAY」に参加します
-tags: art installation
-release: 2021-03-24
----
-
 平砂アートムーヴメント企画展「狢PLAY」で、「ライカ」を展示いたします。
 
 3月31日まで、つくばセンタービル（茨城県）で開催中です。どうぞお立ち寄りください。
@@ -24,3 +17,56 @@ release: 2021-03-24
 
 ![](/works/laika/laika_00.jpg)
 ![](/works/laika/laika_03.jpg)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "平砂アートムーヴメント「狢PLAY」に参加します",
+      "@language": "ja"
+    },
+    {
+      "@value": "Hirasuna Art Movement Exhibition \"MUJINA PLAY\"",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "平砂アートムーヴメント企画展「狢PLAY」で、「ライカ」を展示いたします。",
+      "@language": "ja"
+    }
+  ],
+  "datePublished": "2021-03-24",
+  "dateModified": "2021-03-24",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "installation"
+  ],
+  "image": [
+    "/works/laika/laika_00.jpg",
+    "/works/laika/laika_03.jpg"
+  ],
+  "url": "/news/210324_ham20",
+  "mainEntityOfPage": "/news/210324_ham20",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/laika"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/laika/laika_00.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/laika/laika_03.jpg"
+    }
+  ]
+}
+</script>

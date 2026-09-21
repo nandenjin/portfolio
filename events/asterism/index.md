@@ -1,19 +1,3 @@
----
-is_exhibition: true
-title_ja: KUMA experiment 2023-24 ASTERISM（⁂）
-title_en: KUMA experiment 2023-24 ASTERISM（⁂）
-session_start: 2023-11-11
-session_end: 2023-11-26
-locations:
-  - title_ja: クマ財団ギャラリー
-    title_en: KUMA Gallery
-    lat: 35.66354913229108
-    lng: 139.728145503728
-    address: 〒106-0032 東京都港区六本木7丁目21−24 THE MODULE Roppongi 206
-related_works: [ushio-rpng-walk]
-thumbnail: /works/ushio-rpng-walk/overview.jpg
----
-
 公益財団法人クマ財団の企画する展示に参加します。
 
 ![](/works/ushio-rpng-walk/overview_with-person.jpg)
@@ -53,3 +37,74 @@ thumbnail: /works/ushio-rpng-walk/overview.jpg
 ![](/works/ushio-rpng-walk/overview_night.jpg)
 
 ![](/works/ushio-rpng-walk/outside_night.jpg)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "KUMA experiment 2023-24 ASTERISM（⁂）",
+      "@language": "ja"
+    },
+    {
+      "@value": "KUMA experiment 2023-24 ASTERISM（⁂）",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "公益財団法人クマ財団の企画する展示に参加します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "詳しくはクマ財団ギャラリーWebサイトをご覧ください。",
+      "@language": "en"
+    }
+  ],
+  "startDate": "2023-11-11",
+  "endDate": "2023-11-26",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "クマ財団ギャラリー",
+          "@language": "ja"
+        },
+        {
+          "@value": "KUMA Gallery",
+          "@language": "en"
+        }
+      ],
+      "address": "〒106-0032 東京都港区六本木7丁目21−24 THE MODULE Roppongi 206",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.66354913229108,
+        "longitude": 139.728145503728
+      }
+    }
+  ],
+  "workFeatured": [
+    {
+      "@type": "CreativeWork",
+      "url": "/works/ushio-rpng-walk"
+    }
+  ],
+  "sameAs": [],
+  "image": [
+    "/works/ushio-rpng-walk/overview_with-person.jpg",
+    "/events/asterism/asterism_KV_E.jpg",
+    "https://i.ytimg.com/vi/E8nlaRY63Aw/maxresdefault.jpg",
+    "/works/ushio-rpng-walk/wide.jpg",
+    "/works/ushio-rpng-walk/overview_night.jpg",
+    "/works/ushio-rpng-walk/outside_night.jpg"
+  ],
+  "url": "/events/asterism",
+  "mainEntityOfPage": "/events/asterism"
+}
+</script>

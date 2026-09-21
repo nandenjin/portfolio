@@ -1,25 +1,3 @@
----
-is_exhibition: true
-title_ja: 上根拓馬 個展『宇宙のモリビト』
-title_en: Takuma Kamine Solo Exhibition "Guardians of the Universe"
-session_start: 2025-04-26
-session_end: 2025-06-01
-locations:
-  - title_ja: つくばエキスポセンター
-    title_en: Tsukuba Expo Center
-    lat: 36.086505
-    lng: 140.110978
-    address: 茨城県つくば市吾妻2-9
-related_works:
-  - kamine-proto
-thumbnail: /events/kamine-expoc25/overview_hall.jpg
-external_infos:
-  - title_ja: TAKUMA KAMINE SOLO EXHIBITION 宇宙と大地と… Project
-    url: https://neotsukuba.com/2025/04/21/%e3%80%90art-project%e3%80%91takuma-kamine-solo-exhbition%e5%ae%87%e5%ae%99%e3%81%a8%e5%a4%a7%e5%9c%b0%e3%81%a8-project/
-  - title_ja: "上根拓馬 個展「宇宙のモリビト」宇宙と大地と……Project vol. 1 - つくばエキスポセンター"
-    url: https://www.expocenter.or.jp/event/detail/id=4219
----
-
 現代美術家 上根拓馬の個展シリーズに、コラボレーション作家として参加します。"Vol. 1" となるつくばエキスポセンターでは、手作業で作られる上根の造形作品に、デジタルファブリケーションやメディア技術を用いてコラボレーションするプロトタイプ作品を展示します。
 
 [![球形の、青色と透明なプラスチックでできたキャラクターの画像](https://img.youtube.com/vi/y892fZPa2oY/maxresdefault.jpg)](https://www.youtube.com/watch?v=y892fZPa2oY)
@@ -39,3 +17,73 @@ external_infos:
 ![](/events/kamine-expoc25/side_right_from_center.jpg)
 
 ![](/events/kamine-expoc25/devas_head_side.jpg)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "上根拓馬 個展『宇宙のモリビト』",
+      "@language": "ja"
+    },
+    {
+      "@value": "Takuma Kamine Solo Exhibition \"Guardians of the Universe\"",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "現代美術家 上根拓馬の個展シリーズに、コラボレーション作家として参加します。\"Vol. 1\" となるつくばエキスポセンターでは、手作業で作られる上根の造形作品に、デジタルファブリケーションやメディア技術を用いてコラボレーションするプロトタイプ作品を展示します。",
+      "@language": "ja"
+    }
+  ],
+  "startDate": "2025-04-26",
+  "endDate": "2025-06-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "つくばエキスポセンター",
+          "@language": "ja"
+        },
+        {
+          "@value": "Tsukuba Expo Center",
+          "@language": "en"
+        }
+      ],
+      "address": "茨城県つくば市吾妻2-9",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 36.086505,
+        "longitude": 140.110978
+      }
+    }
+  ],
+  "workFeatured": [
+    {
+      "@type": "CreativeWork",
+      "url": "/works/kamine-proto"
+    }
+  ],
+  "sameAs": [
+    "https://neotsukuba.com/2025/04/21/%e3%80%90art-project%e3%80%91takuma-kamine-solo-exhbition%e5%ae%87%e5%ae%99%e3%81%a8%e5%a4%a7%e5%9c%b0%e3%81%a8-project/",
+    "https://www.expocenter.or.jp/event/detail/id=4219"
+  ],
+  "image": [
+    "https://img.youtube.com/vi/y892fZPa2oY/maxresdefault.jpg",
+    "/events/kamine-expoc25/overview_hall.jpg",
+    "/events/kamine-expoc25/overview_front.jpg",
+    "/events/kamine-expoc25/side_left.jpg",
+    "/events/kamine-expoc25/side_right_from_center.jpg",
+    "/events/kamine-expoc25/devas_head_side.jpg"
+  ],
+  "url": "/events/kamine-expoc25",
+  "mainEntityOfPage": "/events/kamine-expoc25"
+}
+</script>

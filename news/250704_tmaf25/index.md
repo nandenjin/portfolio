@@ -1,10 +1,3 @@
----
-title_en: Tsukuba Media Art Festival 2025
-title_ja: つくばメディアアートフェスティバル2025に参加します
-tags: art exhibition
-release: 2025-07-04
----
-
 2025.08.01〜08.11の期間で、茨城県で開催される「つくばメディアアートフェスティバル2025」に、新作のインスタレーション作品で参加します。
 
 I will be participating in the "Tsukuba Media Art Festival 2025" held in Ibaraki Prefecture from August 1-11, 2025, with a new installation work.
@@ -42,3 +35,55 @@ The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsuku
 
 - [イベント公式情報（つくば・アートチャンネル）](https://www.tsukuba-artchannel.jp/page/page000181.html)
 - [お問い合わせ] つくば市芸術文化推進課 TEL: 029-883-1111（代表）
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "つくばメディアアートフェスティバル2025に参加します",
+      "@language": "ja"
+    },
+    {
+      "@value": "Tsukuba Media Art Festival 2025",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "2025.08.01〜08.11の期間で、茨城県で開催される「つくばメディアアートフェスティバル2025」に、新作のインスタレーション作品で参加します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "I will be participating in the \"Tsukuba Media Art Festival 2025\" held in Ibaraki Prefecture from August 1-11, 2025, with a new installation work.",
+      "@language": "en"
+    }
+  ],
+  "datePublished": "2025-07-04",
+  "dateModified": "2025-07-04",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "exhibition"
+  ],
+  "image": [
+    "/events/tmaf25/flyer_a.jpg"
+  ],
+  "url": "/news/250704_tmaf25",
+  "mainEntityOfPage": "/news/250704_tmaf25",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/events/tmaf25/flyer_a.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/tmaf25"
+    }
+  ]
+}
+</script>

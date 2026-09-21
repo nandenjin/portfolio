@@ -1,0 +1,25 @@
+{
+  "name": "@nandenjin/portfolio-server",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "prebuild": "npm run clean && tsx build/index.ts",
+    "build": "wrangler deploy --dry-run --outdir=dist/worker",
+    "pretypecheck": "npm run prebuild",
+    "typecheck": "tsc --noEmit",
+    "dev": "npm run prebuild && wrangler dev",
+    "deploy": "npm run prebuild && wrangler deploy",
+    "clean": "rm -rf dist/ src/content.gen.ts"
+  },
+  "dependencies": {
+    "hono": "4.11.3"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "14.1.2",
+    "@types/node": "25.0.6",
+    "markdown-it": "14.1.0",
+    "tsx": "4.21.0",
+    "typescript": "5.9.3",
+    "wrangler": "4.135.0"
+  }
+}

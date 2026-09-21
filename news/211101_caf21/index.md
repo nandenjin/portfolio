@@ -1,10 +1,3 @@
----
-title_en: CAF Award Exhibition 2021
-title_ja: CAF賞2021入選作品展に参加します
-tags: art exhibition
-release: 2021-11-01
----
-
 現代芸術振興財団主催「CAF賞2021入選作品展」に参加します。
 
 > 「CAF賞」は、日本全国の高校・大学・大学院・専門学校の学生、および日本国籍を有し海外の教育機関に在籍する学生の作品を対象としたアートアワードです。学生の創作活動の支援と日本の現代芸術の振興を目的に開催し、今回で8回目を迎えます。
@@ -25,3 +18,55 @@ release: 2021-11-01
 《住人たち》を再展示するにあたり、実際に作品に「住んで」いただける協力者を、筑波大学の学生を対象に募集します。詳しくは以下のページをご覧ください。
 
 - [《住人たち》再展示にかかる《住人》を募集します](https://posts.nandenjin.com/2021/residents-reconstruction/)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "headline": [
+    {
+      "@value": "CAF賞2021入選作品展に参加します",
+      "@language": "ja"
+    },
+    {
+      "@value": "CAF Award Exhibition 2021",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "現代芸術振興財団主催「CAF賞2021入選作品展」に参加します。",
+      "@language": "ja"
+    }
+  ],
+  "datePublished": "2021-11-01",
+  "dateModified": "2021-11-01",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "exhibition"
+  ],
+  "image": [
+    "/events/caf21/caf21_banner.jpg"
+  ],
+  "url": "/news/211101_caf21",
+  "mainEntityOfPage": "/news/211101_caf21",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/events/caf21/caf21_banner.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/caf21"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/residents21"
+    }
+  ]
+}
+</script>

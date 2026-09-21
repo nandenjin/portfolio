@@ -1,15 +1,3 @@
----
-title_en: "Another Skin: Sculptures by KAWASHIMA Fumiya"
-title_ja: Another Skin 川島史也の彫刻
-creator: Kazumi Inada
-materials: Video
-year: 2023
-tags: video
-info:
-thumbnail: /works/kwsm/atelier_1.jpg
-release: 2023-07-08
----
-
 彫刻家の[川島史也](https://kawafumi89.wixsite.com/fumiya-kawashima)のアーティスト・トーク映像を制作。作家の言葉を中心に、個展「Another Skin」の光景、制作現場、そしてトークで重要な要素となった鋳造作業の様子を紹介する。
 
 > 人物像を作っています。ありきたりな題材、古代から現代に至るまで幾度となく表現されてきた対象ですが、私もまた、先人たちが築いてきた美術の文脈に則り、彫刻によって人物表現を試みています。
@@ -71,3 +59,135 @@ An artist talk video of a sculptor, [KAWASHIMA Fumiya](https://kawafumi89.wixsit
 本作品の初稿は、筑波大学情報学学位プログラム開講の授業「コンテンツ開発」の課題として、[大塩尚弘先生](https://tpsfilms.myportfolio.com/2023-1)のご指導のもと制作しました。
 
 The first version of this work was produced under the guidance of [Naohiro OSHIO](https://tpsfilms.myportfolio.com/2023-1) as an assignment for the course "Content Development" offered by the Informatics Degree Program at the University of Tsukuba.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": [
+    {
+      "@value": "Another Skin 川島史也の彫刻",
+      "@language": "ja"
+    },
+    {
+      "@value": "Another Skin: Sculptures by KAWASHIMA Fumiya",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "彫刻家の川島史也のアーティスト・トーク映像を制作。作家の言葉を中心に、個展「Another Skin」の光景、制作現場、そしてトークで重要な要素となった鋳造作業の様子を紹介する。",
+      "@language": "ja"
+    },
+    {
+      "@value": "An artist talk video of a sculptor, KAWASHIMA Fumiya. Focusing on the artist's words, the video introduces the scenes from his solo exhibition \"Another Skin,\" the production site, and the casting process, which was an important element of the talk.",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Kazumi Inada"
+  },
+  "material": "Video",
+  "dateCreated": "2023",
+  "datePublished": "2023-07-08",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "video"
+  ],
+  "image": [
+    "/works/kwsm/atelier_1.jpg",
+    "/works/kwsm/interview_0.jpg",
+    "/works/kwsm/gallery_1.jpg",
+    "/works/kwsm/gallery_6.jpg",
+    "/works/kwsm/gallery_2.jpg",
+    "/works/kwsm/atelier_0.jpg",
+    "/works/kwsm/atelier_2.jpg",
+    "/works/kwsm/atelier_3.jpg",
+    "/works/kwsm/factory_0.jpg",
+    "/works/kwsm/factory_1.jpg",
+    "/works/kwsm/factory_2.jpg",
+    "/works/kwsm/factory_3.jpg",
+    "/works/kwsm/gallery_0.jpg",
+    "/works/kwsm/gallery_3.jpg",
+    "/works/kwsm/gallery_4.jpg",
+    "/works/kwsm/gallery_5.jpg",
+    "/works/kwsm/interview_1.jpg"
+  ],
+  "url": "/works/kwsm",
+  "mainEntityOfPage": "/works/kwsm",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/atelier_1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/interview_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/gallery_1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/gallery_6.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/gallery_2.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/atelier_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/atelier_2.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/atelier_3.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/factory_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/factory_1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/factory_2.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/factory_3.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/gallery_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/gallery_3.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/gallery_4.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/gallery_5.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/kwsm/interview_1.jpg"
+    }
+  ]
+}
+</script>

@@ -1,19 +1,3 @@
----
-is_exhibition: true
-title_ja: making waves project in P.O.N.D.
-title_en: making waves project in P.O.N.D.
-session_start: 2023-10-15
-session_end: 2023-10-15
-locations:
-  - title_ja: 渋谷PARCO
-    title_en: Shibuya PARCO
-    lat: 35.66219405390191
-    lng: 139.69877977333206
-    address: 東京都渋谷区宇田川町15-1
-related_works: []
-thumbnail: /events/pond23/thumbnail.jpg
----
-
 渋谷パルコが開催されるアートイベント「[P.O.N.D.](https://pond.parco.jp/)」の一部として、[平砂アートムーヴメント](https://hirasunaartmovement.org/)の企画する、パフォーマンスを中心としたプログラムに参加します。
 
 > P.O.N.D. 2023にて、<br>公園（PARCO）ですれ違う人々の間の対話と連帯の可能性を呼び起こすプロジェクトを行います。
@@ -33,3 +17,60 @@ thumbnail: /events/pond23/thumbnail.jpg
   - 日時 : 10/22(日)
 - [LILISE](https://paralyzedpaula.wixsite.com/paralyzedpaula)
   - 日時 : 10/22(日)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "making waves project in P.O.N.D.",
+      "@language": "ja"
+    },
+    {
+      "@value": "making waves project in P.O.N.D.",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "渋谷パルコが開催されるアートイベント「P.O.N.D.」の一部として、平砂アートムーヴメントの企画する、パフォーマンスを中心としたプログラムに参加します。",
+      "@language": "ja"
+    }
+  ],
+  "startDate": "2023-10-15",
+  "endDate": "2023-10-15",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "渋谷PARCO",
+          "@language": "ja"
+        },
+        {
+          "@value": "Shibuya PARCO",
+          "@language": "en"
+        }
+      ],
+      "address": "東京都渋谷区宇田川町15-1",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 35.66219405390191,
+        "longitude": 139.69877977333206
+      }
+    }
+  ],
+  "workFeatured": [],
+  "sameAs": [],
+  "image": [
+    "/events/pond23/thumbnail.jpg"
+  ],
+  "url": "/events/pond23",
+  "mainEntityOfPage": "/events/pond23"
+}
+</script>

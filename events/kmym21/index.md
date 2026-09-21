@@ -1,22 +1,4 @@
 ---
-is_exhibition: true
-title_ja: 亀山トリエンナーレ2022
-title_en: Kameyama Triennale 2022
-session_start: 2022-10-30
-session_end: 2022-11-19
-locations:
-  - title_ja: 高村書店
-    lat: 34.8540434
-    lng: 136.4528833
-    address: 三重県亀山市東町1丁目4-1
-related_works: [ushio-kameyama]
-thumbnail: /events/kmym21/shelf_0.jpg
-external_infos:
-  - title_ja: 亀山トリエンナーレ 公式Webサイト
-    url: http://kameyamatriennale.jp/
----
-
----
 
 **これは亀山トリエンナーレ実行委員会の運営するページではありません。[公式サイト](http://kameyamatriennale.jp/)をご利用ください。**
 
@@ -175,3 +157,71 @@ artkameyama[at]gmail.com
   - 亀山商工会議所
   - 一般社団法人 亀山市観光協会
   - 山形国際ドキュメンタリー映画祭
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ExhibitionEvent",
+  "name": [
+    {
+      "@value": "亀山トリエンナーレ2022",
+      "@language": "ja"
+    },
+    {
+      "@value": "Kameyama Triennale 2022",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "これは亀山トリエンナーレ実行委員会の運営するページではありません。公式サイトをご利用ください。",
+      "@language": "ja"
+    },
+    {
+      "@value": "This page is NOT written by Kameyama Triennale Committee. Please visit Official Website.",
+      "@language": "en"
+    }
+  ],
+  "startDate": "2022-10-30",
+  "endDate": "2022-11-19",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "location": [
+    {
+      "@type": "Place",
+      "name": [
+        {
+          "@value": "高村書店",
+          "@language": "ja"
+        }
+      ],
+      "address": "三重県亀山市東町1丁目4-1",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 34.8540434,
+        "longitude": 136.4528833
+      }
+    }
+  ],
+  "workFeatured": [
+    {
+      "@type": "CreativeWork",
+      "url": "/works/ushio-kameyama"
+    }
+  ],
+  "sameAs": [
+    "http://kameyamatriennale.jp/"
+  ],
+  "image": [
+    "/events/kmym21/indoor_overview.jpg",
+    "/events/kmym21/shelf_0.jpg",
+    "/events/kmym21/shelf_1.jpg",
+    "/events/kmym21/zoom_0.jpg",
+    "/events/kmym21/outdoor_view.jpg"
+  ],
+  "url": "/events/kmym21",
+  "mainEntityOfPage": "/events/kmym21"
+}
+</script>

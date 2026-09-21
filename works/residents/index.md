@@ -1,14 +1,3 @@
----
-title_en: Residents
-title_ja: 住人たち
-creator: Kazumi Inada
-materials: Art Project
-year: 2019
-tags: art art-project electronic exhitbition-ham19
-thumbnail: /works/residents/residents_zoom-0.jpg
-release: 2019-05-20
----
-
 使われなくなった建物の窓に灯る明かりは、現実に生活する誰かの住処の明かりと繋がっています。人々が帰宅すると灯り、眠りにつくと消える明かりは、彼らの生活が重畳して成す社会のゆるやかな脈動を等身大に表します。
 
 The lights in the windows of disused buildings are connected to the lights of someone's actual living space. The lights that come on when people return home and go off when they go to sleep represent, in life-size, the gentle pulse of society formed by the superimposition of their lives.
@@ -33,3 +22,79 @@ The lights in the windows of disused buildings are connected to the lights of so
 - [CAF賞2021](https://gendai-art.org/caf_single/caf2021/) 最優秀賞
 - [アートアンドテクノロジー東北2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 審査員特別賞
 - [北九州デジタルクリエイターズコンテスト2020](http://kdcc.info/) インスタレーション部門 入選
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": [
+    {
+      "@value": "住人たち",
+      "@language": "ja"
+    },
+    {
+      "@value": "Residents",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "使われなくなった建物の窓に灯る明かりは、現実に生活する誰かの住処の明かりと繋がっています。人々が帰宅すると灯り、眠りにつくと消える明かりは、彼らの生活が重畳して成す社会のゆるやかな脈動を等身大に表します。",
+      "@language": "ja"
+    },
+    {
+      "@value": "The lights in the windows of disused buildings are connected to the lights of someone's actual living space. The lights that come on when people return home and go off when they go to sleep represent, in life-size, the gentle pulse of society formed by the superimposition of their lives.",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "Kazumi Inada"
+  },
+  "material": "Art Project",
+  "dateCreated": "2019",
+  "datePublished": "2019-05-20",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "art-project",
+    "electronic",
+    "exhitbition-ham19"
+  ],
+  "image": [
+    "/works/residents/residents_zoom-0.jpg",
+    "/events/residents21/00.jpg",
+    "/works/residents/residents_zoom-1.jpg",
+    "/events/residents21/01.jpg",
+    "/events/residents21/02.jpg",
+    "https://img.youtube.com/vi/0GFfTeCohRE/maxresdefault.jpg"
+  ],
+  "url": "/works/residents",
+  "mainEntityOfPage": "/works/residents",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/residents/residents_zoom-0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/residents21/00.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/residents/residents_zoom-1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/residents21/01.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/events/residents21/02.jpg"
+    }
+  ]
+}
+</script>

@@ -1,15 +1,3 @@
----
-title_en: Instant Sympathy
-title_ja: Instant Sympathy
-creator: I/O (Kazumi Inada + Takuto Okamoto)
-materials: Interactive Video (loop)
-year: 2020
-tags: art video io takuto-okamoto exhitbition-ham19 exhibition-mastival
-info: 岡本太玖斗とのユニット活動「I/0」による作品。本作品では音楽・デザインを岡本が、原案・アーキテクチャ・グラフィックを稲田が担当した。
-thumbnail: /works/sympathy/sympathy_main.jpg
-release: 2019-05-20
----
-
 [![](/works/sympathy/sympathy_main.jpg)](https://www.youtube.com/watch?v=ic22g26_QKM)
 ![](/works/sympathy/sympathy_main.jpg)
 ![](/works/sympathy/sympathy_0.png)
@@ -34,3 +22,75 @@ Worked as a unit "I/O" with Taikuto Okamoto. Okamoto is in charge of graphic and
 
 - [アートアンドテクノロジー東北2021](http://www-cg.cis.iwate-u.ac.jp/AT2021/) 優秀賞
 - [International Students Creative Award 2020](https://kc-i.jp/activity/award/isca/2020/) 入選・So good賞
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": [
+    {
+      "@value": "Instant Sympathy",
+      "@language": "ja"
+    },
+    {
+      "@value": "Instant Sympathy",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "インターネットでのユーザーの行動を分析し、オンラインの世界に広がる社会構造を明らかにするシミュレーション作品。現実空間と平行に存在する「オンラインでの社会の構造」を可視化し、そのふるまいを観察する手段を作ることを目指したもの。任意のコミュニティに属する人々のSNSでの行動を集め、その関連性を推測したグラフィックを生成する。2018年より筑波大学の学生を対象としてデータセットの構築をおこない、2000人〜3000人のデータを常時収集・処理しながら稼働している。",
+      "@language": "ja"
+    },
+    {
+      "@value": "岡本太玖斗とのユニット「I/O」での制作。グラフィック・音楽デザインを岡本が、コンセプト・技術を稲田が担当。",
+      "@language": "en"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "I/O (Kazumi Inada + Takuto Okamoto)"
+  },
+  "material": "Interactive Video (loop)",
+  "dateCreated": "2020",
+  "datePublished": "2019-05-20",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "video",
+    "io",
+    "takuto-okamoto",
+    "exhitbition-ham19",
+    "exhibition-mastival"
+  ],
+  "image": [
+    "/works/sympathy/sympathy_main.jpg",
+    "/works/sympathy/sympathy_0.png",
+    "/works/sympathy/sympathy_1.png",
+    "/works/sympathy/sympathy_wide.jpg"
+  ],
+  "url": "/works/sympathy",
+  "mainEntityOfPage": "/works/sympathy",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/sympathy/sympathy_main.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/sympathy/sympathy_0.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/sympathy/sympathy_1.png"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/sympathy/sympathy_wide.jpg"
+    }
+  ]
+}
+</script>
