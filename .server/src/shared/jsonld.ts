@@ -97,6 +97,15 @@ function rewritePathsToUrls(
       out[childKey] = rewritePathsToUrls(child, origin, childKey)
     }
 
+    // additionalProperty: [{name: srcset, value: "/static/a.jpg 400w, ..."}]
+    if (
+      out.name === "srcset" &&
+      typeof out.value === "string" &&
+      typeof origin === "string"
+    ) {
+      out.value = absolutizeSrcset(out.value, origin)
+    }
+
     // additionalProperty: [{name: body_html, value: "..."}] のHTMLもURL化
     if (
       out.name === "body_html" &&
@@ -138,15 +147,57 @@ function absolutizePath(value: string, origin: string, key?: string): string {
 }
 
 function absolutizeHtmlPaths(html: string, origin: string): string {
-  return html.replace(/(src|href)="\/(?!\/)([^"]+)"/g, (_m, attr, path) => {
-    const originalPath = `/${path}`
-    const normalizedPath =
-      attr === "src"
-        ? normalizeInternalAssetPath(originalPath, "image")
-        : normalizeInternalAssetPath(originalPath)
+  return html
+    .replace(/(src|href)="\/(?!\/)([^"]+)"/g, (_m, attr, path) => {
+      const originalPath = `/${path}`
+      const normalizedPath =
+        attr === "src"
+          ? normalizeInternalAssetPath(originalPath, "image")
+          : normalizeInternalAssetPath(originalPath)
 
-    return `${attr}="${origin}${normalizedPath}"`
-  })
+      return `${attr}="${origin}${normalizedPath}"`
+    })
+    .replace(
+      /(\ssrcset)="([^"]+)"/g,
+      (_m, attr, srcset) => `${attr}="${absolutizeSrcset(srcset, origin)}"`,
+    )
+}
+
+/**
+ * Cloudflare Image Transformations options. This is the ONLY place the option
+ * string is built: every distinct string counts as a separate billable
+ * transformation per month, so never vary `fit` etc. per call site.
+ * `dpr` is deliberately unused (`srcset` widths already cover it).
+ * `onerror=redirect` falls back to the original image when the quota is
+ * exceeded; it only works because source and transform share a zone.
+ */
+const TRANSFORM_OPTIONS =
+  "format=auto,fit=scale-down,metadata=none,onerror=redirect"
+
+function toTransformPath(staticPath: string, width: number): string {
+  return `/cdn-cgi/image/width=${width},${TRANSFORM_OPTIONS}${staticPath}`
+}
+
+/**
+ * `"/static/a.jpg 400w, /static/a.jpg 640w"` → absolute URLs, resized through
+ * Cloudflare when served from an https origin. Local dev (http://localhost)
+ * has no /cdn-cgi/image/, so candidates stay pass-through there.
+ */
+function absolutizeSrcset(srcset: string, origin: string): string {
+  const transform = origin.startsWith("https://")
+  return srcset
+    .split(/\s*,\s+/)
+    .map((candidate) => {
+      const [url, descriptor] = candidate.trim().split(/\s+/)
+      if (!url?.startsWith("/")) return candidate.trim()
+      const w = /^(\d+)w$/.exec(descriptor ?? "")
+      const path =
+        transform && w && url.startsWith("/static/")
+          ? toTransformPath(url, Number(w[1]))
+          : normalizeInternalAssetPath(url, "image")
+      return `${origin}${path}${descriptor ? ` ${descriptor}` : ""}`
+    })
+    .join(", ")
 }
 
 function normalizeInternalAssetPath(value: string, key?: string): string {
