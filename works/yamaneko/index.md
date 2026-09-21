@@ -1,15 +1,3 @@
----
-title_en: The Restaurant with Many Orders
-title_ja: 注文の多い料理店
-creator: 筑波大学人形劇団NEU
-materials: Stage Performance
-year: 2025
-tags: art stage tsukuba-neu
-info:
-thumbnail: /works/yamaneko/sohosai_gs_opening.jpg
-release: 2026-05-12
----
-
 筑波大学人形劇団『注文の多い料理店』で、作品の企画を担当。
 
 > 東京から来たふたりの紳士が山で迷い込んだのは、西洋料理店「山猫軒」。次々現れる「注文」をしていたのは、人間を食べようと待ち構える山猫だった！
@@ -40,3 +28,82 @@ release: 2026-05-12
   - 磯貝美由紀・植田涼太・武井優泰・齋藤玲緒・佐々木陽登・森田祥真・矢内草花・横井一葉（以上、人形劇団NEU）
   - 井上睦美・宇津木まひる・角田実優
 - 企画: 稲田和巳
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": [
+    {
+      "@value": "注文の多い料理店",
+      "@language": "ja"
+    },
+    {
+      "@value": "The Restaurant with Many Orders",
+      "@language": "en"
+    }
+  ],
+  "description": [
+    {
+      "@value": "筑波大学人形劇団『注文の多い料理店』で、作品の企画を担当。",
+      "@language": "ja"
+    }
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "筑波大学人形劇団NEU"
+  },
+  "material": "Stage Performance",
+  "dateCreated": "2025",
+  "datePublished": "2026-05-12",
+  "inLanguage": [
+    "ja",
+    "en"
+  ],
+  "keywords": [
+    "art",
+    "stage",
+    "tsukuba-neu"
+  ],
+  "image": [
+    "/works/yamaneko/sohosai_gs_opening.jpg",
+    "/works/yamaneko/sohosai_hk_brush.jpg",
+    "/works/yamaneko/sohosai_kh_door.jpg",
+    "/works/yamaneko/sohosai_audience_0.jpg",
+    "/works/yamaneko/sohosai_kd_neko.jpg",
+    "/works/yamaneko/sohosai_audience_1.jpg"
+  ],
+  "url": "/works/yamaneko",
+  "mainEntityOfPage": "/works/yamaneko",
+  "mentions": [
+    {
+      "@type": "Thing",
+      "url": "/works/yamaneko/sohosai_gs_opening.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/yamaneko/sohosai_hk_brush.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/yamaneko/sohosai_kh_door.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/yamaneko/sohosai_audience_0.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/yamaneko/sohosai_kd_neko.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "/works/yamaneko/sohosai_audience_1.jpg"
+    },
+    {
+      "@type": "Thing",
+      "url": "https://www.youtube.com/watch?v=chQV55i4ltw"
+    }
+  ]
+}
+</script>
