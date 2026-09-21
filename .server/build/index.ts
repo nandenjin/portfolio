@@ -9,9 +9,30 @@ import { emitContent } from "./content-emit"
 import { copyAssets } from "./copy-assets"
 import { normalizeImagePathsInHtml } from "./normalize-paths"
 import { withBodyHtmlAdditionalProperty } from "./jsonld"
+import { addImageVariantsToHtml, expandJsonLdImages } from "./image-variants"
+import type { JsonLdBase } from "../src/types/content"
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
+
+async function prepareItem<
+  T extends { id: string; jsonld: JsonLdBase; body_html: string },
+>(
+  item: T,
+  contentType: "works" | "events" | "news" | "profile",
+  projectRoot: string,
+): Promise<T> {
+  const bodyHtml = await addImageVariantsToHtml(
+    normalizeImagePathsInHtml(item.body_html, contentType, item.id),
+    projectRoot,
+  )
+  const jsonld = await expandJsonLdImages(item.jsonld, projectRoot)
+  return {
+    ...item,
+    body_html: bodyHtml,
+    jsonld: withBodyHtmlAdditionalProperty(jsonld, bodyHtml),
+  }
+}
 
 async function build() {
   const rootDir = join(__dirname, "..")
@@ -37,51 +58,16 @@ async function build() {
     `Parsed ${works.length} works, ${events.length} events, ${news.length} news, profile`,
   )
 
-  // 3. Normalize paths
-  console.log("\n3. Normalizing paths...")
-  works = works.map((work) => {
-    const bodyHtml = normalizeImagePathsInHtml(work.body_html, "works", work.id)
-    return {
-      ...work,
-      body_html: bodyHtml,
-      jsonld: withBodyHtmlAdditionalProperty(work.jsonld, bodyHtml),
-    }
-  })
-
-  events = events.map((event) => {
-    const bodyHtml = normalizeImagePathsInHtml(
-      event.body_html,
-      "events",
-      event.id,
-    )
-    return {
-      ...event,
-      body_html: bodyHtml,
-      jsonld: withBodyHtmlAdditionalProperty(event.jsonld, bodyHtml),
-    }
-  })
-
-  news = news.map((item) => {
-    const bodyHtml = normalizeImagePathsInHtml(item.body_html, "news", item.id)
-    return {
-      ...item,
-      body_html: bodyHtml,
-      jsonld: withBodyHtmlAdditionalProperty(item.jsonld, bodyHtml),
-    }
-  })
-
-  {
-    const bodyHtml = normalizeImagePathsInHtml(
-      profile.body_html,
-      "profile",
-      profile.id,
-    )
-    profile = {
-      ...profile,
-      body_html: bodyHtml,
-      jsonld: withBodyHtmlAdditionalProperty(profile.jsonld, bodyHtml),
-    }
-  }
+  // 3. Normalize paths and attach image variants (srcset / intrinsic size)
+  console.log("\n3. Normalizing paths and image variants...")
+  works = await Promise.all(
+    works.map((w) => prepareItem(w, "works", projectRoot)),
+  )
+  events = await Promise.all(
+    events.map((e) => prepareItem(e, "events", projectRoot)),
+  )
+  news = await Promise.all(news.map((n) => prepareItem(n, "news", projectRoot)))
+  profile = await prepareItem(profile, "profile", projectRoot)
 
   // 4. Emit content module
   console.log("\n4. Emitting content module...")

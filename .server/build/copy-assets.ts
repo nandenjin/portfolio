@@ -1,4 +1,4 @@
-import { cp, readdir } from "fs/promises"
+import { cp, readdir, writeFile } from "fs/promises"
 import { join } from "path"
 
 /**
@@ -59,4 +59,18 @@ export async function copyAssets(
   if (copied === 0) {
     throw new Error(`No assets were copied from ${srcDir}`)
   }
+
+  await writeFile(join(destDir, "_headers"), STATIC_HEADERS)
 }
+
+/**
+ * Cache policy for `/static/*` (Workers Static Assets `_headers`).
+ *
+ * Cloudflare Image Transformations cache their output following the source
+ * image's Cache-Control (1 hour minimum), so a long TTL here raises the edge
+ * hit rate of every resized variant. File names carry no content hash, hence
+ * no `immutable`: after replacing an image under the same name, purge the cache.
+ */
+const STATIC_HEADERS = `/static/*
+  Cache-Control: public, max-age=86400, s-maxage=2592000, stale-while-revalidate=86400
+`
