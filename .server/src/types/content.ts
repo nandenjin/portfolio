@@ -15,14 +15,12 @@ export interface Work {
   id: string
   jsonld: JsonLdBase
   body_html: string
-  created_at?: string
 }
 
 export interface Event {
   id: string
   jsonld: JsonLdBase
   body_html: string
-  created_at?: string
 }
 
 export interface EventLocation {
@@ -43,14 +41,24 @@ export interface News {
   id: string
   jsonld: JsonLdBase
   body_html: string
-  created_at?: string
 }
 
 export interface Profile {
   id: "profile"
   jsonld: JsonLdBase
   body_html: string
-  created_at?: string
+}
+
+/**
+ * All content baked into the Worker at build time (`src/content.gen.ts`).
+ *
+ * `works`, `events` and `news` are pre-sorted newest first.
+ */
+export interface ContentBundle {
+  works: Work[]
+  events: Event[]
+  news: News[]
+  profile: Profile
 }
 
 export interface WorkFrontmatter {

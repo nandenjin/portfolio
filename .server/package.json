@@ -4,29 +4,22 @@
   "type": "module",
   "scripts": {
     "prebuild": "npm run clean && tsx build/index.ts",
-    "build": "ncc build src/index.ts -o dist",
-    "build:watch": "npm run build -- --watch",
-    "dev": "run-p build:watch start:watch",
-    "start:watch": "nodemon dist/index.js",
-    "start": "NODE_ENV=production node dist/index.js",
+    "build": "wrangler deploy --dry-run --outdir=dist/worker",
+    "pretypecheck": "npm run prebuild",
     "typecheck": "tsc --noEmit",
-    "clean": "rm -rf dist/"
+    "dev": "npm run prebuild && wrangler dev",
+    "deploy": "npm run prebuild && wrangler deploy",
+    "clean": "rm -rf dist/ src/content.gen.ts"
   },
   "dependencies": {
-    "@hono/node-server": "1.19.8",
-    "better-sqlite3": "12.6.0",
-    "gray-matter": "4.0.3",
-    "hono": "4.11.3",
-    "markdown-it": "14.1.0"
+    "hono": "4.11.3"
   },
   "devDependencies": {
-    "@types/better-sqlite3": "7.6.13",
     "@types/markdown-it": "14.1.2",
     "@types/node": "25.0.6",
-    "@vercel/ncc": "0.38.4",
-    "nodemon": "3.1.11",
-    "npm-run-all2": "8.0.4",
+    "markdown-it": "14.1.0",
     "tsx": "4.21.0",
-    "typescript": "5.9.3"
+    "typescript": "5.9.3",
+    "wrangler": "4.135.0"
   }
 }

@@ -1,8 +1,0 @@
-**
-!**/*.md
-!.server/build
-!.server/src
-!.server/package.json
-!.server/tsconfig.json
-!package*.json
-!tsconfig.json

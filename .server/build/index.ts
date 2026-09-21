@@ -5,7 +5,7 @@ import { parseWorks } from "./models/works/parser"
 import { parseEvents } from "./models/events/parser"
 import { parseNews } from "./models/news/parser"
 import { parseProfile } from "./models/profile/parser"
-import { populateDatabase } from "./db-populate"
+import { emitContent } from "./content-emit"
 import { copyAssets } from "./copy-assets"
 import { normalizeImagePathsInHtml } from "./normalize-paths"
 import { withBodyHtmlAdditionalProperty } from "./jsonld"
@@ -17,13 +17,14 @@ async function build() {
   const rootDir = join(__dirname, "..")
   const projectRoot = join(rootDir, "..")
   const distDir = join(rootDir, "dist")
+  const publicDir = join(distDir, "public")
 
   console.log("Starting build...")
   console.log("Project root:", projectRoot)
   console.log("Dist dir:", distDir)
 
-  // 1. Clean dist
-  await mkdir(distDir, { recursive: true })
+  // 1. Prepare output dir (only dist/public is uploaded as static assets)
+  await mkdir(publicDir, { recursive: true })
 
   // 2. Parse content
   console.log("\n2. Parsing markdown files...")
@@ -82,18 +83,18 @@ async function build() {
     }
   }
 
-  // 4. Populate database
-  console.log("\n4. Creating database...")
-  const dbPath = join(distDir, "portfolio.db")
-  populateDatabase(dbPath, works, events, news, profile)
+  // 4. Emit content module
+  console.log("\n4. Emitting content module...")
+  const contentPath = join(rootDir, "src", "content.gen.ts")
+  await emitContent(contentPath, works, events, news, profile)
 
   // 5. Copy assets
   console.log("\n5. Copying assets...")
-  await copyAssets(projectRoot, distDir)
+  await copyAssets(projectRoot, publicDir)
 
   console.log("\n✓ Build complete!")
-  console.log(`  Database: ${dbPath}`)
-  console.log(`  Static assets: ${join(distDir, "static")}`)
+  console.log(`  Content: ${contentPath}`)
+  console.log(`  Static assets: ${join(publicDir, "static")}`)
 }
 
 build().catch((error) => {
