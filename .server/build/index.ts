@@ -8,7 +8,7 @@ import { parseProfile } from "./models/profile/parser"
 import { emitContent } from "./content-emit"
 import { copyAssets } from "./copy-assets"
 import { normalizeImagePathsInHtml } from "./normalize-paths"
-import { withBodyHtmlAdditionalProperty } from "./jsonld"
+import { resolveContentLinks, withBodyHtmlAdditionalProperty } from "./jsonld"
 import { addImageVariantsToHtml, expandJsonLdImages } from "./image-variants"
 import type { JsonLdBase } from "../src/types/content"
 
@@ -26,7 +26,10 @@ async function prepareItem<
     normalizeImagePathsInHtml(item.body_html, contentType, item.id),
     projectRoot,
   )
-  const jsonld = await expandJsonLdImages(item.jsonld, projectRoot)
+  const jsonld = await expandJsonLdImages(
+    resolveContentLinks(item.jsonld),
+    projectRoot,
+  )
   return {
     ...item,
     body_html: bodyHtml,
