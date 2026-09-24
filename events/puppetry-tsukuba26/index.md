@@ -55,6 +55,23 @@
     "ja",
     "en"
   ],
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+  "location": [
+    {
+      "@type": "VirtualLocation",
+      "name": [
+        {
+          "@value": "オンライン（Zoom）",
+          "@language": "ja"
+        },
+        {
+          "@value": "Online (Zoom)",
+          "@language": "en"
+        }
+      ],
+      "url": "/events/puppetry-tsukuba26"
+    }
+  ],
   "workFeatured": [
     {
       "@type": "CreativeWork",
