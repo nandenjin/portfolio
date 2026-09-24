@@ -52,8 +52,8 @@
   "image": [
     "/works/tsukulive19/0.jpg"
   ],
-  "url": "/news/200124_making-notes",
-  "mainEntityOfPage": "/news/200124_making-notes",
+  "url": "/news/200124_making-notes/index.md",
+  "mainEntityOfPage": "/news/200124_making-notes/index.md",
   "mentions": [
     {
       "@type": "Thing",
@@ -61,7 +61,7 @@
     },
     {
       "@type": "Thing",
-      "url": "/works/tsukulive19"
+      "url": "/works/tsukulive19/index.md"
     }
   ]
 }

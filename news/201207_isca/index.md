@@ -51,12 +51,12 @@
   "image": [
     "/works/sympathy/sympathy_main.jpg"
   ],
-  "url": "/news/201207_isca",
-  "mainEntityOfPage": "/news/201207_isca",
+  "url": "/news/201207_isca/index.md",
+  "mainEntityOfPage": "/news/201207_isca/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/sympathy"
+      "url": "/works/sympathy/index.md"
     },
     {
       "@type": "Thing",

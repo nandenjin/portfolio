@@ -50,8 +50,8 @@
     "lighting"
   ],
   "image": [],
-  "url": "/news/191101_tsukulive",
-  "mainEntityOfPage": "/news/191101_tsukulive",
+  "url": "/news/191101_tsukulive/index.md",
+  "mainEntityOfPage": "/news/191101_tsukulive/index.md",
   "mentions": []
 }
 </script>

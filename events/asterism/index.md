@@ -92,7 +92,7 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/ushio-rpng-walk"
+      "url": "/works/ushio-rpng-walk/index.md"
     }
   ],
   "sameAs": [],
@@ -104,7 +104,7 @@
     "/works/ushio-rpng-walk/overview_night.jpg",
     "/works/ushio-rpng-walk/outside_night.jpg"
   ],
-  "url": "/events/asterism",
-  "mainEntityOfPage": "/events/asterism"
+  "url": "/events/asterism/index.md",
+  "mainEntityOfPage": "/events/asterism/index.md"
 }
 </script>

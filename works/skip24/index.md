@@ -48,8 +48,8 @@ Designed a recruitment flyer for [Tsukuba SKIP Academy](https://skip.tsukuba.ac.
     "/works/skip24/front.jpg",
     "/works/skip24/back.jpg"
   ],
-  "url": "/works/skip24",
-  "mainEntityOfPage": "/works/skip24",
+  "url": "/works/skip24/index.md",
+  "mainEntityOfPage": "/works/skip24/index.md",
   "mentions": [
     {
       "@type": "Thing",

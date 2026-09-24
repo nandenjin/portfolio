@@ -58,8 +58,8 @@
     "/works/kamine-baby/05.png",
     "/works/kamine-baby/06.png"
   ],
-  "url": "/works/kamine-baby",
-  "mainEntityOfPage": "/works/kamine-baby",
+  "url": "/works/kamine-baby/index.md",
+  "mainEntityOfPage": "/works/kamine-baby/index.md",
   "mentions": [
     {
       "@type": "Thing",

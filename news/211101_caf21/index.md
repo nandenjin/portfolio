@@ -52,8 +52,8 @@
   "image": [
     "/events/caf21/caf21_banner.jpg"
   ],
-  "url": "/news/211101_caf21",
-  "mainEntityOfPage": "/news/211101_caf21",
+  "url": "/news/211101_caf21/index.md",
+  "mainEntityOfPage": "/news/211101_caf21/index.md",
   "mentions": [
     {
       "@type": "Thing",
@@ -61,11 +61,11 @@
     },
     {
       "@type": "Thing",
-      "url": "/events/caf21"
+      "url": "/events/caf21/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/events/residents21"
+      "url": "/events/residents21/index.md"
     }
   ]
 }

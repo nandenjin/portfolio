@@ -51,12 +51,12 @@ BEAUTIFULLの企画サイト、「BEAUTIFULL IMAGE GENERATOR」の画面デザ�
     "design"
   ],
   "image": [],
-  "url": "/news/200527_fyb",
-  "mainEntityOfPage": "/news/200527_fyb",
+  "url": "/news/200527_fyb/index.md",
+  "mainEntityOfPage": "/news/200527_fyb/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/fyb"
+      "url": "/works/fyb/index.md"
     }
   ]
 }

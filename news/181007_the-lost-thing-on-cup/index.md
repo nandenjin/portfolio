@@ -36,12 +36,12 @@
     "tsukuba-neu"
   ],
   "image": [],
-  "url": "/news/181007_the-lost-thing-on-cup",
-  "mainEntityOfPage": "/news/181007_the-lost-thing-on-cup",
+  "url": "/news/181007_the-lost-thing-on-cup/index.md",
+  "mainEntityOfPage": "/news/181007_the-lost-thing-on-cup/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/the-lost-thing"
+      "url": "/works/the-lost-thing/index.md"
     }
   ]
 }

@@ -39,7 +39,7 @@
   "workFeatured": [],
   "sameAs": [],
   "image": [],
-  "url": "/events/t-tasu18",
-  "mainEntityOfPage": "/events/t-tasu18"
+  "url": "/events/t-tasu18/index.md",
+  "mainEntityOfPage": "/events/t-tasu18/index.md"
 }
 </script>

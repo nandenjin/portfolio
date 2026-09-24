@@ -56,12 +56,12 @@ Starting today, you can request a copy (free of charge) through [Contemporary Ar
     "takuto-okamoto"
   ],
   "image": [],
-  "url": "/news/230822_ushio-rpng-catalog",
-  "mainEntityOfPage": "/news/230822_ushio-rpng-catalog",
+  "url": "/news/230822_ushio-rpng-catalog/index.md",
+  "mainEntityOfPage": "/news/230822_ushio-rpng-catalog/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/events/caf-ushio"
+      "url": "/events/caf-ushio/index.md"
     }
   ]
 }

@@ -136,7 +136,7 @@ Parking is available at the Tsukuba Urban Transport Centre car park attached to 
     "/events/tsukuba24/window_0.jpg",
     "/events/tsukuba24/entrance_1.jpg"
   ],
-  "url": "/events/tsukuba24",
-  "mainEntityOfPage": "/events/tsukuba24"
+  "url": "/events/tsukuba24/index.md",
+  "mainEntityOfPage": "/events/tsukuba24/index.md"
 }
 </script>

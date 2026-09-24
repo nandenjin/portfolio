@@ -77,14 +77,14 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/layers"
+      "url": "/works/layers/index.md"
     }
   ],
   "sameAs": [
     "https://www.city.tsukuba.lg.jp/kankobunka/event/1014969.html"
   ],
   "image": [],
-  "url": "/events/tmaf21",
-  "mainEntityOfPage": "/events/tmaf21"
+  "url": "/events/tmaf21/index.md",
+  "mainEntityOfPage": "/events/tmaf21/index.md"
 }
 </script>

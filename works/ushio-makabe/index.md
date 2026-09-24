@@ -37,8 +37,8 @@
     "/works/ushio-makabe/overview.jpg",
     "/works/ushio-makabe/window.jpg"
   ],
-  "url": "/works/ushio-makabe",
-  "mainEntityOfPage": "/works/ushio-makabe",
+  "url": "/works/ushio-makabe/index.md",
+  "mainEntityOfPage": "/works/ushio-makabe/index.md",
   "mentions": [
     {
       "@type": "Thing",

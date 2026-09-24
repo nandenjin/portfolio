@@ -60,8 +60,8 @@
     "/works/laika/laika_02.jpg",
     "/works/laika/laika_03.jpg"
   ],
-  "url": "/works/laika",
-  "mainEntityOfPage": "/works/laika",
+  "url": "/works/laika/index.md",
+  "mainEntityOfPage": "/works/laika/index.md",
   "mentions": [
     {
       "@type": "Thing",

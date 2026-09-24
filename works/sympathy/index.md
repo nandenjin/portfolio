@@ -72,8 +72,8 @@ Worked as a unit "I/O" with Taikuto Okamoto. Okamoto is in charge of graphic and
     "/works/sympathy/sympathy_1.png",
     "/works/sympathy/sympathy_wide.jpg"
   ],
-  "url": "/works/sympathy",
-  "mainEntityOfPage": "/works/sympathy",
+  "url": "/works/sympathy/index.md",
+  "mainEntityOfPage": "/works/sympathy/index.md",
   "mentions": [
     {
       "@type": "Thing",

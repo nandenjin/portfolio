@@ -65,8 +65,8 @@ As part of a class related to the museum curatorial qualification, planned an ex
     "/works/ut-collection-perspective/thumbnail_view.jpg",
     "/works/ut-collection-perspective/thumbnail_making.jpg"
   ],
-  "url": "/works/ut-collection-perspective",
-  "mainEntityOfPage": "/works/ut-collection-perspective",
+  "url": "/works/ut-collection-perspective/index.md",
+  "mainEntityOfPage": "/works/ut-collection-perspective/index.md",
   "mentions": [
     {
       "@type": "Thing",

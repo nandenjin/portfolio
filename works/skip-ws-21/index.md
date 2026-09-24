@@ -70,8 +70,8 @@ Designed and taught programming practice materials at [Tsukuba SKIP Academy](htt
     "/works/skip-ws-21/01.jpg",
     "/works/skip-ws-21/02.jpg"
   ],
-  "url": "/works/skip-ws-21",
-  "mainEntityOfPage": "/works/skip-ws-21",
+  "url": "/works/skip-ws-21/index.md",
+  "mainEntityOfPage": "/works/skip-ws-21/index.md",
   "mentions": [
     {
       "@type": "Thing",

@@ -69,20 +69,20 @@
           "@language": "en"
         }
       ],
-      "url": "/events/puppetry-tsukuba26"
+      "url": "/events/puppetry-tsukuba26/index.md"
     }
   ],
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/yamaneko"
+      "url": "/works/yamaneko/index.md"
     }
   ],
   "image": [
     "/works/yamaneko/sohosai_hk_brush.jpg",
     "/events/puppetry-tsukuba26/puppet_kit_cover.jpg"
   ],
-  "url": "/events/puppetry-tsukuba26",
-  "mainEntityOfPage": "/events/puppetry-tsukuba26"
+  "url": "/events/puppetry-tsukuba26/index.md",
+  "mainEntityOfPage": "/events/puppetry-tsukuba26/index.md"
 }
 </script>

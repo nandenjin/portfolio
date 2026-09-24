@@ -52,12 +52,12 @@
     "/works/laika/laika_00.jpg",
     "/works/laika/laika_03.jpg"
   ],
-  "url": "/news/210324_ham20",
-  "mainEntityOfPage": "/news/210324_ham20",
+  "url": "/news/210324_ham20/index.md",
+  "mainEntityOfPage": "/news/210324_ham20/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/laika"
+      "url": "/works/laika/index.md"
     },
     {
       "@type": "Thing",

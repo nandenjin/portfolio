@@ -54,26 +54,26 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/residents"
+      "url": "/works/residents/index.md"
     },
     {
       "@type": "CreativeWork",
-      "url": "/works/carillon"
+      "url": "/works/carillon/index.md"
     },
     {
       "@type": "CreativeWork",
-      "url": "/works/sympathy"
+      "url": "/works/sympathy/index.md"
     },
     {
       "@type": "CreativeWork",
-      "url": "/works/pattern"
+      "url": "/works/design-pattern/index.md"
     }
   ],
   "sameAs": [
     "https://twitter.com/hamhamham2019"
   ],
   "image": [],
-  "url": "/events/ham19",
-  "mainEntityOfPage": "/events/ham19"
+  "url": "/events/ham19/index.md",
+  "mainEntityOfPage": "/events/ham19/index.md"
 }
 </script>

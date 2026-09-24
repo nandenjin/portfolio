@@ -45,8 +45,8 @@
     "https://img.youtube.com/vi/KEgM7aSu0YY/maxresdefault.jpg",
     "https://img.youtube.com/vi/ZGzpH1s_Y0U/maxresdefault.jpg"
   ],
-  "url": "/works/ri",
-  "mainEntityOfPage": "/works/ri",
+  "url": "/works/ri/index.md",
+  "mainEntityOfPage": "/works/ri/index.md",
   "mentions": [
     {
       "@type": "Thing",

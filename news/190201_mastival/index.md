@@ -56,16 +56,16 @@
     "exhibition-mastival"
   ],
   "image": [],
-  "url": "/news/190201_mastival",
-  "mainEntityOfPage": "/news/190201_mastival",
+  "url": "/news/190201_mastival/index.md",
+  "mainEntityOfPage": "/news/190201_mastival/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/ri"
+      "url": "/works/ri/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/works/sympathy"
+      "url": "/works/sympathy/index.md"
     }
   ]
 }

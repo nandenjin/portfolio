@@ -46,16 +46,16 @@
     "takuto-okamoto"
   ],
   "image": [],
-  "url": "/news/211028_at21",
-  "mainEntityOfPage": "/news/211028_at21",
+  "url": "/news/211028_at21/index.md",
+  "mainEntityOfPage": "/news/211028_at21/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/sympathy"
+      "url": "/works/sympathy/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/works/residents"
+      "url": "/works/residents/index.md"
     }
   ]
 }

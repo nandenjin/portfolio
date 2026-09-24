@@ -53,8 +53,8 @@
     "/works/ham19web/ham19web_04.png",
     "/works/ham19web/ham19web_05.png"
   ],
-  "url": "/works/ham19web",
-  "mainEntityOfPage": "/works/ham19web",
+  "url": "/works/ham19web/index.md",
+  "mainEntityOfPage": "/works/ham19web/index.md",
   "mentions": [
     {
       "@type": "Thing",

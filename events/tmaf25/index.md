@@ -132,7 +132,7 @@ TEL: 029-883-1111 (Main)
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/room-of-observation"
+      "url": "/works/room-of-observation/index.md"
     }
   ],
   "sameAs": [
@@ -143,7 +143,7 @@ TEL: 029-883-1111 (Main)
     "/events/tmaf25/flyer_b.jpg",
     "/works/room-of-observation/overview.jpg"
   ],
-  "url": "/events/tmaf25",
-  "mainEntityOfPage": "/events/tmaf25"
+  "url": "/events/tmaf25/index.md",
+  "mainEntityOfPage": "/events/tmaf25/index.md"
 }
 </script>

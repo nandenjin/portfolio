@@ -36,12 +36,12 @@
     "tsukuba-neu"
   ],
   "image": [],
-  "url": "/news/181229_sobo-magazine",
-  "mainEntityOfPage": "/news/181229_sobo-magazine",
+  "url": "/news/181229_sobo-magazine/index.md",
+  "mainEntityOfPage": "/news/181229_sobo-magazine/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/the-lost-thing"
+      "url": "/works/the-lost-thing/index.md"
     }
   ]
 }

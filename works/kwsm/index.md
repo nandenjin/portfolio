@@ -117,8 +117,8 @@ The first version of this work was produced under the guidance of [Naohiro OSHIO
     "/works/kwsm/gallery_5.jpg",
     "/works/kwsm/interview_1.jpg"
   ],
-  "url": "/works/kwsm",
-  "mainEntityOfPage": "/works/kwsm",
+  "url": "/works/kwsm/index.md",
+  "mainEntityOfPage": "/works/kwsm/index.md",
   "mentions": [
     {
       "@type": "Thing",

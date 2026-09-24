@@ -208,7 +208,7 @@ artkameyama[at]gmail.com
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/ushio-kameyama"
+      "url": "/works/ushio-kameyama/index.md"
     }
   ],
   "sameAs": [
@@ -221,7 +221,7 @@ artkameyama[at]gmail.com
     "/events/kmym21/zoom_0.jpg",
     "/events/kmym21/outdoor_view.jpg"
   ],
-  "url": "/events/kmym21",
-  "mainEntityOfPage": "/events/kmym21"
+  "url": "/events/kmym21/index.md",
+  "mainEntityOfPage": "/events/kmym21/index.md"
 }
 </script>

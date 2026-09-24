@@ -99,8 +99,8 @@ The project was planned by "GFEST by University of Tsukuba", a social collaborat
     "/works/gfest-guide-video/capture_tabuchi-0.jpg",
     "/works/gfest-guide-video/capture_ebisu-0.jpg"
   ],
-  "url": "/works/gfest-guide-video",
-  "mainEntityOfPage": "/works/gfest-guide-video",
+  "url": "/works/gfest-guide-video/index.md",
+  "mainEntityOfPage": "/works/gfest-guide-video/index.md",
   "mentions": [
     {
       "@type": "Thing",

@@ -59,18 +59,18 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/ri"
+      "url": "/works/ri/index.md"
     },
     {
       "@type": "CreativeWork",
-      "url": "/works/sympathy"
+      "url": "/works/sympathy/index.md"
     }
   ],
   "sameAs": [
     "https://mastival.netlify.app/"
   ],
   "image": [],
-  "url": "/events/mastival",
-  "mainEntityOfPage": "/events/mastival"
+  "url": "/events/mastival/index.md",
+  "mainEntityOfPage": "/events/mastival/index.md"
 }
 </script>

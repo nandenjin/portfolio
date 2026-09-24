@@ -54,8 +54,8 @@ I was responsible for the design and implementation of the website for the solo 
     "/works/caf-kanno/screenshot_2.png",
     "/works/caf-kanno/screenshot_3.png"
   ],
-  "url": "/works/caf-kanno",
-  "mainEntityOfPage": "/works/caf-kanno",
+  "url": "/works/caf-kanno/index.md",
+  "mainEntityOfPage": "/works/caf-kanno/index.md",
   "mentions": [
     {
       "@type": "Thing",

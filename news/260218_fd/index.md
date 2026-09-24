@@ -69,8 +69,8 @@ In the lesson, he explores observation methods for conveying the appeal of objec
     "/news/260218_fd/screenshot_02.jpg",
     "/news/260218_fd/screenshot_03.jpg"
   ],
-  "url": "/news/260218_fd",
-  "mainEntityOfPage": "/news/260218_fd",
+  "url": "/news/260218_fd/index.md",
+  "mainEntityOfPage": "/news/260218_fd/index.md",
   "mentions": [
     {
       "@type": "Thing",

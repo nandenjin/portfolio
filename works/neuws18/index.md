@@ -49,8 +49,8 @@
     "/works/neuws18/neuws18_02.jpg",
     "/works/neuws18/neuws18_03.jpg"
   ],
-  "url": "/works/neuws18",
-  "mainEntityOfPage": "/works/neuws18",
+  "url": "/works/neuws18/index.md",
+  "mainEntityOfPage": "/works/neuws18/index.md",
   "mentions": [
     {
       "@type": "Thing",

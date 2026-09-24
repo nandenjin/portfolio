@@ -210,12 +210,24 @@ Internal links must be written as absolute paths:
 [Exhibition details](/events/kamine-expoc25/)
 ```
 
+### Links in JSON-LD
+
+Inside `<script type="application/ld+json">`, refer to site content by its file path, including the extension:
+
+```json
+"url": "/works/suzuna/index.md",
+"workFeatured": [{ "@type": "CreativeWork", "url": "/works/suzuna/index.md" }]
+```
+
+The API build resolves these to resource paths (`/works/suzuna`), and the frontend turns them into page URLs.
+
 ### Link Validation
 
 The `.scripts/check-links.ts` script validates all links in Markdown files:
 
 - Checks existence of internal links (starting with `/` or `./`)
 - Validates thumbnails and related works in Front Matter
+- Checks that paths in JSON-LD point to existing files (not directories)
 
 ## Code Quality & Formatting
 

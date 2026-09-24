@@ -52,12 +52,12 @@
     "/works/gfest-guide-video/capture_ishida-0.jpg",
     "/works/gfest-guide-video/capture_tabuchi-0.jpg"
   ],
-  "url": "/news/220912_gfest-guide-video",
-  "mainEntityOfPage": "/news/220912_gfest-guide-video",
+  "url": "/news/220912_gfest-guide-video/index.md",
+  "mainEntityOfPage": "/news/220912_gfest-guide-video/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/gfest-guide-video"
+      "url": "/works/gfest-guide-video/index.md"
     },
     {
       "@type": "Thing",

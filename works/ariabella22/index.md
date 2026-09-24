@@ -42,8 +42,8 @@
   "image": [
     "/works/ariabella22/flyer.png"
   ],
-  "url": "/works/ariabella22",
-  "mainEntityOfPage": "/works/ariabella22",
+  "url": "/works/ariabella22/index.md",
+  "mainEntityOfPage": "/works/ariabella22/index.md",
   "mentions": [
     {
       "@type": "Thing",

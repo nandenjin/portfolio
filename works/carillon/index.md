@@ -56,8 +56,8 @@ An object that uses the entire building to tell the time. At the operating time,
     "/works/carillon/carillon_audience-0.jpg",
     "/works/carillon/carillon_audience-1.jpg"
   ],
-  "url": "/works/carillon",
-  "mainEntityOfPage": "/works/carillon",
+  "url": "/works/carillon/index.md",
+  "mainEntityOfPage": "/works/carillon/index.md",
   "mentions": [
     {
       "@type": "Thing",

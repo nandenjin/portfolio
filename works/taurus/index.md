@@ -48,8 +48,8 @@
     "/works/taurus/taurus_black.png",
     "/works/taurus/taurus_white+bg.jpg"
   ],
-  "url": "/works/taurus",
-  "mainEntityOfPage": "/works/taurus",
+  "url": "/works/taurus/index.md",
+  "mainEntityOfPage": "/works/taurus/index.md",
   "mentions": [
     {
       "@type": "Thing",

@@ -61,20 +61,20 @@
     "tsukuba-neu"
   ],
   "image": [],
-  "url": "/news/250426_kamine",
-  "mainEntityOfPage": "/news/250426_kamine",
+  "url": "/news/250426_kamine/index.md",
+  "mainEntityOfPage": "/news/250426_kamine/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/events/kamine-expoc25"
+      "url": "/events/kamine-expoc25/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/events/kamine-neo25"
+      "url": "/events/kamine-neo25/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/events/kamine-earth25"
+      "url": "/events/kamine-earth25/index.md"
     }
   ]
 }

@@ -46,11 +46,11 @@ Stories which can be understanded in 3 secs: Birch of Inaba　/ 3秒で理解で
     "graphic"
   ],
   "image": [
-    "/study/study_00.jpg",
-    "/study/study_01.jpg"
+    "/works/study/study_00.jpg",
+    "/works/study/study_01.jpg"
   ],
-  "url": "/works/study",
-  "mainEntityOfPage": "/works/study",
+  "url": "/works/study/index.md",
+  "mainEntityOfPage": "/works/study/index.md",
   "mentions": []
 }
 </script>

@@ -73,8 +73,8 @@
     "/works/yamaneko/sohosai_kd_neko.jpg",
     "/works/yamaneko/sohosai_audience_1.jpg"
   ],
-  "url": "/works/yamaneko",
-  "mainEntityOfPage": "/works/yamaneko",
+  "url": "/works/yamaneko/index.md",
+  "mainEntityOfPage": "/works/yamaneko/index.md",
   "mentions": [
     {
       "@type": "Thing",

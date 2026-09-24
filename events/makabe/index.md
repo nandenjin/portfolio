@@ -93,7 +93,7 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/ushio-makabe"
+      "url": "/works/ushio-makabe/index.md"
     }
   ],
   "sameAs": [],
@@ -104,7 +104,7 @@
     "/works/ushio-makabe/stairs.jpg",
     "/works/ushio-makabe/stairs-zoom.jpg"
   ],
-  "url": "/events/makabe",
-  "mainEntityOfPage": "/events/makabe"
+  "url": "/events/makabe/index.md",
+  "mainEntityOfPage": "/events/makabe/index.md"
 }
 </script>

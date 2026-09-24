@@ -112,8 +112,8 @@
     "/works/room-of-observation/items_aerial.jpg",
     "/works/room-of-observation/items_topo.jpg"
   ],
-  "url": "/works/room-of-observation",
-  "mainEntityOfPage": "/works/room-of-observation",
+  "url": "/works/room-of-observation/index.md",
+  "mainEntityOfPage": "/works/room-of-observation/index.md",
   "mentions": [
     {
       "@type": "Thing",

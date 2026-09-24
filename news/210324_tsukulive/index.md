@@ -45,16 +45,16 @@
     "lighting"
   ],
   "image": [],
-  "url": "/news/210324_tsukulive",
-  "mainEntityOfPage": "/news/210324_tsukulive",
+  "url": "/news/210324_tsukulive/index.md",
+  "mainEntityOfPage": "/news/210324_tsukulive/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/news/191101_tsukulive"
+      "url": "/news/191101_tsukulive/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/works/tsukulive19"
+      "url": "/works/tsukulive19/index.md"
     }
   ]
 }

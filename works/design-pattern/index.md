@@ -44,8 +44,8 @@
   "image": [
     "/works/design-pattern/design-pattern_0.png"
   ],
-  "url": "/works/design-pattern",
-  "mainEntityOfPage": "/works/design-pattern",
+  "url": "/works/design-pattern/index.md",
+  "mainEntityOfPage": "/works/design-pattern/index.md",
   "mentions": [
     {
       "@type": "Thing",

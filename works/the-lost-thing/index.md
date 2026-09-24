@@ -83,8 +83,8 @@
     "/works/the-lost-thing/the-lost-thing_signs.jpg",
     "/works/the-lost-thing/the-lost-thing_creatures.jpg"
   ],
-  "url": "/works/the-lost-thing",
-  "mainEntityOfPage": "/works/the-lost-thing",
+  "url": "/works/the-lost-thing/index.md",
+  "mainEntityOfPage": "/works/the-lost-thing/index.md",
   "mentions": [
     {
       "@type": "Thing",

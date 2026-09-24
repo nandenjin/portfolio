@@ -72,8 +72,8 @@ The lights in the windows of disused buildings are connected to the lights of so
     "/events/residents21/02.jpg",
     "https://img.youtube.com/vi/0GFfTeCohRE/maxresdefault.jpg"
   ],
-  "url": "/works/residents",
-  "mainEntityOfPage": "/works/residents",
+  "url": "/works/residents/index.md",
+  "mainEntityOfPage": "/works/residents/index.md",
   "mentions": [
     {
       "@type": "Thing",

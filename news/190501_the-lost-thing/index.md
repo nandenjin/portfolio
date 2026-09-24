@@ -63,8 +63,8 @@
   "image": [
     "/works/the-lost-thing/the-lost-thing_cover.jpg"
   ],
-  "url": "/news/190501_the-lost-thing",
-  "mainEntityOfPage": "/news/190501_the-lost-thing",
+  "url": "/news/190501_the-lost-thing/index.md",
+  "mainEntityOfPage": "/news/190501_the-lost-thing/index.md",
   "mentions": [
     {
       "@type": "Thing",
@@ -72,7 +72,7 @@
     },
     {
       "@type": "Thing",
-      "url": "/works/the-lost-thing"
+      "url": "/works/the-lost-thing/index.md"
     }
   ]
 }

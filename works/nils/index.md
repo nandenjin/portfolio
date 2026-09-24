@@ -121,8 +121,8 @@
     "/works/nils/14.jpg",
     "/works/nils/15.jpg"
   ],
-  "url": "/works/nils",
-  "mainEntityOfPage": "/works/nils",
+  "url": "/works/nils/index.md",
+  "mainEntityOfPage": "/works/nils/index.md",
   "mentions": [
     {
       "@type": "Thing",

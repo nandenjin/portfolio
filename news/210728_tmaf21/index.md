@@ -73,8 +73,8 @@
   "image": [
     "/works/layers/pre_00.png"
   ],
-  "url": "/news/210728_tmaf21",
-  "mainEntityOfPage": "/news/210728_tmaf21",
+  "url": "/news/210728_tmaf21/index.md",
+  "mainEntityOfPage": "/news/210728_tmaf21/index.md",
   "mentions": [
     {
       "@type": "Thing",
@@ -82,7 +82,7 @@
     },
     {
       "@type": "Thing",
-      "url": "/events/tmaf21"
+      "url": "/events/tmaf21/index.md"
     }
   ]
 }

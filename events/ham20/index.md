@@ -51,14 +51,14 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/laika"
+      "url": "/works/laika/index.md"
     }
   ],
   "sameAs": [
     "https://twitter.com/hamhamham2019"
   ],
   "image": [],
-  "url": "/events/ham20",
-  "mainEntityOfPage": "/events/ham20"
+  "url": "/events/ham20/index.md",
+  "mainEntityOfPage": "/events/ham20/index.md"
 }
 </script>

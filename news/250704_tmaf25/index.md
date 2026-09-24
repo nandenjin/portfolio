@@ -73,8 +73,8 @@ The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsuku
   "image": [
     "/events/tmaf25/flyer_a.jpg"
   ],
-  "url": "/news/250704_tmaf25",
-  "mainEntityOfPage": "/news/250704_tmaf25",
+  "url": "/news/250704_tmaf25/index.md",
+  "mainEntityOfPage": "/news/250704_tmaf25/index.md",
   "mentions": [
     {
       "@type": "Thing",
@@ -82,7 +82,7 @@ The "Tsukuba Media Art Festival" started in 2014 with the aim of promoting Tsuku
     },
     {
       "@type": "Thing",
-      "url": "/events/tmaf25"
+      "url": "/events/tmaf25/index.md"
     }
   ]
 }

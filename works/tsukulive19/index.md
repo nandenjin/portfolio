@@ -56,8 +56,8 @@
     "/works/tsukulive19/2.jpg",
     "/works/tsukulive19/3.jpg"
   ],
-  "url": "/works/tsukulive19",
-  "mainEntityOfPage": "/works/tsukulive19",
+  "url": "/works/tsukulive19/index.md",
+  "mainEntityOfPage": "/works/tsukulive19/index.md",
   "mentions": [
     {
       "@type": "Thing",

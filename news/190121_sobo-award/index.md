@@ -33,12 +33,12 @@
     "electronic"
   ],
   "image": [],
-  "url": "/news/190121_sobo-award",
-  "mainEntityOfPage": "/news/190121_sobo-award",
+  "url": "/news/190121_sobo-award/index.md",
+  "mainEntityOfPage": "/news/190121_sobo-award/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/ri"
+      "url": "/works/ri/index.md"
     }
   ]
 }

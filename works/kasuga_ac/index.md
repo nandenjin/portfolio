@@ -53,8 +53,8 @@
     "/works/kasuga_ac/kasuga-ac_message.png",
     "/works/kasuga_ac/kasuga-ac_promo.jpg"
   ],
-  "url": "/works/kasuga_ac",
-  "mainEntityOfPage": "/works/kasuga_ac",
+  "url": "/works/kasuga_ac/index.md",
+  "mainEntityOfPage": "/works/kasuga_ac/index.md",
   "mentions": [
     {
       "@type": "Thing",

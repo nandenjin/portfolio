@@ -82,7 +82,7 @@
     "/events/neo24/neo24_cover_0.jpg",
     "/events/neo24/neo24_cover_1.jpg"
   ],
-  "url": "/events/neo24",
-  "mainEntityOfPage": "/events/neo24"
+  "url": "/events/neo24/index.md",
+  "mainEntityOfPage": "/events/neo24/index.md"
 }
 </script>

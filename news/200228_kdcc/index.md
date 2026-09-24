@@ -44,12 +44,12 @@
     "art"
   ],
   "image": [],
-  "url": "/news/200228_kdcc",
-  "mainEntityOfPage": "/news/200228_kdcc",
+  "url": "/news/200228_kdcc/index.md",
+  "mainEntityOfPage": "/news/200228_kdcc/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/residents"
+      "url": "/works/residents/index.md"
     }
   ]
 }

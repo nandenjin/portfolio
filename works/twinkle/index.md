@@ -56,8 +56,8 @@
     "/works/twinkle/twinkle_device.png",
     "/works/twinkle/twinkle_screenshot.png"
   ],
-  "url": "/works/twinkle",
-  "mainEntityOfPage": "/works/twinkle",
+  "url": "/works/twinkle/index.md",
+  "mainEntityOfPage": "/works/twinkle/index.md",
   "mentions": [
     {
       "@type": "Thing",

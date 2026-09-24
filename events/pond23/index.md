@@ -70,7 +70,7 @@
   "image": [
     "/events/pond23/thumbnail.jpg"
   ],
-  "url": "/events/pond23",
-  "mainEntityOfPage": "/events/pond23"
+  "url": "/events/pond23/index.md",
+  "mainEntityOfPage": "/events/pond23/index.md"
 }
 </script>

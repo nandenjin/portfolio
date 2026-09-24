@@ -61,24 +61,24 @@
     "exhibition-ham19"
   ],
   "image": [],
-  "url": "/news/190501_ham19",
-  "mainEntityOfPage": "/news/190501_ham19",
+  "url": "/news/190501_ham19/index.md",
+  "mainEntityOfPage": "/news/190501_ham19/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/residents"
+      "url": "/works/residents/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/works/carillon"
+      "url": "/works/carillon/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/works/sympathy"
+      "url": "/works/sympathy/index.md"
     },
     {
       "@type": "Thing",
-      "url": "/works/design-pattern"
+      "url": "/works/design-pattern/index.md"
     }
   ]
 }

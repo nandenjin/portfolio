@@ -52,8 +52,8 @@
     "/works/ushio-kameyama/screenshot_zoom_0.jpg",
     "/works/ushio-kameyama/screenshot_zoom_1.jpg"
   ],
-  "url": "/works/ushio-kameyama",
-  "mainEntityOfPage": "/works/ushio-kameyama",
+  "url": "/works/ushio-kameyama/index.md",
+  "mainEntityOfPage": "/works/ushio-kameyama/index.md",
   "mentions": [
     {
       "@type": "Thing",

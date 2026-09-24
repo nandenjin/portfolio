@@ -52,7 +52,7 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/ut-collection-perspective"
+      "url": "/works/ut-collection-perspective/index.md"
     }
   ],
   "sameAs": [
@@ -61,7 +61,7 @@
   "image": [
     "/works/ut-collection-perspective/thumbnail_view.jpg"
   ],
-  "url": "/events/perspective",
-  "mainEntityOfPage": "/events/perspective"
+  "url": "/events/perspective/index.md",
+  "mainEntityOfPage": "/events/perspective/index.md"
 }
 </script>

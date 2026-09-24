@@ -44,15 +44,15 @@
     "art"
   ],
   "image": [
-    "/himap/himap_00.jpg",
-    "/himap/himap_01.jpg",
-    "/himap/himap_02.jpg",
-    "/himap/himap_03.jpg",
-    "/himap/himap_04.jpg",
-    "/himap/himap_05.jpg"
+    "/works/himap/himap_00.jpg",
+    "/works/himap/himap_01.jpg",
+    "/works/himap/himap_02.jpg",
+    "/works/himap/himap_03.jpg",
+    "/works/himap/himap_04.jpg",
+    "/works/himap/himap_05.jpg"
   ],
-  "url": "/works/himap",
-  "mainEntityOfPage": "/works/himap",
+  "url": "/works/himap/index.md",
+  "mainEntityOfPage": "/works/himap/index.md",
   "mentions": []
 }
 </script>

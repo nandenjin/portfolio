@@ -88,8 +88,8 @@
     "/works/suzuna/08.jpg",
     "/works/suzuna/09.jpg"
   ],
-  "url": "/works/suzuna",
-  "mainEntityOfPage": "/works/suzuna",
+  "url": "/works/suzuna/index.md",
+  "mainEntityOfPage": "/works/suzuna/index.md",
   "mentions": [
     {
       "@type": "Thing",

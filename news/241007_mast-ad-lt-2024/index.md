@@ -43,8 +43,8 @@
   "image": [
     "https://i.ytimg.com/vi/cfZI92fZDrQ/maxresdefault.jpg"
   ],
-  "url": "/news/241007_mast-ad-lt-2024",
-  "mainEntityOfPage": "/news/241007_mast-ad-lt-2024",
+  "url": "/news/241007_mast-ad-lt-2024/index.md",
+  "mainEntityOfPage": "/news/241007_mast-ad-lt-2024/index.md",
   "mentions": []
 }
 </script>

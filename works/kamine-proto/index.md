@@ -42,8 +42,8 @@
     "/works/kamine-proto/inside.jpg",
     "/works/kamine-proto/overview_with-devas.jpg"
   ],
-  "url": "/works/kamine-proto",
-  "mainEntityOfPage": "/works/kamine-proto",
+  "url": "/works/kamine-proto/index.md",
+  "mainEntityOfPage": "/works/kamine-proto/index.md",
   "mentions": [
     {
       "@type": "Thing",

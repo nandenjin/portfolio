@@ -53,12 +53,12 @@
   "image": [
     "/events/caf21/caf21_0.jpg"
   ],
-  "url": "/news/211128_caf21_award",
-  "mainEntityOfPage": "/news/211128_caf21_award",
+  "url": "/news/211128_caf21_award/index.md",
+  "mainEntityOfPage": "/news/211128_caf21_award/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/events/caf21"
+      "url": "/events/caf21/index.md"
     },
     {
       "@type": "Thing",
@@ -66,7 +66,7 @@
     },
     {
       "@type": "Thing",
-      "url": "/events/residents21"
+      "url": "/events/residents21/index.md"
     }
   ]
 }

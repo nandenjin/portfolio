@@ -68,7 +68,7 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/kamine-proto"
+      "url": "/works/kamine-proto/index.md"
     }
   ],
   "sameAs": [
@@ -83,7 +83,7 @@
     "/events/kamine-expoc25/side_right_from_center.jpg",
     "/events/kamine-expoc25/devas_head_side.jpg"
   ],
-  "url": "/events/kamine-expoc25",
-  "mainEntityOfPage": "/events/kamine-expoc25"
+  "url": "/events/kamine-expoc25/index.md",
+  "mainEntityOfPage": "/events/kamine-expoc25/index.md"
 }
 </script>

@@ -47,8 +47,8 @@
     "exhibition-somewhere-far-away"
   ],
   "image": [],
-  "url": "/news/180901_t-tasu",
-  "mainEntityOfPage": "/news/180901_t-tasu",
+  "url": "/news/180901_t-tasu/index.md",
+  "mainEntityOfPage": "/news/180901_t-tasu/index.md",
   "mentions": []
 }
 </script>

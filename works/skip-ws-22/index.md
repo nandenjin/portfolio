@@ -94,12 +94,12 @@ In this year's project, a continuation of [the previous year](/works/skip-ws-21)
     "/works/skip-ws-22/focus_1.jpg",
     "/works/skip-ws-22/focus_2.jpg"
   ],
-  "url": "/works/skip-ws-22",
-  "mainEntityOfPage": "/works/skip-ws-22",
+  "url": "/works/skip-ws-22/index.md",
+  "mainEntityOfPage": "/works/skip-ws-22/index.md",
   "mentions": [
     {
       "@type": "Thing",
-      "url": "/works/skip-ws-21"
+      "url": "/works/skip-ws-21/index.md"
     },
     {
       "@type": "Thing",

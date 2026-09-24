@@ -45,8 +45,8 @@
     "/works/tkbneu18/tkbneu18_01.png",
     "/works/tkbneu18/tkbneu18_02.png"
   ],
-  "url": "/works/tkbneu18",
-  "mainEntityOfPage": "/works/tkbneu18",
+  "url": "/works/tkbneu18/index.md",
+  "mainEntityOfPage": "/works/tkbneu18/index.md",
   "mentions": [
     {
       "@type": "Thing",

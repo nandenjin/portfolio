@@ -41,12 +41,12 @@
     "tsukuba-neu"
   ],
   "image": [
-    "/encounter/encounter_2.jpg",
-    "/encounter/encounter_3.jpg",
-    "/encounter/encounter_pano.jpg"
+    "/works/encounter/encounter_2.jpg",
+    "/works/encounter/encounter_3.jpg",
+    "/works/encounter/encounter_pano.jpg"
   ],
-  "url": "/works/encounter",
-  "mainEntityOfPage": "/works/encounter",
+  "url": "/works/encounter/index.md",
+  "mainEntityOfPage": "/works/encounter/index.md",
   "mentions": []
 }
 </script>

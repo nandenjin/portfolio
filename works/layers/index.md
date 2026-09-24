@@ -84,8 +84,8 @@ These files comes from **Wellcome Images**, a website operated by Wellcome Trust
     "/works/layers/pre_01.png",
     "/works/layers/pre_02.png"
   ],
-  "url": "/works/layers",
-  "mainEntityOfPage": "/works/layers",
+  "url": "/works/layers/index.md",
+  "mainEntityOfPage": "/works/layers/index.md",
   "mentions": [
     {
       "@type": "Thing",
@@ -101,7 +101,7 @@ These files comes from **Wellcome Images**, a website operated by Wellcome Trust
     },
     {
       "@type": "Thing",
-      "url": "/works/sympathy"
+      "url": "/works/sympathy/index.md"
     }
   ]
 }

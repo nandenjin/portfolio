@@ -32,8 +32,8 @@
     "award"
   ],
   "image": [],
-  "url": "/news/210325_graduation",
-  "mainEntityOfPage": "/news/210325_graduation",
+  "url": "/news/210325_graduation/index.md",
+  "mainEntityOfPage": "/news/210325_graduation/index.md",
   "mentions": []
 }
 </script>

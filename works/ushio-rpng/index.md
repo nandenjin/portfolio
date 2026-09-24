@@ -89,8 +89,8 @@ The recording of the talk session at [exhibition "Ushio" (2023)](/events/caf-ush
     "/events/caf-ushio/view_2.jpg",
     "/events/caf-ushio/talk_0.jpg"
   ],
-  "url": "/works/ushio-rpng",
-  "mainEntityOfPage": "/works/ushio-rpng",
+  "url": "/works/ushio-rpng/index.md",
+  "mainEntityOfPage": "/works/ushio-rpng/index.md",
   "mentions": [
     {
       "@type": "Thing",
@@ -126,7 +126,7 @@ The recording of the talk session at [exhibition "Ushio" (2023)](/events/caf-ush
     },
     {
       "@type": "Thing",
-      "url": "/events/caf-ushio"
+      "url": "/events/caf-ushio/index.md"
     },
     {
       "@type": "Thing",

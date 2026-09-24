@@ -63,7 +63,7 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/residents"
+      "url": "/works/residents/index.md"
     }
   ],
   "sameAs": [
@@ -77,7 +77,7 @@
     "/events/caf21/caf21_2.jpg",
     "/events/caf21/caf21_3.jpg"
   ],
-  "url": "/events/caf21",
-  "mainEntityOfPage": "/events/caf21"
+  "url": "/events/caf21/index.md",
+  "mainEntityOfPage": "/events/caf21/index.md"
 }
 </script>

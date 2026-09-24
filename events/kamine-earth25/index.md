@@ -72,11 +72,11 @@ TAKUMA KAMINE SOLO EXHIBITION 宇宙と大地と… Project
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/kamine-baby"
+      "url": "/works/kamine-baby/index.md"
     },
     {
       "@type": "CreativeWork",
-      "url": "/works/kamine-proto"
+      "url": "/works/kamine-proto/index.md"
     }
   ],
   "sameAs": [
@@ -84,7 +84,7 @@ TAKUMA KAMINE SOLO EXHIBITION 宇宙と大地と… Project
     "https://neotsukuba.com/2025/04/21/%e3%80%90art-project%e3%80%91takuma-kamine-solo-exhbition%e5%ae%87%e5%ae%99%e3%81%a8%e5%a4%a7%e5%9c%b0%e3%81%a8-project/"
   ],
   "image": [],
-  "url": "/events/kamine-earth25",
-  "mainEntityOfPage": "/events/kamine-earth25"
+  "url": "/events/kamine-earth25/index.md",
+  "mainEntityOfPage": "/events/kamine-earth25/index.md"
 }
 </script>

@@ -80,7 +80,7 @@
   "workFeatured": [
     {
       "@type": "CreativeWork",
-      "url": "/works/residents"
+      "url": "/works/residents/index.md"
     }
   ],
   "sameAs": [],
@@ -90,7 +90,7 @@
     "/events/residents21/02.jpg",
     "/works/residents/residents_front-1.jpg"
   ],
-  "url": "/events/residents21",
-  "mainEntityOfPage": "/events/residents21"
+  "url": "/events/residents21/index.md",
+  "mainEntityOfPage": "/events/residents21/index.md"
 }
 </script>

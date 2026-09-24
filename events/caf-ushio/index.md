@@ -147,7 +147,7 @@ A field work and a talk session was held with [tomotosi](http://tomotosi.com/) &
     "/events/caf-ushio/view_3.jpg",
     "/events/caf-ushio/talk_0.jpg"
   ],
-  "url": "/events/caf-ushio",
-  "mainEntityOfPage": "/events/caf-ushio"
+  "url": "/events/caf-ushio/index.md",
+  "mainEntityOfPage": "/events/caf-ushio/index.md"
 }
 </script>

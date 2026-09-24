@@ -37,8 +37,8 @@
     "/works/sgym-card/sgym-a.png",
     "/works/sgym-card/sgym-b.png"
   ],
-  "url": "/works/sgym-card",
-  "mainEntityOfPage": "/works/sgym-card",
+  "url": "/works/sgym-card/index.md",
+  "mainEntityOfPage": "/works/sgym-card/index.md",
   "mentions": [
     {
       "@type": "Thing",

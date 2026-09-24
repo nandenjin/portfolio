@@ -59,8 +59,8 @@
     "/works/battle-collection/battle-collection_02.png",
     "/works/battle-collection/battle-collection_03.png"
   ],
-  "url": "/works/battle-collection",
-  "mainEntityOfPage": "/works/battle-collection",
+  "url": "/works/battle-collection/index.md",
+  "mainEntityOfPage": "/works/battle-collection/index.md",
   "mentions": [
     {
       "@type": "Thing",

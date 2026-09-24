@@ -44,8 +44,8 @@
     "/works/hannan-guitar/hannan-guitar_00.png",
     "/works/hannan-guitar/hannan-guitar_01.png"
   ],
-  "url": "/works/hannan-guitar",
-  "mainEntityOfPage": "/works/hannan-guitar",
+  "url": "/works/hannan-guitar/index.md",
+  "mainEntityOfPage": "/works/hannan-guitar/index.md",
   "mentions": [
     {
       "@type": "Thing",

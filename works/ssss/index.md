@@ -42,8 +42,8 @@
     "/works/ssss/ssss_00.jpg",
     "/works/ssss/ssss_03.jpg"
   ],
-  "url": "/works/ssss",
-  "mainEntityOfPage": "/works/ssss",
+  "url": "/works/ssss/index.md",
+  "mainEntityOfPage": "/works/ssss/index.md",
   "mentions": [
     {
       "@type": "Thing",

@@ -69,8 +69,8 @@ BEAUTIFULLメンバーの瀬能が撮影した写真から制作し[公式Instag
     "/works/fyb/sample-forest.jpg",
     "/works/fyb/sample-flower.jpg"
   ],
-  "url": "/works/fyb",
-  "mainEntityOfPage": "/works/fyb",
+  "url": "/works/fyb/index.md",
+  "mainEntityOfPage": "/works/fyb/index.md",
   "mentions": [
     {
       "@type": "Thing",

@@ -46,8 +46,8 @@
     "/works/mastival/mastival_logo.png",
     "/works/mastival/mastival_poster.jpg"
   ],
-  "url": "/works/mastival",
-  "mainEntityOfPage": "/works/mastival",
+  "url": "/works/mastival/index.md",
+  "mainEntityOfPage": "/works/mastival/index.md",
   "mentions": [
     {
       "@type": "Thing",

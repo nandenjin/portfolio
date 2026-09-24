@@ -72,6 +72,9 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
     }
   }
 
+  // Collect links in JSON-LD
+  links.push(...findJsonLdLinks(markdown))
+
   let hasError = false
   for (const link of links) {
     // Skip external links
@@ -86,7 +89,8 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
     )
 
     // Check if the file exists
-    if (existsSync(path)) {
+    // JSON-LD must point to files (e.g. /works/foo/index.md), not directories
+    if (link.fileOnly ? isFile(path) : existsSync(path)) {
       consola.trace(`OK: ${link.url}`)
     } else {
       consola.error(
@@ -114,6 +118,7 @@ type FrontMatter = {
 type Link = {
   url: string
   hint?: string
+  fileOnly?: boolean
   line?: number
   column?: number
 }
@@ -146,5 +151,39 @@ function findLinks(node: NodeFixed): Link[] {
     }
   }
 
+  return links
+}
+
+function isFile(path: string): boolean {
+  try {
+    return Deno.statSync(path).isFile
+  } catch {
+    return false
+  }
+}
+
+/**
+ * Find internal links in JSON-LD script tags
+ * @param markdown
+ * @returns
+ */
+function findJsonLdLinks(markdown: string): Link[] {
+  const links: Link[] = []
+  const re =
+    /<script\s+type=["']application\/ld\+json["']\s*>([\s\S]*?)<\/script>/gi
+  for (const match of markdown.matchAll(re)) {
+    const walk = (value: unknown, key: string) => {
+      if (typeof value === "string") {
+        if (value.startsWith("/")) {
+          links.push({ url: value, hint: `JSON-LD ${key}`, fileOnly: true })
+        }
+      } else if (Array.isArray(value)) {
+        value.forEach((v) => walk(v, key))
+      } else if (value && typeof value === "object") {
+        for (const [k, v] of Object.entries(value)) walk(v, k)
+      }
+    }
+    walk(JSON.parse(match[1]), "")
+  }
   return links
 }

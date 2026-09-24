@@ -62,8 +62,8 @@
     "/works/ushio-rpng-walk/overview_with-person.jpg",
     "/works/ushio-rpng-walk/overview_night.jpg"
   ],
-  "url": "/works/ushio-rpng-walk",
-  "mainEntityOfPage": "/works/ushio-rpng-walk",
+  "url": "/works/ushio-rpng-walk/index.md",
+  "mainEntityOfPage": "/works/ushio-rpng-walk/index.md",
   "mentions": [
     {
       "@type": "Thing",

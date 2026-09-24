@@ -155,7 +155,7 @@ See also: [GitHub](https://github.com/nandenjin)
       "@language": "en"
     }
   ],
-  "url": "/profile",
+  "url": "/profile/index.md",
   "image": [
     "/profile/profile.jpg",
     "/events/caf-ushio/interview_0.jpg"

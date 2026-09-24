@@ -65,8 +65,8 @@ For more details on the course content and outcomes, please see the following ar
     "education"
   ],
   "image": [],
-  "url": "/news/251203_information-design",
-  "mainEntityOfPage": "/news/251203_information-design",
+  "url": "/news/251203_information-design/index.md",
+  "mainEntityOfPage": "/news/251203_information-design/index.md",
   "mentions": []
 }
 </script>

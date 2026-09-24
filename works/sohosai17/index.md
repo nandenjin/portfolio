@@ -46,8 +46,8 @@
     "/works/sohosai17/sohosai17_venue.png",
     "/works/sohosai17/sohosai17_simple-docs.png"
   ],
-  "url": "/works/sohosai17",
-  "mainEntityOfPage": "/works/sohosai17",
+  "url": "/works/sohosai17/index.md",
+  "mainEntityOfPage": "/works/sohosai17/index.md",
   "mentions": [
     {
       "@type": "Thing",
