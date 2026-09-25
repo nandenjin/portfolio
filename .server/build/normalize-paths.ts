@@ -1,24 +1,26 @@
-export function normalizeImagePathsInHtml(
-  html: string,
-  contentType: "works" | "events" | "news" | "profile",
-  id: string,
-): string {
-  // Replace relative image paths in <img> tags
+import { resolveContentLinks } from "./jsonld"
+
+/**
+ * Rewrites repository paths in an item's HTML into public paths.
+ *
+ * - Relative `<img src>` → `/items/<id>/...`
+ * - `<img src="/items/...">` → `/static/items/...`
+ * - `<a href="/items/<slug>/index.md">` → `/<slug>` (see `resolveContentLinks`)
+ */
+export function normalizeImagePathsInHtml(html: string, id: string): string {
   return html
     .replace(
-      /<img([^>]*)\ssrc="(?!https?:\/\/)(?!\/)([^"]+)"/g,
-      (match, attrs, src) => {
-        return `<img${attrs} src="/${contentType}/${id}/${src}"`
-      },
+      // Relative image paths
+      /<img([^>]*)\ssrc="(?!https?:\/\/)(?!\/)(?:\.\/)?([^"]+)"/g,
+      (_match, attrs, src) => `<img${attrs} src="/items/${id}/${src}"`,
     )
     .replace(
-      // Also handle absolute paths that don't start with /static
-      /<img([^>]*)\ssrc="\/(works|events|news)\/([^"]+)"/g,
-      (match, attrs, type, path) => {
-        return `<img${attrs} src="/static/${type}/${path}"`
-      },
+      // Images under items/ are served from /static
+      /<img([^>]*)\ssrc="\/items\/([^"]+)"/g,
+      (_match, attrs, path) => `<img${attrs} src="/static/items/${path}"`,
     )
-    .replace(/<img([^>]*)\ssrc="\/profile\/([^"]+)"/g, (match, attrs, path) => {
-      return `<img${attrs} src="/static/profile/${path}"`
-    })
+    .replace(
+      /(<a\b[^>]*\shref=")(\/items\/[^"]+)"/g,
+      (_match, pre, href) => `${pre}${resolveContentLinks(href)}"`,
+    )
 }

@@ -62,7 +62,7 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
       if (fm.attrs.relaeted_works) {
         links.push(
           ...fm.attrs.relaeted_works.map((id) => ({
-            url: `/works/${id}`, // Convert from work id to internal path
+            url: `/items/${id}`, // Convert from item id to internal path
             hint: "related_works",
           })),
         )
@@ -89,7 +89,7 @@ async function hasInvalidLink(filename: string): Promise<boolean> {
     )
 
     // Check if the file exists
-    // JSON-LD must point to files (e.g. /works/foo/index.md), not directories
+    // JSON-LD must point to files (e.g. /items/foo/index.md), not directories
     if (link.fileOnly ? isFile(path) : existsSync(path)) {
       consola.trace(`OK: ${link.url}`)
     } else {

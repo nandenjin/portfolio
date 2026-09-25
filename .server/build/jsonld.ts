@@ -80,21 +80,20 @@ function isJsonLdBase(value: unknown): value is JsonLdBase {
   )
 }
 
-/** `/events/foo/index.md` or `/profile/index.md` (optionally with `?query` / `#hash`) */
-const CONTENT_FILE_RE =
-  /^\/(works|events|news|profile)\/(?:([^/?#]+)\/)?index\.md([?#].*)?$/
+/** `/items/foo/index.md` or `/items/foo/` (optionally with `?query` / `#hash`) */
+const CONTENT_FILE_RE = /^\/items\/([^/?#]+)\/(?:index\.md)?([?#].*)?$/
 
 /**
- * Resolves links to content files (`/events/foo/index.md`), which are valid
- * inside the repository, into resource paths (`/events/foo`), which are valid
- * on the API and the site.
+ * Resolves links to content files (`/items/foo/index.md`), which are valid
+ * inside the repository, into resource paths (`/foo`), which are valid on the
+ * API and the site.
  */
 export function resolveContentLinks<T>(value: T): T {
   if (typeof value === "string") {
     const m = CONTENT_FILE_RE.exec(value)
     if (!m) return value
-    const [, type, id, suffix] = m
-    return `/${type}${id ? `/${id}` : ""}${suffix ?? ""}` as T
+    const [, id, suffix] = m
+    return `/${id}${suffix ?? ""}` as T
   }
   if (Array.isArray(value)) {
     return value.map((item) => resolveContentLinks(item)) as T

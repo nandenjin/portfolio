@@ -205,7 +205,7 @@ function normalizeInternalAssetPath(value: string, key?: string): string {
     return value
   }
 
-  const internalContentPath = /^\/(works|events|news|profile)\//.test(value)
+  const internalContentPath = value.startsWith("/items/")
   if (!internalContentPath) {
     return value
   }

@@ -1,26 +1,28 @@
 import { writeFile } from "node:fs/promises"
 import { isDeepStrictEqual } from "node:util"
-import type {
-  ContentBundle,
-  Event,
-  News,
-  Profile,
-  Work,
-} from "../src/types/content"
+import type { ContentBundle, Item } from "../src/types/content"
 
 type JsonObject = Record<string, unknown>
 
 /**
- * Reads a date-like string property from an item's JSON-LD.
+ * JSON-LD properties used as an item's sort date, in order of preference.
+ * Events carry `startDate`; articles and works carry `datePublished`.
+ */
+const DATE_KEYS = ["startDate", "datePublished"]
+
+/**
+ * Reads the sort date from an item's JSON-LD.
  *
  * @param item - Content item holding the JSON-LD.
- * @param key - JSON-LD property name (e.g. `datePublished`, `startDate`).
- * @returns The string value, or `null` if the property is missing or not a string.
+ * @returns The first string value among `DATE_KEYS`, or `null` if none.
  */
-function dateOf(item: { jsonld: unknown }, key: string): string | null {
+function dateOf(item: { jsonld: unknown }): string | null {
   const jsonld = item.jsonld as JsonObject | null
-  const value = jsonld?.[key]
-  return typeof value === "string" ? value : null
+  for (const key of DATE_KEYS) {
+    const value = jsonld?.[key]
+    if (typeof value === "string") return value
+  }
+  return null
 }
 
 /**
@@ -31,16 +33,14 @@ function dateOf(item: { jsonld: unknown }, key: string): string | null {
  * strings, which is correct for ISO 8601 (`YYYY-MM-DD`).
  *
  * @param items - Items to sort. The input array is not mutated.
- * @param key - JSON-LD property used as the sort key.
  * @returns A new, sorted array.
  */
 function sortByDateDesc<T extends { id: string; jsonld: unknown }>(
   items: T[],
-  key: string,
 ): T[] {
   return [...items].sort((a, b) => {
-    const da = dateOf(a, key)
-    const db = dateOf(b, key)
+    const da = dateOf(a)
+    const db = dateOf(b)
     if (da !== db) {
       // Undated items go last (same as NULLs in `ORDER BY ... DESC` on SQLite)
       if (da === null) return 1
@@ -61,26 +61,15 @@ function sortByDateDesc<T extends { id: string; jsonld: unknown }>(
  * commit always generates the same module.
  *
  * @param outPath - Destination file path of the generated module.
- * @param works - Parsed works.
- * @param events - Parsed events.
- * @param news - Parsed news articles.
- * @param profile - Parsed profile.
+ * @param items - Parsed items.
  * @throws If the serialized payload does not round-trip to the input content.
  */
 export async function emitContent(
   outPath: string,
-  works: Work[],
-  events: Event[],
-  news: News[],
-  profile: Profile,
+  items: Item[],
 ): Promise<void> {
-  // Lists are stored pre-sorted so the runtime only has to slice them
-  const bundle: ContentBundle = {
-    works: sortByDateDesc(works, "datePublished"),
-    events: sortByDateDesc(events, "startDate"),
-    news: sortByDateDesc(news, "datePublished"),
-    profile,
-  }
+  // The list is stored pre-sorted so the runtime only has to slice it
+  const bundle: ContentBundle = { items: sortByDateDesc(items) }
 
   // Double stringify: the inner call yields the JSON, the outer one turns it
   // into a correctly escaped JS string literal (quotes, backslashes, newlines,
@@ -103,7 +92,5 @@ export async function emitContent(
   }
 
   await writeFile(outPath, source)
-  console.log(
-    `Content emitted: ${works.length} works, ${events.length} events, ${news.length} news, profile`,
-  )
+  console.log(`Content emitted: ${items.length} items`)
 }

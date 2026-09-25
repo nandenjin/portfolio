@@ -31,8 +31,8 @@ const cache = new Map<string, Promise<ImageVariants | null>>()
 /**
  * Reads the intrinsic size of a static asset and works out its `srcset` widths.
  *
- * @param projectRoot - Repository root holding `works/`, `events/`, ...
- * @param staticPath - Public path, e.g. `/static/works/foo/a.png` (percent-encoding allowed).
+ * @param projectRoot - Repository root holding `items/`
+ * @param staticPath - Public path, e.g. `/static/items/foo/a.png` (percent-encoding allowed).
  * @returns `null` when the image should be served as-is: svg/gif, missing file,
  *   or unreadable header. Never throws, so one broken image cannot fail the build.
  */
@@ -112,7 +112,7 @@ export async function addImageVariantsToHtml(
 }
 
 /**
- * Expands `image: ["/works/x/a.png", ...]` in a JSON-LD object into
+ * Expands `image: ["/items/x/a.png", ...]` in a JSON-LD object into
  * `ImageObject`s carrying the intrinsic size and a `srcset` property.
  * `contentUrl` is already the `/static/...` path; the request-time layer
  * (`src/shared/jsonld.ts`) absolutizes it and turns `srcset` into

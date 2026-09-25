@@ -1,10 +1,7 @@
 import { join, dirname } from "node:path"
 import { fileURLToPath } from "node:url"
 import { mkdir } from "node:fs/promises"
-import { parseWorks } from "./models/works/parser"
-import { parseEvents } from "./models/events/parser"
-import { parseNews } from "./models/news/parser"
-import { parseProfile } from "./models/profile/parser"
+import { parseItems } from "./parser"
 import { emitContent } from "./content-emit"
 import { copyAssets } from "./copy-assets"
 import { normalizeImagePathsInHtml } from "./normalize-paths"
@@ -17,13 +14,9 @@ const __dirname = dirname(__filename)
 
 async function prepareItem<
   T extends { id: string; jsonld: JsonLdBase; body_html: string },
->(
-  item: T,
-  contentType: "works" | "events" | "news" | "profile",
-  projectRoot: string,
-): Promise<T> {
+>(item: T, projectRoot: string): Promise<T> {
   const bodyHtml = await addImageVariantsToHtml(
-    normalizeImagePathsInHtml(item.body_html, contentType, item.id),
+    normalizeImagePathsInHtml(item.body_html, item.id),
     projectRoot,
   )
   const jsonld = await expandJsonLdImages(
@@ -52,30 +45,18 @@ async function build() {
 
   // 2. Parse content
   console.log("\n2. Parsing markdown files...")
-  let works = await parseWorks(projectRoot)
-  let events = await parseEvents(projectRoot)
-  let news = await parseNews(projectRoot)
-  let profile = await parseProfile(projectRoot)
+  let items = await parseItems(projectRoot)
 
-  console.log(
-    `Parsed ${works.length} works, ${events.length} events, ${news.length} news, profile`,
-  )
+  console.log(`Parsed ${items.length} items`)
 
   // 3. Normalize paths and attach image variants (srcset / intrinsic size)
   console.log("\n3. Normalizing paths and image variants...")
-  works = await Promise.all(
-    works.map((w) => prepareItem(w, "works", projectRoot)),
-  )
-  events = await Promise.all(
-    events.map((e) => prepareItem(e, "events", projectRoot)),
-  )
-  news = await Promise.all(news.map((n) => prepareItem(n, "news", projectRoot)))
-  profile = await prepareItem(profile, "profile", projectRoot)
+  items = await Promise.all(items.map((i) => prepareItem(i, projectRoot)))
 
   // 4. Emit content module
   console.log("\n4. Emitting content module...")
   const contentPath = join(rootDir, "src", "content.gen.ts")
-  await emitContent(contentPath, works, events, news, profile)
+  await emitContent(contentPath, items)
 
   // 5. Copy assets
   console.log("\n5. Copying assets...")
