@@ -9,7 +9,7 @@ Kazumi Inada: Works and News. Visit [https://www.nandenjin.com](https://www.nand
 
 Kazumi Inada is an artist, a technical director and a doctoral student of University of Tsukuba, Japan. See also:
 
-- [`nandenjin.com/profile`](https://www.nandenjin.com/profile) (originally [`/profile/index.md`](/profile/index.md))
+- [`nandenjin.com/about`](https://www.nandenjin.com/about) (originally [`/items/about/index.md`](/items/about/index.md))
 - [GitHub Profile](https://github.com/nandenjin)
 
 ## Issues and Pull Requests
@@ -20,4 +20,4 @@ Issues and Pull Requests for reports of typo or invalid information are welcome.
 
 Copyrights (c) Kazumi Inada all rights reserved
 
-All contents in this repository are my work guarded by copyright. If you want to use contents in this repository, please contact me from [my portfolio website](https://www.nandenjin.com/profile).
+All contents in this repository are my work guarded by copyright. If you want to use contents in this repository, please contact me from [my portfolio website](https://www.nandenjin.com/about).
