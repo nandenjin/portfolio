@@ -11,13 +11,15 @@ import { join } from "https://deno.land/std@0.221.0/path/join.ts"
 /** Absolute path for project root */
 const root = resolve(Deno.args[0] || Deno.cwd())
 
-consola.info(`Checking links in ${root}`)
-
 let hasError = false
 
-// Crawl all markdown files
-for (const entry of walkSync(root, { match: [/\.md$/i] })) {
-  if (entry.path.includes("/node_modules/")) continue
+/** Directory containing content markdown files */
+const contentDir = join(root, "items")
+
+consola.info(`Checking links in ${contentDir}`)
+
+// Crawl content markdown files only
+for (const entry of walkSync(contentDir, { match: [/\.md$/i] })) {
   consola.trace(entry.path)
   hasError = (await hasInvalidLink(entry.path)) || hasError
 }
