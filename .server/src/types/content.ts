@@ -1,7 +1,7 @@
 export interface JsonLdPropertyValue {
   "@type": "PropertyValue"
   name: string
-  value: string
+  value: string | boolean
 }
 
 export interface JsonLdBase {
@@ -25,7 +25,10 @@ export interface Item {
  * All content baked into the Worker at build time (`src/content.gen.ts`).
  *
  * `items` is pre-sorted newest first (`startDate`, else `datePublished`).
+ * `featuredOrder` holds the ids of the same items with the featured works
+ * (`works.md`) first, in their curated order, and the rest newest first.
  */
 export interface ContentBundle {
   items: Item[]
+  featuredOrder: string[]
 }

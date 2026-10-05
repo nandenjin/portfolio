@@ -24,6 +24,9 @@ for (const entry of walkSync(contentDir, { match: [/\.md$/i] })) {
   hasError = (await hasInvalidLink(entry.path)) || hasError
 }
 
+// The Works curation, named explicitly so that no other root file is checked
+hasError = (await hasInvalidLink(join(root, "works.md"))) || hasError
+
 if (hasError) {
   Deno.exit(1)
 } else {

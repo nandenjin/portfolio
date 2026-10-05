@@ -1,20 +1,37 @@
-import { items, indexById, paginate } from "../../shared/content"
+import { items, featuredOrder, indexById, paginate } from "../../shared/content"
 import type { Item } from "../../types/content"
 import type { QueryResult, PaginationParams } from "../../types/api"
 
-interface ListParams extends PaginationParams {}
+/**
+ * Orders of the item list:
+ * - `featured`: featured works (`works.md`) first, then the rest newest first
+ * - `date`: newest first (`startDate`, else `datePublished`)
+ */
+export const ORDERS = ["featured", "date"] as const
+export type Order = (typeof ORDERS)[number]
+
+interface ListParams extends PaginationParams {
+  order: Order
+}
 
 /** Lookup table for items, built once at module load. */
 const itemsById = indexById(items)
 
+/** Items in each order, built once at module load. */
+const itemsByOrder: Record<Order, Item[]> = {
+  featured: featuredOrder.map((id) => itemsById.get(id) as Item),
+  date: items,
+}
+
 /**
- * Lists items, newest first.
+ * Lists items.
  *
- * @param params - Pagination (`limit` up to 100, default 50; `offset`).
+ * @param params - Order, and pagination (`limit` up to 100, default 50;
+ *   `offset`).
  * @returns The requested page and the total count.
  */
 export function getItems(params: ListParams): QueryResult<Item> {
-  return paginate(items, params)
+  return paginate(itemsByOrder[params.order], params)
 }
 
 /**

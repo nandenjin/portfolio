@@ -1,17 +1,23 @@
 import { Hono } from "hono"
-import { getItems, getItemById } from "./queries"
+import { getItems, getItemById, ORDERS, type Order } from "./queries"
 import { setListHeaders } from "../../shared/response"
-import { notFound } from "../../shared/error"
+import { badRequest, notFound } from "../../shared/error"
 import { toApiJsonLd } from "../../shared/jsonld"
 import { parsePagination } from "../../shared/pagination"
 
 const router = new Hono()
 
-// GET / - every item, newest first
+// GET / - every item, featured works first (`?order=featured`, the default)
+// or newest first (`?order=date`)
 router.get("/", (c) => {
   const { limit, offset } = parsePagination((name) => c.req.query(name))
 
-  const result = getItems({ limit, offset })
+  const order = c.req.query("order") ?? "featured"
+  if (!isOrder(order)) {
+    return badRequest(c, `order must be one of: ${ORDERS.join(", ")}`)
+  }
+
+  const result = getItems({ order, limit, offset })
   const lang = c.req.query("lang")
   const origin = new URL(c.req.url).origin
 
@@ -45,5 +51,9 @@ router.get("/:id", (c) => {
     }),
   )
 })
+
+function isOrder(value: string): value is Order {
+  return (ORDERS as readonly string[]).includes(value)
+}
 
 export default router

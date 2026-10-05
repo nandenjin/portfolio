@@ -2,13 +2,16 @@ import bundle from "../content.gen"
 import type { QueryResult, PaginationParams } from "../types/api"
 
 // Content is baked into the bundle at build time (see build/content-emit.ts).
-// The list is already sorted; here we only build id lookups once per isolate.
+// The lists are already sorted; here we only build id lookups once per isolate.
 //
 // The exported objects are shared across requests. Never mutate them: derive
 // new values instead (as `toApiJsonLd` does).
 
 /** All items, newest first (`startDate`, else `datePublished`). */
 export const items = bundle.items
+
+/** Ids of all items, featured works first (see `ContentBundle`). */
+export const featuredOrder = bundle.featuredOrder
 
 /**
  * Builds an `id` lookup table for a content list.

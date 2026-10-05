@@ -17,6 +17,7 @@ portfolio/
 │   └── slug/
 │       ├── index.md    # Page content + JSON-LD
 │       └── *.jpg       # Page assets
+├── works.md            # Works shown in the Works list, in order
 ├── .server/            # JSON-LD API (build + Worker)
 ├── .scripts/           # Validation scripts
 │   └── check-links.ts  # Link validation script
@@ -40,6 +41,23 @@ chooses its layout and list (Works / Events / News) from it:
 | `Person`                                                           | About    | -               |
 
 Thematic grouping is done with `keywords` (tags).
+
+### The Works list (`works.md`)
+
+`works.md` at the repository root is a bulleted list of links to works
+(`/items/<slug>/index.md`). It decides what the Works list shows:
+
+- **Featured**: works in `works.md`, shown in the order of the list
+- **Unlisted**: works not in `works.md`. They are left out of the Works list but
+  still have their own page and stay in the sitemap
+
+The API returns items in this order by default (`GET /`, or `?order=featured`):
+the works in `works.md` first, then everything else newest first. `?order=date`
+returns everything newest first. Unlisted works carry
+`additionalProperty` `{ "name": "listed", "value": false }` in the API response.
+
+The build fails if `works.md` links to something that is not an existing work,
+or lists a work twice. It logs the unlisted works.
 
 ### Slugs
 
@@ -116,7 +134,8 @@ GitHub.
 
 ### Link Validation
 
-`.scripts/check-links.ts` validates all internal links in Markdown files:
+`.scripts/check-links.ts` validates all internal links in the Markdown files in
+`items/` and in `works.md`:
 
 - Links and images in the body must exist
 - Paths in JSON-LD must point to existing files (not directories)
@@ -143,7 +162,8 @@ version `3.7.4`). `simple-git-hooks` and `lint-staged` format staged files on co
 2. Create `items/<slug>/index.md` with the body and the JSON-LD
 3. Place assets in `items/<slug>/`
 4. Link related items (e.g. a news article to its event, an event to its works via `workFeatured`)
-5. Validate links and commit
+5. For a work to appear in the Works list, add it to `works.md` at the position it should take
+6. Validate links and commit
 
 ### CI
 
@@ -165,6 +185,7 @@ version `3.7.4`). `simple-git-hooks` and `lint-staged` format staged files on co
 - [ ] Internal links and images use file paths (`/items/slug/index.md`, `/items/slug/image.jpg`)
 - [ ] Date format is correct
 - [ ] Tags are appropriate
+- [ ] A work that should appear in the Works list is in `works.md`
 
 ## Copyright Notice
 

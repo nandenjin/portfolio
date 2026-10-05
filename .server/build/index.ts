@@ -7,6 +7,7 @@ import { copyAssets } from "./copy-assets"
 import { normalizeImagePathsInHtml } from "./normalize-paths"
 import { resolveContentLinks, withBodyHtmlAdditionalProperty } from "./jsonld"
 import { addImageVariantsToHtml, expandJsonLdImages } from "./image-variants"
+import { isWork, parseFeatured, withUnlisted } from "./curation"
 import type { JsonLdBase } from "../src/types/content"
 
 const __filename = fileURLToPath(import.meta.url)
@@ -53,13 +54,24 @@ async function build() {
   console.log("\n3. Normalizing paths and image variants...")
   items = await Promise.all(items.map((i) => prepareItem(i, projectRoot)))
 
-  // 4. Emit content module
-  console.log("\n4. Emitting content module...")
-  const contentPath = join(rootDir, "src", "content.gen.ts")
-  await emitContent(contentPath, items)
+  // 4. Read featured works from works.md; the other works are unlisted
+  console.log("\n4. Reading featured works...")
+  const featured = await parseFeatured(projectRoot, items)
+  const featuredSet = new Set(featured)
+  const unlisted = items.filter((i) => isWork(i) && !featuredSet.has(i.id))
+  items = items.map((i) => (unlisted.includes(i) ? withUnlisted(i) : i))
+  console.log(`Featured: ${featured.length} works`)
+  console.log(
+    `Unlisted (not in works.md): ${unlisted.map((i) => i.id).join(", ") || "none"}`,
+  )
 
-  // 5. Copy assets
-  console.log("\n5. Copying assets...")
+  // 5. Emit content module
+  console.log("\n5. Emitting content module...")
+  const contentPath = join(rootDir, "src", "content.gen.ts")
+  await emitContent(contentPath, items, featured)
+
+  // 6. Copy assets
+  console.log("\n6. Copying assets...")
   await copyAssets(projectRoot, publicDir)
 
   console.log("\n✓ Build complete!")

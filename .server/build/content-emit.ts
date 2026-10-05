@@ -62,14 +62,24 @@ function sortByDateDesc<T extends { id: string; jsonld: unknown }>(
  *
  * @param outPath - Destination file path of the generated module.
  * @param items - Parsed items.
+ * @param featured - Ids of the featured works, in display order.
  * @throws If the serialized payload does not round-trip to the input content.
  */
 export async function emitContent(
   outPath: string,
   items: Item[],
+  featured: string[],
 ): Promise<void> {
-  // The list is stored pre-sorted so the runtime only has to slice it
-  const bundle: ContentBundle = { items: sortByDateDesc(items) }
+  // The lists are stored pre-sorted so the runtime only has to slice them
+  const sorted = sortByDateDesc(items)
+  const featuredSet = new Set(featured)
+  const bundle: ContentBundle = {
+    items: sorted,
+    featuredOrder: [
+      ...featured,
+      ...sorted.map((item) => item.id).filter((id) => !featuredSet.has(id)),
+    ],
+  }
 
   // Double stringify: the inner call yields the JSON, the outer one turns it
   // into a correctly escaped JS string literal (quotes, backslashes, newlines,
