@@ -9,8 +9,8 @@ jobs:
   links:
     runs-on: ubuntu-latest
     steps:
-      - uses: denoland/setup-deno@v1
+      - uses: denoland/setup-deno@v2
         with:
-          deno-version: v1.x
+          deno-version: v2.x
       - uses: actions/checkout@v4
       - run: deno run --allow-read ./.scripts/check-links.ts .
