@@ -21,6 +21,6 @@
     "markdown-it": "14.3.2",
     "tsx": "4.23.15",
     "typescript": "5.9.3",
-    "wrangler": "4.135.0"
+    "wrangler": "4.147.0"
   }
 }
