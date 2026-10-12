@@ -19,7 +19,7 @@
     "@types/node": "25.9.9",
     "image-size": "2.0.4",
     "markdown-it": "14.3.2",
-    "tsx": "4.21.0",
+    "tsx": "4.23.15",
     "typescript": "5.9.3",
     "wrangler": "4.135.0"
   }
